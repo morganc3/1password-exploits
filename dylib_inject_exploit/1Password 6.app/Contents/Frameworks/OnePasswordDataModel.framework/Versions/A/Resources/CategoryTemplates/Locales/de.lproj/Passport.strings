@@ -1,0 +1,20 @@
+"__title__" = "Reisepass";
+"__pluralTitle__" = "Reisepässe";
+"__description__" = "Von einer Regierungsbehörde ausgestellter Reisepass.";
+
+"type" = "Typ";
+"fullname" = "Vollständiger Name";
+"number" = "Nummer";
+"birthdate" = "Geburtsdatum";
+"birthplace" = "Geburtsort";
+"nationality" = "Staatsangehörigkeit";
+"code" = "Code";
+"sex" = "Geschlecht";
+"issuing_country" = "Ausstellungsland";
+"issuing_authority" = "Ausstellende Behörde";
+"issue_date" = "Ausgestellt am";
+"expiry_date" = "Gültigkeitsdatum";
+
+"menu.sex." = "";
+"menu.sex.male" = "Männlich";
+"menu.sex.female" = "Weiblich";

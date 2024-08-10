@@ -1,0 +1,18 @@
+"__title__" = "無線路由器";
+"__pluralTitle__" = "無線路由器";
+"__description__" = "AirePort Extreme 或其他無線路由器的帳號資訊";
+
+"network_name" = "網路名稱";
+"name" = "基地台名稱";
+"password" = "基地台密碼";
+"server" = "伺服器 / IP 位址";
+"airport_id" = "AirPort ID";
+"wireless_security" = "無線加密方式";
+"wireless_password" = "無線網路密碼";
+"disk_password" = "附加儲存裝置密碼";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "無特殊安全設定";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 Personal";
+"menu.wireless_security.wpa2e" = "WPA2 Enterprise";

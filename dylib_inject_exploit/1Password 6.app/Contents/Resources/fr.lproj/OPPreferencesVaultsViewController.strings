@@ -1,0 +1,26 @@
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "J6Q-ZL-ZIn"; */
+"J6Q-ZL-ZIn.title" = "Élément 2";
+
+/* Class = "NSTextFieldCell"; title = "This vault is where new items will be saved by default including auto-saved Logins and generated passwords."; ObjectID = "OZD-6S-z7i"; */
+"OZD-6S-z7i.title" = "Ce coffre est le coffre où les nouveaux éléments seront enregistrés par défaut, y compris les éléments autosauvés et les mots de passe générés.";
+
+/* Class = "NSTextFieldCell"; title = "Vaults Included"; ObjectID = "Sga-8Z-cVr"; */
+"Sga-8Z-cVr.title" = "Coffres inclus";
+
+/* Class = "NSTextFieldCell"; title = "Items from the selected vaults will be shown in All Vaults."; ObjectID = "TRj-Vq-hgg"; */
+"TRj-Vq-hgg.title" = "Les éléments des coffres sélectionnés seront affichés dans tous les coffres.";
+
+/* Class = "NSTextFieldCell"; title = "Vault for Saving"; ObjectID = "chI-xz-Iuf"; */
+"chI-xz-Iuf.title" = "Coffre de sauvegarde";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gLz-TO-Cu8"; */
+"gLz-TO-Cu8.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "pEg-lb-tat"; */
+"pEg-lb-tat.title" = "Élément 1";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "rW3-nK-6Wf"; */
+"rW3-nK-6Wf.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "xV8-pT-JX9"; */
+"xV8-pT-JX9.title" = "Élément 3";

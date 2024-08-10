@@ -1,0 +1,18 @@
+"__title__" = "Kablosuz Yönlendirici";
+"__pluralTitle__" = "Kablosuz yönlendiriciler";
+"__description__" = "AirPort Extreme cihazınız yada Wireless Modeminiz için hesap bilgisi.";
+
+"network_name" = "ağ adı";
+"name" = "Ana istasyon adı";
+"password" = "Ana istasyon parolası";
+"server" = "Sunucu / IP adresi";
+"airport_id" = "AirPort Kimliği";
+"wireless_security" = "Kablosuz güvenlik";
+"wireless_password" = "Kablosuz ağı şifresi";
+"disk_password" = "Harici Disk Parolası";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Güvenlik yok";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 Kişisel";
+"menu.wireless_security.wpa2e" = "WPA2 Kurumsal";

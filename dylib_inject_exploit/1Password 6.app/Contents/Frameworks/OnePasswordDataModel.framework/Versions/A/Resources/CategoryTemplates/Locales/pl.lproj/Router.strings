@@ -1,0 +1,18 @@
+"__title__" = "Router bezprzewodowy";
+"__pluralTitle__" = "Router bezprzewodowy";
+"__description__" = "Informacje o koncie użytkownika routera AirPort Extreme lub innych routerów bezprzewodowych.";
+
+"network_name" = "Nazwa sieci";
+"name" = "Nazwa sieci";
+"password" = "Hasło do stacji bazowej";
+"server" = "Serwer / adres IP";
+"airport_id" = "ID AirPort";
+"wireless_security" = "Zabezpieczenia sieci bezprzewodowej";
+"wireless_password" = "Hasło sieci bezprzewodowej";
+"disk_password" = "Hasło dołączonego dysku";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Bez zabezpieczeń";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 Personal";
+"menu.wireless_security.wpa2e" = "WPA2 Enterprise";

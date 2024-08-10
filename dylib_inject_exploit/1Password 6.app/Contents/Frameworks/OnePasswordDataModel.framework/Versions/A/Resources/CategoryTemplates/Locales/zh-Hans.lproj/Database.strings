@@ -1,0 +1,25 @@
+"__title__" = "数据库";
+"__pluralTitle__" = "数据库";
+"__description__" = "数据库连接信息";
+
+"hostname" = "服务器";
+"port" = "端口";
+"database" = "数据库";
+"database_type" = "类型";
+"username" = "用户名称";
+"password" = "密码";
+"sid" = "SID";
+"alias" = "别名";
+"options" = "连接选项";
+
+"menu.database_type." = "";
+"menu.database_type.db2" = "DB2";
+"menu.database_type.filemaker" = "FileMaker";
+"menu.database_type.msaccess" = "Microsoft Access";
+"menu.database_type.mssql" = "MS SQL Server";
+"menu.database_type.mysql" = "MySQL";
+"menu.database_type.oracle" = "Oracle";
+"menu.database_type.postresql" = "PostgreSQL";
+"menu.database_type.postgresql" = "PostgreSQL";
+"menu.database_type.sqlite" = "SQLite";
+"menu.database_type.other" = "其他";

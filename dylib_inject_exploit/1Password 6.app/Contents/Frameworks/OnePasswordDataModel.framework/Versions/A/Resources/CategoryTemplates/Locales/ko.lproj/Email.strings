@@ -1,0 +1,56 @@
+"__title__" = "메일 계정";
+"__pluralTitle__" = "메일 계정";
+"__description__" = "메일 계정 정보";
+"pop_username" = "사용자명";
+"pop_password" = "비밀번호";
+"pop_server" = "서버";
+"pop_type" = "유형";
+"pop_port" = "포트 번호";
+"pop_security" = "보안";
+"pop_authentication" = "인증 방법";
+"set.SMTP" = "SMTP";
+"smtp_username" = "사용자명";
+"smtp_password" = "비밀번호";
+"smtp_server" = "SMTP 서버";
+"smtp_type" = "유형";
+"smtp_port" = "포트 번호";
+"smtp_security" = "보안";
+"smtp_authentication" = "인증 방법";
+"set.Contact Information" = "Contact Information";
+"provider" = "제공자";
+"provider_website" = "제공자 웹사이트";
+"phone_tollfree" = "전화번호 (수신자 부담)";
+"phone_local" = "전화번호 (국내)";
+
+"menu.pop_type." = "";
+"menu.pop_type.pop3" = "POP3";
+"menu.pop_type.imap" = "IMAP";
+"menu.pop_type.either" = "POP3 및 IMAP";
+
+"menu.pop_security." = "";
+"menu.pop_security.none" = "없음";
+"menu.pop_security.SSL" = "SSL";
+"menu.pop_security.TLS" = "TLS";
+
+"menu.pop_authentication." = "";
+"menu.pop_authentication.none" = "없음";
+"menu.pop_authentication.password" = "비밀번호";
+"menu.pop_authentication.md5_challenge_response" = "MD5 문답형";
+"menu.pop_authentication.kerberized_pop" = "케르베로스 POP (KPOP)";
+"menu.pop_authentication.kerberos_v4" = "케르베로스 버전 4";
+"menu.pop_authentication.kerberos_v5" = "케르베로스 버전 5 (GSSAPI)";
+"menu.pop_authentication.ntlm" = "NTLM";
+
+"menu.smtp_security." = "";
+"menu.smtp_security.none" = "없음";
+"menu.smtp_security.SSL" = "SSL";
+"menu.smtp_security.TLS" = "TLS";
+
+"menu.smtp_authentication." = "";
+"menu.smtp_authentication.none" = "없음";
+"menu.smtp_authentication.password" = "비밀번호";
+"menu.smtp_authentication.md5_challenge_response" = "MD5 문답형";
+"menu.smtp_authentication.kerberized_pop" = "케르베로스 POP (KPOP)";
+"menu.smtp_authentication.kerberos_v4" = "케르베로스 버전 4";
+"menu.smtp_authentication.kerberos_v5" = "케르베로스 버전 5 (GSSAPI)";
+"menu.smtp_authentication.ntlm" = "NTLM";

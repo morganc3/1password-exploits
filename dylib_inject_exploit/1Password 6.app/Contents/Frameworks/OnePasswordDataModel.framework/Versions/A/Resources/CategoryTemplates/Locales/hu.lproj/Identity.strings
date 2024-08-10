@@ -1,0 +1,46 @@
+"__title__" = "Személyiazonosító";
+"__pluralTitle__" = "Személyes adat";
+"__description__" = "Személyes adat";
+
+"set.name" = "Azonosítása";
+"firstname" = "családnév";
+"initial" = "kezdeti";
+"lastname" = "utó név";
+"sex" = "neme";
+"birthdate" = "születési dátum";
+"occupation" = "foglalkozás";
+"company" = "cég";
+"department" = "osztály";
+"jobtitle" = "beosztás";
+
+"set.internet" = "Internet részletek";
+"username" = "felhasználó név";
+"reminderq" = "emlékeztető kérdés";
+"remindera" = "emlékeztető válasz";
+"email" = "e-mailben";
+"website" = "weboldal";
+"icq" = "ICQ";
+"skype" = "skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "fórum bejegyzés";
+
+"set.address" = "Cím";
+"address" = "cím";
+"address1" = "címsor 1";
+"address2" = "cím sor 2";
+"city" = "város/város/városrész";
+"state" = "állam/megye";
+"zip" = "irányítószám";
+"country" = "ország";
+"location" = "hely";
+"phone" = "telefon";
+"defphone" = "alapértelmezett telefon";
+"homephone" = "otthoni";
+"cellphone" = "mobil";
+"busphone" = "üzleti";
+
+"menu.sex." = "";
+"menu.sex.male" = "Férfi";
+"menu.sex.female" = "Nő";

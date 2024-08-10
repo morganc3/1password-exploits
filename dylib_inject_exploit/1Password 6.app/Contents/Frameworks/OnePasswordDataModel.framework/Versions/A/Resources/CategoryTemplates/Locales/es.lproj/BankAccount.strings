@@ -1,0 +1,23 @@
+"__title__" = "Cuenta bancaria";
+"__pluralTitle__" = "Cuentas bancarias";
+"__description__" = "Información de cuenta bancaria.";
+
+"bankName" = "Nombre del banco";
+"owner" = "Nombre del titular de la cuenta";
+"accountType" = "Tipo";
+"routingNo" = "Número de ruta";
+"accountNo" = "Número de cuenta";
+"swift" = "Código SWIFT";
+"iban" = "Número IBAN";
+"set.branchInfo" = "Información de sucursal";
+"branchPhone" = "Teléfono";
+"branchAddress" = "Dirección";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "Cajero automático";
+"menu.accountType.checking" = "Cuenta corriente";
+"menu.accountType.savings" = "Cuenta de ahorros";
+"menu.accountType.loc" = "Línea de crédito";
+"menu.accountType.money_market" = "Mercado monetario";
+"menu.accountType.other" = "Otros";

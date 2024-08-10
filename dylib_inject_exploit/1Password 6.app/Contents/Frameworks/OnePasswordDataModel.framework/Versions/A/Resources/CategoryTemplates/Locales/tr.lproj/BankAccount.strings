@@ -1,0 +1,23 @@
+"__title__" = "Bank Account";
+"__pluralTitle__" = "Bank Accounts";
+"__description__" = "Bank Account information.";
+
+"bankName" = "Bank Name";
+"owner" = "Name on Account";
+"accountType" = "Tür";
+"routingNo" = "Routing Number";
+"accountNo" = "Account Number";
+"swift" = "SWIFT Code";
+"iban" = "IBAN Number";
+"set.branchInfo" = "Branch Information";
+"branchPhone" = "Telefon";
+"branchAddress" = "Address";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "ATM";
+"menu.accountType.checking" = "Checking";
+"menu.accountType.savings" = "Savings";
+"menu.accountType.loc" = "Line of Credit";
+"menu.accountType.money_market" = "Money Market";
+"menu.accountType.other" = "Diğer";

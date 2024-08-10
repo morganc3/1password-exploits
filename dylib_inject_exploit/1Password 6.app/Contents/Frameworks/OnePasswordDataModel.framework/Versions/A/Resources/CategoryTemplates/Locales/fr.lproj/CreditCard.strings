@@ -1,0 +1,40 @@
+"__title__" = "Carte de crédit";
+"__pluralTitle__" = "Cartes de crédit";
+"__description__" = "Informations de carte de crédit";
+
+"set.contactInfo" = "Coordonnées";
+"set.details" = "Détails complémentaires";
+
+"cardholder" = "Nom du titulaire de la carte";
+"type" = "Type";
+"ccnum" = "Numéro";
+"cvv" = "N° de vérification";
+"expiry" = "Date d'expiration";
+"validFrom" = "Valide à partir de";
+"bank" = "Banque émettrice";
+"phoneLocal" = "Téléphone (local)";
+"phoneTollFree" = "téléphone (numéro vert)";
+"phoneIntl" = "Téléphone (international)";
+"website" = "Site Web";
+"pin" = "Code confidentiel";
+"creditLimit" = "Plafond de crédit";
+"cashLimit" = "Limite de retrait d'argent";
+"interest" = "Taux d'intérêt";
+"issuenumber" = "Numéro d'émission";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "Laser";
+"menu.type.unionpay" = "UnionPay";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

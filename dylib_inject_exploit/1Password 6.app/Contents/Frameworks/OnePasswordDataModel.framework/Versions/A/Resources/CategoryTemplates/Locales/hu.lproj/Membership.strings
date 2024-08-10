@@ -1,0 +1,11 @@
+"__title__" = "Tagság";
+"__pluralTitle__" = "Tagság";
+"__description__" = "Közösségi vagy Klub tagság";
+"org_name" = "csoport";
+"phone" = "telefon";
+"website" = "weboldal";
+"member_name" = "tag neve";
+"member_since" = "tagság kezdete";
+"expiry_date" = "lejárati idő";
+"membership_no" = "felhasználó ID";
+"pin" = "jelszó";

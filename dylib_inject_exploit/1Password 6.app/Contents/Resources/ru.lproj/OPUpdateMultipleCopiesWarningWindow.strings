@@ -1,0 +1,32 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4NV-qh-gNA"; */
+"4NV-qh-gNA.title" = "Текстовое поле";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "7py-hk-akV"; */
+"7py-hk-akV.title" = "Завершить";
+
+/* Class = "NSTextFieldCell"; title = "The extra copies of 1Password are listed below. Click the magnifying glass icon next to each copy to show them in the Finder, then move each one to the Trash."; ObjectID = "7rU-4Z-qcZ"; */
+"7rU-4Z-qcZ.title" = "Ниже перечислены другие копии 1Password. Нажмите на значок увеличительного стекла рядом с каждой копией, чтобы показать её в Finder, а затем переместите каждую из них в корзину.";
+
+/* Class = "NSButtonCell"; title = "Update Anyway"; ObjectID = "Dpr-UK-fZQ"; */
+"Dpr-UK-fZQ.title" = "Всё равно обновить";
+
+/* Class = "NSWindow"; title = "Warning"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Предупреждение";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "N3J-GI-6CD"; */
+"N3J-GI-6CD.title" = "Заголовок";
+
+/* Class = "NSButtonCell"; title = "Move to Trash"; ObjectID = "SlN-21-j04"; */
+"SlN-21-j04.title" = "Переместить в корзину";
+
+/* Class = "NSButtonCell"; title = "Learn More…"; ObjectID = "VRn-VF-LxL"; */
+"VRn-VF-LxL.title" = "Подробнее…";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Show In Finder"; ObjectID = "kva-5N-ZJO"; */
+"kva-5N-ZJO.ibExternalAccessibilityDescription" = "Показать в Finder";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "lHF-s0-im9"; */
+"lHF-s0-im9.title" = "Отмена";
+
+/* Class = "NSTextFieldCell"; title = "Message"; ObjectID = "qAB-eS-Aq3"; */
+"qAB-eS-Aq3.title" = "Сообщение";

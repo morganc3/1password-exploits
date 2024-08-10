@@ -1,0 +1,18 @@
+"__title__" = "Driver License";
+"__pluralTitle__" = "Διπλώματα Οδήγησης";
+
+"fullname" = "ονοματεπώνυμο";
+"address" = "διεύθυνση";
+"birthdate" = "ημερομηνία γέννησης";
+"sex" = "φύλο";
+"height" = "ύψος";
+"number" = "αριθμός";
+"class" = "κατηγορία άδειας";
+"conditions" = "όροι / περιορισμοί";
+"state" = "νομός";
+"country" = "χώρα";
+"expiry_date" = "λήξη";
+
+"menu.sex." = "";
+"menu.sex.male" = "Άνδρας";
+"menu.sex.female" = "Γυναίκα";

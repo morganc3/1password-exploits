@@ -1,0 +1,20 @@
+"__title__" = "Pasaporte";
+"__pluralTitle__" = "Pasaportes";
+"__description__" = "Pasaporte expedido por el gobierno.";
+
+"type" = "Tipo";
+"fullname" = "Nombre completo";
+"number" = "Número";
+"birthdate" = "Fecha de nacimiento";
+"birthplace" = "Lugar de nacimiento";
+"nationality" = "Nacionalidad";
+"code" = "Código";
+"sex" = "Sexo";
+"issuing_country" = "País expedidor";
+"issuing_authority" = "Autoridad expedidora";
+"issue_date" = "Expedido el día";
+"expiry_date" = "Fecha de caducidad";
+
+"menu.sex." = "";
+"menu.sex.male" = "Varón";
+"menu.sex.female" = "Mujer";

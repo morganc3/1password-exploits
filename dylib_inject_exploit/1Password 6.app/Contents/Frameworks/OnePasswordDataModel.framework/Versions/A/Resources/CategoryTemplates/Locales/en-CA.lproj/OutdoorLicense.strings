@@ -1,0 +1,10 @@
+"__title__" = "Outdoor Licence";
+"__pluralTitle__" = "Outdoor Licences";
+
+"name" = "full name";
+"valid_from" = "valid from";
+"expires" = "expires";
+"game" = "approved wildlife";
+"quota" = "maximum quota";
+"state" = "state";
+"country" = "country";

@@ -1,0 +1,14 @@
+"__title__" = "Programme de fidélité";
+"__pluralTitle__" = "Programmes de fidélité";
+"__description__" = "Programmes de fidélité offrant des récompenses de type « Voyageur régulier » ou dans des hôtels";
+
+"company_name" = "Nom de la société";
+"member_name" = "Nom de l'adhérent";
+"member_since" = "Adhérent depuis";
+"membership_no" = "N° d'adhérent";
+"additional_no" = "N° d'adhérent (complément)";
+"pin" = "PIN";
+"customer_service_phone" = "Téléphone service clients";
+"reservations_phone" = "n° de tél. pour les réservations";
+"website" = "Site Web";
+"set.extra" = "En savoir plus";

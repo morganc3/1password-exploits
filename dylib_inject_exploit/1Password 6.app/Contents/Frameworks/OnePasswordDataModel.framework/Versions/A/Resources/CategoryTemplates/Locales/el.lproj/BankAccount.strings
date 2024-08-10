@@ -1,0 +1,23 @@
+"__title__" = "Τραπεζικός Λογαριασμός";
+"__pluralTitle__" = "Τραπεζικοί Λογαριασμοί";
+"__description__" = "Πληροφορίες Τραπεζικού Λογαριασμού.";
+
+"bankName" = "επωνυμία τράπεζας";
+"owner" = "όνομα κατόχου";
+"accountType" = "τύπος";
+"routingNo" = "αριθμός δρομολόγησης";
+"accountNo" = "αριθμός λογαριασμού";
+"swift" = "SWIFT";
+"iban" = "IBAN";
+"set.branchInfo" = "Πληροφορίες Υποκαταστήματος";
+"branchPhone" = "τηλέφωνο";
+"branchAddress" = "διεύθυνση";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "ATM";
+"menu.accountType.checking" = "Έλεγχος";
+"menu.accountType.savings" = "Καταθέσεις";
+"menu.accountType.loc" = "Γραμμή Πίστωσης";
+"menu.accountType.money_market" = "Χρηματαγορά";
+"menu.accountType.other" = "Άλλο";

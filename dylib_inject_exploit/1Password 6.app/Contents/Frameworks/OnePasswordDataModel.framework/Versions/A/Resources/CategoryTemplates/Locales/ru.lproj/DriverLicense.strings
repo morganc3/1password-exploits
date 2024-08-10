@@ -1,0 +1,18 @@
+"__title__" = "Водительские права";
+"__pluralTitle__" = "Водительские права";
+
+"fullname" = "Полное имя";
+"address" = "Адрес";
+"birthdate" = "Дата рождения";
+"sex" = "Пол";
+"height" = "Рост";
+"number" = "Номер";
+"class" = "Класс прав";
+"conditions" = "Условия / ограничения";
+"state" = "Регион";
+"country" = "Страна";
+"expiry_date" = "Срок действия";
+
+"menu.sex." = "";
+"menu.sex.male" = "Мужской";
+"menu.sex.female" = "Женский";

@@ -1,0 +1,19 @@
+{
+	"uuid":"108",
+	"localized":"yes",
+    "subtitle":"name",
+	"icons": {
+		"list":"type-social-list",
+		"detail":"type-social-details"
+	},
+	"contents":[
+		{
+			"set":"",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"name", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"number", "type":"concealed", "attributes" : { "generate":"off" }, "inputTraits" : { "keyboard": "NumbersAndPunctuation" } }
+			]
+		}
+	]
+}

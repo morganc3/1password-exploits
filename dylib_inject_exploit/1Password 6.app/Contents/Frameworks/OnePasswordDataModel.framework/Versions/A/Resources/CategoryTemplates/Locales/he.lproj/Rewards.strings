@@ -1,0 +1,14 @@
+"__title__" = "תוכנית תגמול";
+"__pluralTitle__" = "תוכניות תגמול";
+"__description__" = "תוכניות נאמנות הלקוח, כולל תגמולים תכופים של עלון ומלון";
+
+"company_name" = "שם החברה";
+"member_name" = "שם חבר";
+"member_since" = "חבר מאז";
+"membership_no" = "קוד חבר";
+"additional_no" = "קוד חבר (נוסף)";
+"pin" = "קוד אישי";
+"customer_service_phone" = "טלפון שירות לקוחות";
+"reservations_phone" = "טלפון להזמנות";
+"website" = "אתר אינטרנט";
+"set.extra" = "מידע נוסף";

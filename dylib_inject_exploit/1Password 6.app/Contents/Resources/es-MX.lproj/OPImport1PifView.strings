@@ -1,0 +1,30 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "5qg-U1-CJA"; */
+"5qg-U1-CJA.title" = "Table View Cell";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "7uc-jj-64e"; */
+"7uc-jj-64e.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Setting up sync is the easiest way to import data from 1Password on another device."; ObjectID = "9yL-TI-hub"; */
+"9yL-TI-hub.title" = "Setting up sync is the easiest way to import data from 1Password on another device.";
+
+/* Class = "NSButtonCell"; title = "Select File…"; ObjectID = "G1I-lA-BYv"; */
+"G1I-lA-BYv.title" = "Select File…";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "N2U-zY-jUh"; */
+"N2U-zY-jUh.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Select File…"; ObjectID = "T8J-Bb-dQH"; */
+"T8J-Bb-dQH.title" = "Select File…";
+
+/* Class = "NSTextFieldCell"; title = "Alternatively, you can do a one-time import from another Mac or Windows PC. Just follow the steps below."; ObjectID = "XXM-R5-4fM"; */
+"XXM-R5-4fM.title" = "Alternatively, you can do a one-time import from another Mac or Windows PC. Just follow the steps below.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "d7r-t7-01u"; */
+"d7r-t7-01u.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "1.\tOpen the 1Password app and select the items you want to export.\n2.\tSelect File > Export, choose the 1PIF format and hit Export.\n3.\tEnter the Master Password and save the .1pif file somewhere that you can transfer to this Mac.\n4.\t"; ObjectID = "k3w-FP-4lP"; */
+"k3w-FP-4lP.title" = "1.\tOpen the 1Password app and select the items you want to export.\n2.\tSelect File > Export, choose the 1PIF format and hit Export.\n3.\tEnter the Master Password and save the .1pif file somewhere that you can transfer to this Mac.\n4.\t";
+
+/* Class = "NSTextFieldCell"; title = "1.\tOpen the 1Password app and select the items you want to export. (If using multiple vaults you will first need to switch to the correct vault)\n2.\tSelect File > Export > Selected Items… from the menu bar.\n3.\tEnter the Master Password and save the .1pif file somewhere that you can transfer to this Mac.\n4.\t"; ObjectID = "pNP-BX-2Uo"; */
+"pNP-BX-2Uo.title" = "1.\tOpen the 1Password app and select the items you want to export. (If using multiple vaults you will first need to switch to the correct vault)\n2.\tSelect File > Export > Selected Items… from the menu bar.\n3.\tEnter the Master Password and save the .1pif file somewhere that you can transfer to this Mac.\n4.\t";

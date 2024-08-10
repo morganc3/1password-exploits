@@ -1,0 +1,15 @@
+
+/* Class = "NSTextFieldCell"; title = "Please unlock 1Password to change sync preferences"; ObjectID = "81A-TR-FUP"; */
+"81A-TR-FUP.title" = "Please unlock 1Password to change sync preferences";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "FK2-du-bgz"; */
+"FK2-du-bgz.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "UJa-ta-vPW"; */
+"UJa-ta-vPW.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "Sync vault with"; ObjectID = "V2V-AR-Hd4"; */
+"V2V-AR-Hd4.title" = "Sync vault with";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "b3n-Cx-Pvh"; */
+"b3n-Cx-Pvh.title" = "Item 2";

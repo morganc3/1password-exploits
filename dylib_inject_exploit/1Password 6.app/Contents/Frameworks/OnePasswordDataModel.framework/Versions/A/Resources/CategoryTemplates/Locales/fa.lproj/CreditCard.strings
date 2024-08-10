@@ -1,0 +1,40 @@
+"__title__" = "Credit Card";
+"__pluralTitle__" = "Credit Cards";
+"__description__" = "Credit card information";
+
+"set.contactInfo" = "اطلاعات تماس";
+"set.details" = "Additional Details";
+
+"cardholder" = "Cardholder Name";
+"type" = "نوع";
+"ccnum" = "Number";
+"cvv" = "Verification Number";
+"expiry" = "Expiry Date";
+"validFrom" = "Valid From";
+"bank" = "Issuing Bank";
+"phoneLocal" = "تلفن (محلی)";
+"phoneTollFree" = "تلفن (بدون عوارض)";
+"phoneIntl" = "Phone (International)";
+"website" = "وب سایت";
+"pin" = "PIN";
+"creditLimit" = "Credit Limit";
+"cashLimit" = "Cash Withdrawal Limit";
+"interest" = "Interest Rate";
+"issuenumber" = "Issue Number";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "Laser";
+"menu.type.unionpay" = "UnionPay";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

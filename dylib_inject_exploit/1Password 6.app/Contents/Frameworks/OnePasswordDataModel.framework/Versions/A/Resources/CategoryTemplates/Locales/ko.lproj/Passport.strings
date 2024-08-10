@@ -1,0 +1,20 @@
+"__title__" = "여권";
+"__pluralTitle__" = "여권";
+"__description__" = "정부 발급 여권";
+
+"type" = "유형";
+"fullname" = "성명";
+"number" = "번호";
+"birthdate" = "출생일";
+"birthplace" = "출생지";
+"nationality" = "국적";
+"code" = "코드";
+"sex" = "성별";
+"issuing_country" = "발급국가";
+"issuing_authority" = "발급기관";
+"issue_date" = "발급일";
+"expiry_date" = "만료일";
+
+"menu.sex." = "";
+"menu.sex.male" = "남";
+"menu.sex.female" = "여";

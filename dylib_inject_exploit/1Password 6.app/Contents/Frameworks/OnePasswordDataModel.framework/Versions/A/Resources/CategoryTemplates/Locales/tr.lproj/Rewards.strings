@@ -1,0 +1,14 @@
+"__title__" = "Reward Program";
+"__pluralTitle__" = "Reward Programs";
+"__description__" = "Customer loyalty programs, including frequent flyer and hotel rewards";
+
+"company_name" = "Company Name";
+"member_name" = "Üye Adı";
+"member_since" = "Üyelik Tarihi";
+"membership_no" = "Üyelik #";
+"additional_no" = "Membership # (Additional)";
+"pin" = "PIN";
+"customer_service_phone" = "Customer Service Phone";
+"reservations_phone" = "Rezervasyon numarası";
+"website" = "Web Sayfası";
+"set.extra" = "More Information";

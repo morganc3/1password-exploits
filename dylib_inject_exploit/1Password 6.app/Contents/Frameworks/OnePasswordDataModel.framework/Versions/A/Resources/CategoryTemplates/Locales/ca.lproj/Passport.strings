@@ -1,0 +1,20 @@
+"__title__" = "Passaport";
+"__pluralTitle__" = "Passaports";
+"__description__" = "Passaport expedit pel govern.";
+
+"type" = "tipus";
+"fullname" = "nom i cognoms";
+"number" = "número";
+"birthdate" = "data de naixement";
+"birthplace" = "lloc de naixement";
+"nationality" = "nacionalitat";
+"code" = "codi";
+"sex" = "sexe";
+"issuing_country" = "país d'expedició";
+"issuing_authority" = "autoritat expedidora";
+"issue_date" = "expedit al";
+"expiry_date" = "data de caducitat";
+
+"menu.sex." = "";
+"menu.sex.male" = "Home";
+"menu.sex.female" = "Dona";

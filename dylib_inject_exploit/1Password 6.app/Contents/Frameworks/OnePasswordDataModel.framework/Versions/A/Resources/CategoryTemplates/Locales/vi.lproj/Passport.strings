@@ -1,0 +1,20 @@
+"__title__" = "Hộ chiếu";
+"__pluralTitle__" = "Hộ chiếu";
+"__description__" = "Government issued Passport.";
+
+"type" = "Loại";
+"fullname" = "Tên đầy đủ";
+"number" = "Số hộ chiếu";
+"birthdate" = "Ngày, tháng, năm sinh";
+"birthplace" = "Nơi sinh";
+"nationality" = "Quốc tịch";
+"code" = "code";
+"sex" = "Giới tính";
+"issuing_country" = "Quốc gia cấp";
+"issuing_authority" = "Đơn vị cấp";
+"issue_date" = "Ngày cấp";
+"expiry_date" = "Ngày hết hạn";
+
+"menu.sex." = "";
+"menu.sex.male" = "Nam";
+"menu.sex.female" = "Nữ";

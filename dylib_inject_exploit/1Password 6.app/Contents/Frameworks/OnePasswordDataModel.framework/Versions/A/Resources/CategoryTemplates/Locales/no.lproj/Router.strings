@@ -1,0 +1,18 @@
+"__title__" = "Trådløs ruter";
+"__pluralTitle__" = "Trådløse rutere";
+"__description__" = "Kontoinformasjon for din AirPort Extreme eller andre trådløse rutere.";
+
+"network_name" = "Nettverksnavn";
+"name" = "Basestasjonsnavn";
+"password" = "Basestasjonspassord";
+"server" = "Tjener / IP-adresse";
+"airport_id" = "AirPort ID";
+"wireless_security" = "Nettverkssikkerhetstype";
+"wireless_password" = "Nettverkspassord";
+"disk_password" = "Passord for tilkoblet lagringsplass";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Ingen sikkerhet";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "Personlig WPA2";
+"menu.wireless_security.wpa2e" = "Enterprise WPA2";

@@ -1,0 +1,23 @@
+"__title__" = "은행계좌";
+"__pluralTitle__" = "은행계좌";
+"__description__" = "은행 계좌정보";
+
+"bankName" = "은행명";
+"owner" = "계좌주";
+"accountType" = "유형";
+"routingNo" = "은행고유번호";
+"accountNo" = "계좌번호";
+"swift" = "SWIFT 코드";
+"iban" = "IBAN 번호";
+"set.branchInfo" = "지점정보";
+"branchPhone" = "전화";
+"branchAddress" = "주소";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "ATM";
+"menu.accountType.checking" = "당좌계좌";
+"menu.accountType.savings" = "예금계좌";
+"menu.accountType.loc" = "신용거래계좌";
+"menu.accountType.money_market" = "금융상품계좌";
+"menu.accountType.other" = "기타";

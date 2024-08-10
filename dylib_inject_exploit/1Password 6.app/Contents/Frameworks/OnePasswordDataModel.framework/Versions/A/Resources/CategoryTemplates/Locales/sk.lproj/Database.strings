@@ -1,0 +1,25 @@
+"__title__" = "Databáza";
+"__pluralTitle__" = "Databáz";
+"__description__" = "Informácie o pripojení do databázy.";
+
+"hostname" = "server";
+"port" = "port";
+"database" = "databáza";
+"database_type" = "typ";
+"username" = "používateľské meno";
+"password" = "heslo";
+"sid" = "SID";
+"alias" = "alias";
+"options" = "možnosti pripojenia";
+
+"menu.database_type." = "";
+"menu.database_type.db2" = "DB2";
+"menu.database_type.filemaker" = "FileMaker";
+"menu.database_type.msaccess" = "Microsoft Access";
+"menu.database_type.mssql" = "MS SQL Server";
+"menu.database_type.mysql" = "MySQL";
+"menu.database_type.oracle" = "Oracle";
+"menu.database_type.postresql" = "PostgreSQL";
+"menu.database_type.postgresql" = "PostgreSQL";
+"menu.database_type.sqlite" = "SQLite";
+"menu.database_type.other" = "Ostatné";

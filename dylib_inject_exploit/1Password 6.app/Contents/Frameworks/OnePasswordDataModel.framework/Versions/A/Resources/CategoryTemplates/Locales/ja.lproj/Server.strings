@@ -1,0 +1,18 @@
+"__title__" = "サーバー";
+"__pluralTitle__" = "サーバー";
+
+"set.admin_console" = "管理コンソール";
+"set.hosting_provider_details" = "ホスティングプロバイダ";
+
+"__description__" = "専用の Linux と FreeBSD のサーバー、VPS のシステムなどのアカウント情報";
+
+"url" = "URL";
+"username" = "ユーザ名";
+"password" = "パスワード";
+"admin_console_url" = "管理コンソール URL";
+"admin_console_username" = "管理コンソールユーザー名";
+"admin_console_password" = "コンソールパスワード";
+"name" = "氏名";
+"website" = "ウェブサイト";
+"support_contact_url" = "サポート URL";
+"support_contact_phone" = "サポート電話番号 ";

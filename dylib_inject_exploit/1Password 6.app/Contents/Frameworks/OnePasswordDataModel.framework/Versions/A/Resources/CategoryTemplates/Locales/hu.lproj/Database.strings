@@ -1,0 +1,25 @@
+"__title__" = "Adatbázis";
+"__pluralTitle__" = "Adatbázisok";
+"__description__" = "Adatbázis-kapcsolati információk.";
+
+"hostname" = "szerver";
+"port" = "port";
+"database" = "adatbázis";
+"database_type" = "típus";
+"username" = "felhasználó név";
+"password" = "jelszó";
+"sid" = "SID";
+"alias" = "alias";
+"options" = "kapcsolat beállításai";
+
+"menu.database_type." = "";
+"menu.database_type.db2" = "DB2";
+"menu.database_type.filemaker" = "A FileMaker";
+"menu.database_type.msaccess" = "Microsoft Access";
+"menu.database_type.mssql" = "MS SQL Server";
+"menu.database_type.mysql" = "MySQL";
+"menu.database_type.oracle" = "Oracle";
+"menu.database_type.postresql" = "PostgreSQL";
+"menu.database_type.postgresql" = "PostgreSQL";
+"menu.database_type.sqlite" = "SQLite";
+"menu.database_type.other" = "Egyéb";

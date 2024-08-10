@@ -1,0 +1,18 @@
+"__title__" = "Bestuurslisensie";
+"__pluralTitle__" = "Bestuurslisensies";
+
+"fullname" = "volle naam";
+"address" = "adres";
+"birthdate" = "geboortedatum";
+"sex" = "geslag";
+"height" = "lengte";
+"number" = "nommer";
+"class" = "lisensiekode";
+"conditions" = "voorwaardes / beperkings";
+"state" = "staat/provinsie";
+"country" = "land";
+"expiry_date" = "vervaldatum";
+
+"menu.sex." = "";
+"menu.sex.male" = "Manlik";
+"menu.sex.female" = "Vroulik";

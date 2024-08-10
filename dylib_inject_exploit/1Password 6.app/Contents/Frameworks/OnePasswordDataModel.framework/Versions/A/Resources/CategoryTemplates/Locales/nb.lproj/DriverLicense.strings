@@ -1,0 +1,18 @@
+"__title__" = "Driver License";
+"__pluralTitle__" = "Førerkort";
+
+"fullname" = "fullt navn";
+"address" = "adresse";
+"birthdate" = "fødselsdato";
+"sex" = "kjønn";
+"height" = "høyde";
+"number" = "nummer";
+"class" = "førerkortklasser";
+"conditions" = "merknader";
+"state" = "delstat";
+"country" = "land";
+"expiry_date" = "gyldig til";
+
+"menu.sex." = "";
+"menu.sex.male" = "mann";
+"menu.sex.female" = "kvinne";

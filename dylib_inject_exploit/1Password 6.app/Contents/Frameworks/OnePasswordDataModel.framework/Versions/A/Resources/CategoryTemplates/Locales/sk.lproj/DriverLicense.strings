@@ -1,0 +1,18 @@
+"__title__" = "Vodičský preukaz";
+"__pluralTitle__" = "Vodičský preukaz";
+
+"fullname" = "celé meno";
+"address" = "adresa";
+"birthdate" = "dátum narodenia";
+"sex" = "sex";
+"height" = "height";
+"number" = "číslo";
+"class" = "skupiny vodičského oprávnenia";
+"conditions" = "conditions / restrictions";
+"state" = "štát";
+"country" = "krajina";
+"expiry_date" = "expiry date";
+
+"menu.sex." = "";
+"menu.sex.male" = "Male";
+"menu.sex.female" = "Žena";

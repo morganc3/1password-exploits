@@ -1,0 +1,18 @@
+"__title__" = "الخادم";
+"__pluralTitle__" = "الخادم";
+
+"set.admin_console" = "Admin Console";
+"set.hosting_provider_details" = "Hosting Provider";
+
+"__description__" = "معلومات حساب سيرفر لينكس او BSD ";
+
+"url" = "رابط تشعبي";
+"username" = "اسم المستخدم";
+"password" = "كلمة المرور";
+"admin_console_url" = "رابط وحدة التحكم";
+"admin_console_username" = "اسم المشرف";
+"admin_console_password" = "كلمة المرور";
+"name" = "اسم";
+"website" = "موقع";
+"support_contact_url" = "الدعم الفني";
+"support_contact_phone" = "هاتف الدعم الفني";

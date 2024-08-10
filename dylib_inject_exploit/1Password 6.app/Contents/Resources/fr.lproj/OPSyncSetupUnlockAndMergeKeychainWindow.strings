@@ -1,0 +1,38 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Fenêtre";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1UO-5b-d6U"; */
+"1UO-5b-d6U.title" = "Annuler";
+
+/* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "1pr-R0-hsy"; */
+"1pr-R0-hsy.title" = "Indice de mot de passe :";
+
+/* Class = "NSTextFieldCell"; title = "Vault found in Remote"; ObjectID = "6La-1P-BsB"; */
+"6La-1P-BsB.title" = "Coffre trouvé en mode distant";
+
+/* Class = "NSTextFieldCell"; title = "Last Modified:"; ObjectID = "BFN-Uf-Lqo"; */
+"BFN-Uf-Lqo.title" = "Dernière modification :";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Enter Password"; ObjectID = "HPs-Jo-dQ6"; */
+"HPs-Jo-dQ6.placeholderString" = "Saisissez le mot de passe";
+
+/* Class = "NSButtonCell"; title = "Unlock and Merge"; ObjectID = "S7a-3a-uOY"; */
+"S7a-3a-uOY.title" = "Déverrouiller et fusionner";
+
+/* Class = "NSTextFieldCell"; title = "Please review the information below before deciding to merge."; ObjectID = "eG5-Ul-9YJ"; */
+"eG5-Ul-9YJ.title" = "Veuillez revoir les informations ci-dessous avant de décider de fusionner.";
+
+/* Class = "NSTextFieldCell"; title = "Last Modified:"; ObjectID = "eLJ-IC-5Yl"; */
+"eLJ-IC-5Yl.title" = "Dernière modification :";
+
+/* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "hnt-h3-082"; */
+"hnt-h3-082.title" = "Indice de mot de passe :";
+
+/* Class = "NSTextFieldCell"; title = "Enter vault password:"; ObjectID = "nIU-VX-Nf8"; */
+"nIU-VX-Nf8.title" = "Entrer le mot de passe du coffre :";
+
+/* Class = "NSTextFieldCell"; title = "1Password detected that your local vault is different from the data you selected in remote."; ObjectID = "t9y-Mc-hUq"; */
+"t9y-Mc-hUq.title" = "1Password a détecté que votre coffre local est différent des données distantes que vous avez sélectionnées.";
+
+/* Class = "NSTextFieldCell"; title = "1Password Vault"; ObjectID = "wIT-hh-An7"; */
+"wIT-hh-An7.title" = "Coffre 1Password";

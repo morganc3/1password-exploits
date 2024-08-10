@@ -1,0 +1,25 @@
+"__title__" = "База данных";
+"__pluralTitle__" = "Базы данных";
+"__description__" = "Параметры подключения к базе данных.";
+
+"hostname" = "Сервер";
+"port" = "Порт";
+"database" = "База данных";
+"database_type" = "Тип";
+"username" = "Имя";
+"password" = "Пароль";
+"sid" = "SID";
+"alias" = "Псевдоним";
+"options" = "Параметры подключения";
+
+"menu.database_type." = "";
+"menu.database_type.db2" = "DB2";
+"menu.database_type.filemaker" = "FileMaker";
+"menu.database_type.msaccess" = "Microsoft Access";
+"menu.database_type.mssql" = "MS SQL Server";
+"menu.database_type.mysql" = "MySQL";
+"menu.database_type.oracle" = "Oracle";
+"menu.database_type.postresql" = "PostgreSQL";
+"menu.database_type.postgresql" = "PostgreSQL";
+"menu.database_type.sqlite" = "SQLite";
+"menu.database_type.other" = "Другая";

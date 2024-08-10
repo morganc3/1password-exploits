@@ -1,0 +1,22 @@
+"__title__" = "Software License";
+"__pluralTitle__" = "Software Licenses";
+"__description__" = "Software product license, registration code or serial number.";
+
+"set.customer" = "Customer";
+"set.publisher" = "Publisher";
+"set.order" = "Order";
+
+"product_name" = "product name";
+"product_version" = "version";
+"reg_name" = "licensed to";
+"reg_code" = "license key";
+"reg_email" = "registered email";
+"company" = "company";
+"download_link" = "download page";
+"publisher_name" = "publisher";
+"retail_price" = "retail price";
+"publisher_website" = "website";
+"support_email" = "support email";
+"order_number" = "order number";
+"order_date" = "purchase date";
+"order_total" = "order total";

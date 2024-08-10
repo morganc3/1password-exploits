@@ -1,0 +1,14 @@
+"__title__" = "Beloningsprogram";
+"__pluralTitle__" = "Beloningsprogramme";
+"__description__" = "Klantbeloningsprogramme insluitend gereelde vlieër- en hotelbelonings";
+
+"company_name" = "maatskappynaam";
+"member_name" = "lidnaam";
+"member_since" = "lid sedert";
+"membership_no" = "lidnommer";
+"additional_no" = "lidnommer (addisioneel)";
+"pin" = "PIN";
+"customer_service_phone" = "klantedienstelefoon";
+"reservations_phone" = "nommer vir besprekings";
+"website" = "webwerf";
+"set.extra" = "Meer Inligting";

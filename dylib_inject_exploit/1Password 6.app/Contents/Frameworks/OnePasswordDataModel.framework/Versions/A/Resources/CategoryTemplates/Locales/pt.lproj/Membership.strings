@@ -1,0 +1,11 @@
+"__title__" = "Cartão de Membro";
+"__pluralTitle__" = "Cartões de Membro";
+"__description__" = "Membro de comunidade ou clube";
+"org_name" = "Grupo";
+"phone" = "Telefone";
+"website" = "site";
+"member_name" = "Nome do membro";
+"member_since" = "Membro desde";
+"expiry_date" = "Data de validade";
+"membership_no" = "número de membro";
+"pin" = "Senha";

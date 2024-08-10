@@ -1,0 +1,56 @@
+"__title__" = "メールアカウント";
+"__pluralTitle__" = "メールアカウント";
+"__description__" = "メールアカウント情報";
+"pop_username" = "ユーザー名";
+"pop_password" = "パスワード";
+"pop_server" = "サーバー";
+"pop_type" = "種類";
+"pop_port" = "ポート番号";
+"pop_security" = "セキュリティ";
+"pop_authentication" = "認証方法";
+"set.SMTP" = "SMTP";
+"smtp_username" = "ユーザー名";
+"smtp_password" = "パスワード";
+"smtp_server" = "SMTP サーバー";
+"smtp_type" = "種類";
+"smtp_port" = "ポート番号";
+"smtp_security" = "セキュリティ";
+"smtp_authentication" = "認証方法";
+"set.Contact Information" = "Contact Information";
+"provider" = "プロバイダ";
+"provider_website" = "プロバイダのウェブサイト";
+"phone_tollfree" = "電話番号 (フリーダイヤル)";
+"phone_local" = "電話番号(ローカル)";
+
+"menu.pop_type." = "";
+"menu.pop_type.pop3" = "POP3";
+"menu.pop_type.imap" = "IMAP";
+"menu.pop_type.either" = "POP3 または IMAP";
+
+"menu.pop_security." = "";
+"menu.pop_security.none" = "なし";
+"menu.pop_security.SSL" = "SSL";
+"menu.pop_security.TLS" = "TLS";
+
+"menu.pop_authentication." = "";
+"menu.pop_authentication.none" = "なし";
+"menu.pop_authentication.password" = "パスワード";
+"menu.pop_authentication.md5_challenge_response" = "MD5 チャレンジ応答";
+"menu.pop_authentication.kerberized_pop" = "Kerberos 認証付きの POP（KPOP）";
+"menu.pop_authentication.kerberos_v4" = "Kerberos バージョン 4";
+"menu.pop_authentication.kerberos_v5" = "Kerberos バージョン 5 (GSSAPI)";
+"menu.pop_authentication.ntlm" = "NTLM";
+
+"menu.smtp_security." = "";
+"menu.smtp_security.none" = "なし";
+"menu.smtp_security.SSL" = "SSL";
+"menu.smtp_security.TLS" = "TLS";
+
+"menu.smtp_authentication." = "";
+"menu.smtp_authentication.none" = "なし";
+"menu.smtp_authentication.password" = "パスワード";
+"menu.smtp_authentication.md5_challenge_response" = "MD5 チャレンジ応答";
+"menu.smtp_authentication.kerberized_pop" = "Kerberos 認証付きの POP（KPOP）";
+"menu.smtp_authentication.kerberos_v4" = "Kerberos バージョン 4";
+"menu.smtp_authentication.kerberos_v5" = "Kerberos バージョン 5 (GSSAPI)";
+"menu.smtp_authentication.ntlm" = "NTLM";

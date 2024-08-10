@@ -1,0 +1,46 @@
+"__title__" = "Identificação";
+"__pluralTitle__" = "Identificações";
+"__description__" = "Identificações";
+
+"set.name" = "Identificação";
+"firstname" = "nome próprio";
+"initial" = "prefixo";
+"lastname" = "apelido";
+"sex" = "género";
+"birthdate" = "data de nascimento";
+"occupation" = "cargo";
+"company" = "empresa";
+"department" = "departamento";
+"jobtitle" = "cargo";
+
+"set.internet" = "Detalhes da Internet";
+"username" = "nome de utilizador";
+"reminderq" = "pergunta de segurança";
+"remindera" = "resposta à pergunta de segurança";
+"email" = "e-mail";
+"website" = "site";
+"icq" = "ICQ";
+"skype" = "Skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "assinatura do fórum";
+
+"set.address" = "Morada";
+"address" = "morada";
+"address1" = "linha de morada 1";
+"address2" = "linha de morada 2";
+"city" = "cidade";
+"state" = "localidade";
+"zip" = "código postal";
+"country" = "país";
+"location" = "localização";
+"phone" = "telefone";
+"defphone" = "telefone principal";
+"homephone" = "casa";
+"cellphone" = "telemóvel";
+"busphone" = "trabalho";
+
+"menu.sex." = "";
+"menu.sex.male" = "Masculino";
+"menu.sex.female" = "Feminino";

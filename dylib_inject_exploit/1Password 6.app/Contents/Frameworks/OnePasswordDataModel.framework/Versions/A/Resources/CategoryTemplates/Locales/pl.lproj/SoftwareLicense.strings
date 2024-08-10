@@ -1,0 +1,22 @@
+"__title__" = "Licencja na oprogramowanie";
+"__pluralTitle__" = "Licencje na oprogramowanie";
+"__description__" = "Licencja na oprogramowanie, kod rejestracyjny lub numer seryjny.";
+
+"set.customer" = "Customer";
+"set.publisher" = "Wydawca";
+"set.order" = "Order";
+
+"product_name" = "Nazwa produktu";
+"product_version" = "Wersja";
+"reg_name" = "Licencjonowane dla";
+"reg_code" = "Klucz licencyjny";
+"reg_email" = "e-mail rejestracji";
+"company" = "Firma";
+"download_link" = "Witryna pobierania";
+"publisher_name" = "Wydawca";
+"retail_price" = "Cena detaliczna";
+"publisher_website" = "Witryna";
+"support_email" = "e-mail do wsparcia";
+"order_number" = "Numer zamówienia";
+"order_date" = "Data zakupu";
+"order_total" = "Order Total";

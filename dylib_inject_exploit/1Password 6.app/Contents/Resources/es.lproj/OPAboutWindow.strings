@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "App Name"; ObjectID = "Bzs-wJ-dOR"; */
+"Bzs-wJ-dOR.title" = "Nombre de aplicación";
+
+/* Class = "NSTextFieldCell"; title = "Version"; ObjectID = "DjS-Ob-Udv"; */
+"DjS-Ob-Udv.title" = "Versión";
+
+/* Class = "NSButtonCell"; title = "Copy to Clipboard"; ObjectID = "Vhl-AC-44t"; */
+"Vhl-AC-44t.title" = "Copiar en el portapapeles";
+
+/* Class = "NSTextFieldCell"; title = "Copyright"; ObjectID = "WM0-Et-IZA"; */
+"WM0-Et-IZA.title" = "Derechos de autor";
+
+/* Class = "NSTextFieldCell"; title = "Special Kind"; ObjectID = "lmu-7h-0N9"; */
+"lmu-7h-0N9.title" = "Clase especial";

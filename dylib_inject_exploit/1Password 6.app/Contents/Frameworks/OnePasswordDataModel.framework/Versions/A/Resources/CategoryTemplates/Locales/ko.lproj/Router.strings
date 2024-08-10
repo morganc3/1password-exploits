@@ -1,0 +1,18 @@
+"__title__" = "무선 공유기";
+"__pluralTitle__" = "무선 공유기";
+"__description__" = "AirPort Extreme 또는 기타 무선 공유기용 계정 정보";
+
+"network_name" = "네트워크 이름";
+"name" = "기지국 이름";
+"password" = "기지국 비밀번호";
+"server" = "서버 / IP 주소";
+"airport_id" = "AirPort 아이디";
+"wireless_security" = "무선 보안";
+"wireless_password" = "무선 네트워크 비밀번호";
+"disk_password" = "연결 스토리지 비밀번호";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "보안 없음";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 개인용";
+"menu.wireless_security.wpa2e" = "WPA2 기업용";

@@ -1,0 +1,11 @@
+"__title__" = "Adhésion";
+"__pluralTitle__" = "Adhésions";
+"__description__" = "Communauté ou adhésion de club";
+"org_name" = "Organisation";
+"phone" = "Téléphone";
+"website" = "Site Internet";
+"member_name" = "Nom de l'adhérent";
+"member_since" = "Adhérent depuis";
+"expiry_date" = "Date d'expiration";
+"membership_no" = "N° d'adhérent";
+"pin" = "Mot de passe";

@@ -1,0 +1,46 @@
+"__title__" = "Ταυτότητα";
+"__pluralTitle__" = "Ταυτότητες";
+"__description__" = "Ταυτότητες";
+
+"set.name" = "Ταυτοποίηση";
+"firstname" = "όνομα";
+"initial" = "αρχικά";
+"lastname" = "επώνυμο";
+"sex" = "φύλο";
+"birthdate" = "ημερομηνία γέννησης";
+"occupation" = "επάγγελμα";
+"company" = "εταιρεία";
+"department" = "τμήμα";
+"jobtitle" = "τίτλος εργασίας";
+
+"set.internet" = "Λεπτομέρειες Ίντερνετ";
+"username" = "όνομα χρήστη";
+"reminderq" = "ερώτηση υπενθύμισης";
+"remindera" = "απάντηση υπενθύμισης";
+"email" = "email";
+"website" = "ιστοσελίδα";
+"icq" = "ICQ";
+"skype" = "skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "υπογραφή φόρουμ";
+
+"set.address" = "Διεύθυνση";
+"address" = "διεύθυνση";
+"address1" = "διεύθυνση 1";
+"address2" = "διεύθυνση 2";
+"city" = "πόλη/κωμόπολη/προάστιο";
+"state" = "νομός/επαρχία";
+"zip" = "ταχυδρομικός κώδικας";
+"country" = "χώρα";
+"location" = "τοποθεσία";
+"phone" = "τηλέφωνο";
+"defphone" = "ισχύον τηλέφωνο";
+"homephone" = "αρχική σελίδα";
+"cellphone" = "στοιχείο";
+"busphone" = "επιχείρηση";
+
+"menu.sex." = "";
+"menu.sex.male" = "Άνδρας";
+"menu.sex.female" = "Γυναίκα";

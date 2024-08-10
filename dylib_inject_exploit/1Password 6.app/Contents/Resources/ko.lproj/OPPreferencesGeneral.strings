@@ -1,0 +1,56 @@
+/* Class = "NSButtonCell"; title = "Use rich icons"; ObjectID = "47"; */
+"47.title" = "풍부한 아이콘이 사용됩니다";
+
+/* Class = "NSButtonCell"; title = "Show item count in sidebar"; ObjectID = "75"; */
+"75.title" = "사이드바에서 항목 수를 표시";
+
+/* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "91"; */
+"91.title" = "디스플레이";
+
+/* Class = "NSTextFieldCell"; title = "1Password mini"; ObjectID = "130"; */
+"130.title" = "1Password 미니";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Always keep 1Password mini running in the background"; ObjectID = "133"; */
+"133.ibExternalAccessibilityDescription" = "항상 백그라운드에서 1Password 미니 실행 계속";
+
+/* Class = "NSButtonCell"; title = "Always keep 1Password mini running"; ObjectID = "134"; */
+"134.title" = "항상 1Password 미니 실행 계속";
+
+/* Class = "NSButtonCell"; title = "Show mini app icon in the menu bar"; ObjectID = "146"; */
+"146.title" = "메뉴 바에 미니 애플리케이션 아이콘 표시";
+
+/* Class = "NSTextFieldCell"; title = "Keyboard shortcuts"; ObjectID = "152"; */
+"152.title" = "키보드 단축키";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Keyboard Shortcut"; ObjectID = "155"; */
+"155.ibExternalAccessibilityDescription" = "키보드 단축키";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Keyboard Shortcut"; ObjectID = "156"; */
+"156.ibExternalAccessibilityDescription" = "키보드 단축키";
+
+/* Class = "NSTextFieldCell"; title = "Show 1Password mini"; ObjectID = "157"; */
+"157.title" = "1Password 미니 표시";
+
+/* Class = "NSTextFieldCell"; title = "Fill Login on current web page"; ObjectID = "158"; */
+"158.title" = "현재 웹 페이지에 로그인을 채우기";
+
+/* Class = "NSTextFieldCell"; title = "Lock 1Password"; ObjectID = "C7A-JQ-rWr"; */
+"C7A-JQ-rWr.title" = "1Password 잠금";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "IyO-Cq-cpb"; */
+"IyO-Cq-cpb.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "Mb3-6F-bZk"; */
+"Mb3-6F-bZk.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Recommended if you use 1Password in Safari and other web browsers."; ObjectID = "SAL-qx-hBw"; */
+"SAL-qx-hBw.title" = "Safari 다른 웹 브라우저를에서1Password를  사용하는 경우 좋습니다.";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Tp1-wi-HVu"; */
+"Tp1-wi-HVu.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Always open to"; ObjectID = "efP-Yf-T4q"; */
+"efP-Yf-T4q.title" = "Always open to";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Keyboard Shortcut"; ObjectID = "j6e-LA-zQH"; */
+"j6e-LA-zQH.ibExternalAccessibilityDescription" = "키보드 단축키";

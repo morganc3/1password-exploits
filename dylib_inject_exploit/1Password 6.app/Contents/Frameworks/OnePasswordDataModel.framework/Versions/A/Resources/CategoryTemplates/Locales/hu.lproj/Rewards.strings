@@ -1,0 +1,14 @@
+"__title__" = "Jutalom Program";
+"__pluralTitle__" = "Jutalmazási programjainkhoz";
+"__description__" = "Ügyfél hűség programokat, beleértve a gyakori szórólap és hotel jutalmakat";
+
+"company_name" = "a cég neve";
+"member_name" = "tag neve";
+"member_since" = "-től";
+"membership_no" = "felhasználó ID";
+"additional_no" = "felhasználó ID (további)";
+"pin" = "PIN";
+"customer_service_phone" = "ügyfélszolgálati telefon";
+"reservations_phone" = "foglaláshoz telefon";
+"website" = "weboldal";
+"set.extra" = "További információ";

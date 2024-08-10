@@ -1,0 +1,14 @@
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "C7E-xj-wbz"; */
+"C7E-xj-wbz.title" = "Hotovo";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Okno";
+
+/* Class = "NSButtonCell"; title = "Send Link"; ObjectID = "HUh-Ll-ujj"; */
+"HUh-Ll-ujj.title" = "Poslat odkaz";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "IVm-3a-skV"; */
+"IVm-3a-skV.title" = "Rámeček";
+
+/* Class = "NSTextFieldCell"; title = "Scan this QR Code into 1Password on your other device"; ObjectID = "cbx-Ab-FGT"; */
+"cbx-Ab-FGT.title" = "Načtěte tento QR kód do 1Passwordu na jiném zařízení";

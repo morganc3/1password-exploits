@@ -1,0 +1,26 @@
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Backups"; ObjectID = "28"; */
+"28.ibExternalAccessibilityDescription" = "백업";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "35"; */
+"35.title" = "텍스트 셀";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "36"; */
+"36.title" = "텍스트 셀";
+
+/* Class = "NSButtonCell"; title = "Restore"; ObjectID = "57"; */
+"57.title" = "복원";
+
+/* Class = "NSButtonCell"; title = "Backup Now"; ObjectID = "63"; */
+"63.title" = "지금 백업";
+
+/* Class = "NSTextFieldCell"; title = "Backups"; ObjectID = "88"; */
+"88.title" = "백업";
+
+/* Class = "NSButtonCell"; title = "Show Files"; ObjectID = "F0S-d0-HVW"; */
+"F0S-d0-HVW.title" = "파일 보기";
+
+/* Class = "NSButtonCell"; title = "Find Backup"; ObjectID = "hI5-FD-QyE"; */
+"hI5-FD-QyE.title" = "백업 찾기";
+
+/* Class = "NSTextFieldCell"; title = "Backups are created automatically\n\nUp to 30 daily and 24 monthly files are kept"; ObjectID = "xBp-bM-owh"; */
+"xBp-bM-owh.title" = "백업은 자동으로 생성됩니다\n\n30개까지의 가장 최근 백업이 보관됩니다";

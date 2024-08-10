@@ -1,0 +1,42 @@
+
+/* Class = "NSButtonCell"; title = "Conceal passwords"; ObjectID = "39"; */
+"39.title" = "Conceal passwords";
+
+/* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "87"; */
+"87.title" = "Display";
+
+/* Class = "NSTextFieldCell"; title = "Auto-lock"; ObjectID = "98"; */
+"98.title" = "Auto-lock";
+
+/* Class = "NSButtonCell"; title = "Lock after computer is idle for"; ObjectID = "105"; */
+"105.title" = "Lock after computer is idle for";
+
+/* Class = "NSButtonCell"; title = "Lock on sleep"; ObjectID = "125"; */
+"125.title" = "Lock on sleep";
+
+/* Class = "NSButtonCell"; title = "Lock when screen saver is activated"; ObjectID = "131"; */
+"131.title" = "Lock when screen saver is activated";
+
+/* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "226"; */
+"226.title" = "Master Password";
+
+/* Class = "NSButtonCell"; title = "Change Master Password"; ObjectID = "232"; */
+"232.title" = "Change Master Password";
+
+/* Class = "NSTextFieldCell"; title = "Clipboard"; ObjectID = "288"; */
+"288.title" = "Clipboard";
+
+/* Class = "NSButtonCell"; title = "Clear clipboard contents after"; ObjectID = "296"; */
+"296.title" = "Clear clipboard contents after";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "326"; */
+"326.title" = "seconds";
+
+/* Class = "NSTextFieldCell"; title = "minutes"; ObjectID = "6Kb-Lx-Y9z"; */
+"6Kb-Lx-Y9z.title" = "minutes";
+
+/* Class = "NSButtonCell"; title = "Lock when main window is closed"; ObjectID = "QaX-KX-vYW"; */
+"QaX-KX-vYW.title" = "Lock when main window is closed";
+
+/* Class = "NSButtonCell"; title = "Lock when fast user switching"; ObjectID = "zlN-7q-H5a"; */
+"zlN-7q-H5a.title" = "Lock when fast user switching";

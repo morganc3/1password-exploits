@@ -1,0 +1,14 @@
+"__title__" = "Reward Program";
+"__pluralTitle__" = "Reward Programs";
+"__description__" = "Customer loyalty programs, including frequent flyer and hotel rewards";
+
+"company_name" = "Company Name";
+"member_name" = "Member Name";
+"member_since" = "Member Since";
+"membership_no" = "Membership #";
+"additional_no" = "Membership # (Additional)";
+"pin" = "PIN";
+"customer_service_phone" = "Customer Service Phone";
+"reservations_phone" = "Reservations Phone";
+"website" = "وب سایت";
+"set.extra" = "More Information";

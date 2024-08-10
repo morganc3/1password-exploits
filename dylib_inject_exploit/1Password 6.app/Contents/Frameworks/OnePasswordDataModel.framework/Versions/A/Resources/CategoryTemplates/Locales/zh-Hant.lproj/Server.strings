@@ -1,0 +1,18 @@
+"__title__" = "伺服器";
+"__pluralTitle__" = "伺服器";
+
+"set.admin_console" = "管理員控制台";
+"set.hosting_provider_details" = "代管服務供應商";
+
+"__description__" = "專用的 LInex 和 FreeBSD 伺服器、VPS 系統等的帳號資訊。";
+
+"url" = "URL";
+"username" = "使用者名稱";
+"password" = "密碼";
+"admin_console_url" = "管理主控台網址";
+"admin_console_username" = "管理主控台使用者名稱";
+"admin_console_password" = "主控台密碼";
+"name" = "名稱";
+"website" = "網頁";
+"support_contact_url" = "客戶支援網址";
+"support_contact_phone" = "客戶支援電話號碼";

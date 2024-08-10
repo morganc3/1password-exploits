@@ -1,0 +1,29 @@
+/* Class = "NSTextFieldCell"; title = "Browser Extension"; ObjectID = "20"; */
+"20.title" = "Webblaaieruitbreiding";
+
+/* Class = "NSButtonCell"; title = "Install Browser Extension"; ObjectID = "21"; */
+"21.title" = "Installeer Blaaieruitbreidings";
+
+/* Class = "NSButtonCell"; title = "Detect new usernames and passwords and offer to save them"; ObjectID = "41"; */
+"41.title" = "Bespeur nuwe gebruikersname en wagwoorde en bied aan om dit te bewaar";
+
+/* Class = "NSButtonCell"; title = "Automatically sign in after filling usernames and passwords"; ObjectID = "43"; */
+"43.title" = "Teken outomaties aan nadat gebruikersname en wagwoorde ingevul is";
+
+/* Class = "NSButtonCell"; title = "Show animation when filling details on page"; ObjectID = "60"; */
+"60.title" = "Toon animasie wanneer besonderhede ingevul word";
+
+/* Class = "NSTextFieldCell"; title = "(except on the following domains)"; ObjectID = "82"; */
+"82.title" = "(behalwe vir die volgende domeine)";
+
+/* Class = "NSButtonCell"; title = "Allow filling on pages that closely match saved websites"; ObjectID = "1Pb-ut-IiI"; */
+"1Pb-ut-IiI.title" = "Staan invul toe op blaaie wat nou aansluit by bewaarde webwerwe";
+
+/* Class = "NSTextFieldCell"; title = "Filling and Signing In"; ObjectID = "DJV-NN-CAm"; */
+"DJV-NN-CAm.title" = "Invul en Aanteken";
+
+/* Class = "NSTextFieldCell"; title = "Look and Feel"; ObjectID = "OD7-qV-QC2"; */
+"OD7-qV-QC2.title" = "Voorkoms";
+
+/* Class = "NSTextFieldCell"; title = "Autosave"; ObjectID = "qA1-wA-oqz"; */
+"qA1-wA-oqz.title" = "Outobewaar";

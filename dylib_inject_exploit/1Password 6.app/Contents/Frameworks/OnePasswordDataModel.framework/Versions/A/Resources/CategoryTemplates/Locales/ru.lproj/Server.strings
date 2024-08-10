@@ -1,0 +1,18 @@
+"__title__" = "Сервер";
+"__pluralTitle__" = "Серверы";
+
+"set.admin_console" = "Консоль администрирования";
+"set.hosting_provider_details" = "Поставщик услуг хостинга";
+
+"__description__" = "Учетные данные для выделенного сервера Linux и FreeBSD, систем VPS и др.";
+
+"url" = "URL-адрес";
+"username" = "Имя пользователя";
+"password" = "Пароль";
+"admin_console_url" = "URL-адрес консоли администрирования";
+"admin_console_username" = "Имя пользователя консоли администратора";
+"admin_console_password" = "Пароль консоли";
+"name" = "Имя";
+"website" = "Веб-сайт";
+"support_contact_url" = "URL-адрес службы поддержки";
+"support_contact_phone" = "Телефон службы поддержки";

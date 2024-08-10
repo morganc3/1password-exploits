@@ -1,0 +1,10 @@
+"__title__" = "Jagdschein";
+"__pluralTitle__" = "Jagdscheine";
+
+"name" = "Vollständiger Name";
+"valid_from" = "Gültig ab";
+"expires" = "Gültig bis";
+"game" = "Freigegebene Wildtiere";
+"quota" = "Höchstquote";
+"state" = "Bundesland/Kanton";
+"country" = "Land";

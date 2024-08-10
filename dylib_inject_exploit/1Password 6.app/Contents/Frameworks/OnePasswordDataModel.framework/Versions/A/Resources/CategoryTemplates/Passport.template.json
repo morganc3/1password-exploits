@@ -1,0 +1,28 @@
+{
+	"uuid":"106",
+	"localized":"yes",
+    "subtitle":"number",
+	"icons": {
+		"list":"type-passport-list",
+		"detail":"type-passport-details"
+	},
+	"contents":[
+		{
+			"set":"",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"type", "type":"string", "inputTraits" : { "autocapitalization" : "AllCharacters" } },
+				{ "name":"issuing_country", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"number", "type":"string", "inputTraits" : { "autocapitalization" : "NamePhonePad" } },
+				{ "name":"fullname", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"sex", "type":"gender", "menuitems":["male","female"] },
+				{ "name":"nationality", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"issuing_authority", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"birthdate", "type":"date" },
+				{ "name":"birthplace", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"issue_date", "type":"date" },
+				{ "name":"expiry_date", "type":"date" }
+			]
+		}
+	]
+}

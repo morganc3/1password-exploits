@@ -1,0 +1,18 @@
+"__title__" = "Servidor";
+"__pluralTitle__" = "Servidores";
+
+"set.admin_console" = "Painel de administração";
+"set.hosting_provider_details" = "Fornecedor de alojamento";
+
+"__description__" = "Dados de uma conta de um servidor dedicado (Linux ou FreeBSD), sistema VPS, etc.";
+
+"url" = "URL";
+"username" = "nome de utilizador";
+"password" = "palavra-passe";
+"admin_console_url" = "URL do painel de administração";
+"admin_console_username" = "nome de utilizador do painel de administração";
+"admin_console_password" = "palavra-passe do painel de administração";
+"name" = "nome";
+"website" = "site";
+"support_contact_url" = "URL do suporte";
+"support_contact_phone" = "telefone do suporte";

@@ -1,0 +1,14 @@
+"__title__" = "Programa de Fidelidade";
+"__pluralTitle__" = "Programas de Fidelidade";
+"__description__" = "Programas de fidelidade do cliente, incluindo milhagens e hospedagem";
+
+"company_name" = "Nome da empresa";
+"member_name" = "Nome do membro";
+"member_since" = "Membro desde";
+"membership_no" = "número de membro";
+"additional_no" = "número de membro (adicional)";
+"pin" = "PIN";
+"customer_service_phone" = "Telefone para suporte ao cliente";
+"reservations_phone" = "Telefone para reservas";
+"website" = "site";
+"set.extra" = "Mais informações";

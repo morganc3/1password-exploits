@@ -1,0 +1,20 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Fönster";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Vault Name"; ObjectID = "1BM-zQ-D00"; */
+"1BM-zQ-D00.placeholderString" = "Valvnamn";
+
+/* Class = "NSButtonCell"; title = "Create Vault"; ObjectID = "5y3-Gu-V2t"; */
+"5y3-Gu-V2t.title" = "Skapa valv";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "OsZ-O6-8CW"; */
+"OsZ-O6-8CW.title" = "Avbryt";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Enter Vault Password"; ObjectID = "axw-qu-UWv"; */
+"axw-qu-UWv.placeholderString" = "Ange lösenord för valv";
+
+/* Class = "NSTextFieldCell"; title = "1Password will create a new vault from abc.agilekeychain file and keep it in sync."; ObjectID = "nwB-8q-DWi"; */
+"nwB-8q-DWi.title" = "1Password kommer att skapa ett nytt valv från filen abc.agilekeychain och hålla det synkroniserat.";
+
+/* Class = "NSTextFieldCell"; title = "Create New Vault"; ObjectID = "wc9-YE-wpV"; */
+"wc9-YE-wpV.title" = "Skapa nytt valv";

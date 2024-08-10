@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "1Password Watchtower"; ObjectID = "Cim-qL-VGh"; */
+"Cim-qL-VGh.title" = "Torre de vigia da 1Password";
+
+/* Class = "NSTextFieldCell"; title = "Last updated:"; ObjectID = "Hcn-2K-nhY"; */
+"Hcn-2K-nhY.title" = "Última atualização:";
+
+/* Class = "NSButtonCell"; title = "Enable 1Password Watchtower"; ObjectID = "QBF-93-hg7"; */
+"QBF-93-hg7.title" = "Ativar torre de vigia da 1Password";
+
+/* Class = "NSButtonCell"; title = "Update Now"; ObjectID = "rVb-9g-yGh"; */
+"rVb-9g-yGh.title" = "Atualizar agora";
+
+/* Class = "NSTextFieldCell"; title = "Improve your security with the 1Password Watchtower service. Website vulnerability information will be refreshed daily and used to verify items in your vault. Your website information is never transmitted to the 1Password Watchtower service."; ObjectID = "xh0-d4-czt"; */
+"xh0-d4-czt.title" = "Aumente o nível de segurança do seu cofre com a torre de vigia da 1Password. Os elementos vulneráveis são detetados e reunidos na torre de vigia. A torre de vigia não tem acesso, nem controlo, sobre as ligações a que as palavras-passe estão associadas.";

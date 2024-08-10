@@ -1,0 +1,56 @@
+/* Class = "NSButtonCell"; title = "Use rich icons"; ObjectID = "47"; */
+"47.title" = "Usar ícones elaborados";
+
+/* Class = "NSButtonCell"; title = "Show item count in sidebar"; ObjectID = "75"; */
+"75.title" = "Mostrar contagem de itens na barra lateral";
+
+/* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "91"; */
+"91.title" = "Visualização";
+
+/* Class = "NSTextFieldCell"; title = "1Password mini"; ObjectID = "130"; */
+"130.title" = "1Password mini";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Always keep 1Password mini running in the background"; ObjectID = "133"; */
+"133.ibExternalAccessibilityDescription" = "Sempre manter o 1Password mini sendo executado em segundo plano";
+
+/* Class = "NSButtonCell"; title = "Always keep 1Password mini running"; ObjectID = "134"; */
+"134.title" = "Sempre manter o 1Password mini ativo";
+
+/* Class = "NSButtonCell"; title = "Show mini app icon in the menu bar"; ObjectID = "146"; */
+"146.title" = "Mostrar o ícone do aplicativo mini na barra de menu";
+
+/* Class = "NSTextFieldCell"; title = "Keyboard shortcuts"; ObjectID = "152"; */
+"152.title" = "Atalhos do teclado";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Keyboard Shortcut"; ObjectID = "155"; */
+"155.ibExternalAccessibilityDescription" = "Atalhos do teclado";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Keyboard Shortcut"; ObjectID = "156"; */
+"156.ibExternalAccessibilityDescription" = "Atalhos do teclado";
+
+/* Class = "NSTextFieldCell"; title = "Show 1Password mini"; ObjectID = "157"; */
+"157.title" = "Mostrar o 1Password mini";
+
+/* Class = "NSTextFieldCell"; title = "Fill Login on current web page"; ObjectID = "158"; */
+"158.title" = "Preencher dados na página do site atual";
+
+/* Class = "NSTextFieldCell"; title = "Lock 1Password"; ObjectID = "C7A-JQ-rWr"; */
+"C7A-JQ-rWr.title" = "Bloquear o 1Password";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "IyO-Cq-cpb"; */
+"IyO-Cq-cpb.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "Mb3-6F-bZk"; */
+"Mb3-6F-bZk.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Recommended if you use 1Password in Safari and other web browsers."; ObjectID = "SAL-qx-hBw"; */
+"SAL-qx-hBw.title" = "Recomendado se você usa o 1Password no Safari e outros navegadores.";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Tp1-wi-HVu"; */
+"Tp1-wi-HVu.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Always open to"; ObjectID = "efP-Yf-T4q"; */
+"efP-Yf-T4q.title" = "Sempre abrir para";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Keyboard Shortcut"; ObjectID = "j6e-LA-zQH"; */
+"j6e-LA-zQH.ibExternalAccessibilityDescription" = "Atalhos do teclado";

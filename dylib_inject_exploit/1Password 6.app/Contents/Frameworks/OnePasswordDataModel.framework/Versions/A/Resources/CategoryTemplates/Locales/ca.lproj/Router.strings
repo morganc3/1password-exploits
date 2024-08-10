@@ -1,0 +1,18 @@
+"__title__" = "Router sense fils";
+"__pluralTitle__" = "Routers sense fils";
+"__description__" = "Informació del compte per a la vostra AirPort Extreme o d'altres routers sense fils.";
+
+"network_name" = "nom de la xarxa";
+"name" = "nom de l'estació base";
+"password" = "contrasenya de l'estació base";
+"server" = "servidor / adreça IP";
+"airport_id" = "AirPort ID";
+"wireless_security" = "seguretat sense fils";
+"wireless_password" = "contrasenya de la xarxa sense fils";
+"disk_password" = "contrasenya de l'emmagatzematge adjunt";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Cap tipus de seguretat";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 Personal";
+"menu.wireless_security.wpa2e" = "WPA2 Empresa";

@@ -1,0 +1,40 @@
+"__title__" = "クレジットカード";
+"__pluralTitle__" = "クレジットカード";
+"__description__" = "クレジットカード情報";
+
+"set.contactInfo" = "連絡先情報";
+"set.details" = "追加詳細";
+
+"cardholder" = "カード所有者の氏名";
+"type" = "種類";
+"ccnum" = "番号";
+"cvv" = "認証コード";
+"expiry" = "有効期限日";
+"validFrom" = "有効開始年";
+"bank" = "発行銀行";
+"phoneLocal" = "電話番号（ローカル）";
+"phoneTollFree" = "電話(フリーダイヤル)";
+"phoneIntl" = "電話番号（国際）";
+"website" = "ウェブサイト";
+"pin" = "暗証番号";
+"creditLimit" = "利用限度額";
+"cashLimit" = "現金引出し限度額";
+"interest" = "金利";
+"issuenumber" = "発行番号";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "レーザー";
+"menu.type.unionpay" = "UnionPay\n";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

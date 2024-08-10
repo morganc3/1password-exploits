@@ -1,0 +1,18 @@
+"__title__" = "سرور";
+"__pluralTitle__" = "سرور";
+
+"set.admin_console" = "Admin Console";
+"set.hosting_provider_details" = "Hosting Provider";
+
+"__description__" = "اطلاعات حساب برای لینوکسهای جدا و سرورهای FreeBSD, VPS systems و غیره.";
+
+"url" = "URL";
+"username" = "نام کاربری";
+"password" = "گذرواژه";
+"admin_console_url" = "Admin Console URL";
+"admin_console_username" = "Admin Console Username";
+"admin_console_password" = "Console Password";
+"name" = "Name";
+"website" = "وب سایت";
+"support_contact_url" = "Support URL";
+"support_contact_phone" = "Support Phone #";

@@ -1,0 +1,40 @@
+"__title__" = "신용카드";
+"__pluralTitle__" = "신용카드";
+"__description__" = "신용카드 정보";
+
+"set.contactInfo" = "연락처 정보";
+"set.details" = "추가정보";
+
+"cardholder" = "카드 소유자 이름";
+"type" = "유형";
+"ccnum" = "번호";
+"cvv" = "인증번호";
+"expiry" = "만료일";
+"validFrom" = "취득일";
+"bank" = "발급은행";
+"phoneLocal" = "전화번호 (국내)";
+"phoneTollFree" = "전화번호 (수신자 부담)";
+"phoneIntl" = "전화번호 (국제)";
+"website" = "웹사이트";
+"pin" = "PIN";
+"creditLimit" = "신용한도";
+"cashLimit" = "현금인출한도";
+"interest" = "이자율";
+"issuenumber" = "발급번호";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "레이저";
+"menu.type.unionpay" = "UnionPay";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

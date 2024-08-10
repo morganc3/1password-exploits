@@ -1,0 +1,14 @@
+"__title__" = "برنامج المكافئات";
+"__pluralTitle__" = "برنامج المكافئات";
+"__description__" = "برامج ولاء العملاء بما فيه عضوية شركات الطيران ومكافئات الفنادق";
+
+"company_name" = "اسم الشركة";
+"member_name" = "اسم العضو";
+"member_since" = "عضو منذ";
+"membership_no" = "رقم العضوية";
+"additional_no" = "رقم العضوية (إضافي)";
+"pin" = "رقم التعريف الشخصي PIN";
+"customer_service_phone" = "رقم خدمة العملاء";
+"reservations_phone" = "phone for reserva​tions";
+"website" = "موقع";
+"set.extra" = "المزيد من المعلومات";

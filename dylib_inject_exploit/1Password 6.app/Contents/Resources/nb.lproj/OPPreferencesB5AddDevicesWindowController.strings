@@ -1,0 +1,14 @@
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "C7E-xj-wbz"; */
+"C7E-xj-wbz.title" = "Ferdig";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Vindu";
+
+/* Class = "NSButtonCell"; title = "Send Link"; ObjectID = "HUh-Ll-ujj"; */
+"HUh-Ll-ujj.title" = "Send lenke";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "IVm-3a-skV"; */
+"IVm-3a-skV.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Scan this QR Code into 1Password on your other device"; ObjectID = "cbx-Ab-FGT"; */
+"cbx-Ab-FGT.title" = "Skann denne QR koden i 1Password på den andre enheten";

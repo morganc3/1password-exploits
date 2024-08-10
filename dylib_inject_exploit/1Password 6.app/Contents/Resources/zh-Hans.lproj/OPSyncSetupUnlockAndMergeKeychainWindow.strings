@@ -1,0 +1,38 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1UO-5b-d6U"; */
+"1UO-5b-d6U.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "1pr-R0-hsy"; */
+"1pr-R0-hsy.title" = "密码提示：";
+
+/* Class = "NSTextFieldCell"; title = "Vault found in Remote"; ObjectID = "6La-1P-BsB"; */
+"6La-1P-BsB.title" = "在远端找到保险库";
+
+/* Class = "NSTextFieldCell"; title = "Last Modified:"; ObjectID = "BFN-Uf-Lqo"; */
+"BFN-Uf-Lqo.title" = "最后修改时间：";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Enter Password"; ObjectID = "HPs-Jo-dQ6"; */
+"HPs-Jo-dQ6.placeholderString" = "输入密码";
+
+/* Class = "NSButtonCell"; title = "Unlock and Merge"; ObjectID = "S7a-3a-uOY"; */
+"S7a-3a-uOY.title" = "解锁并合并";
+
+/* Class = "NSTextFieldCell"; title = "Please review the information below before deciding to merge."; ObjectID = "eG5-Ul-9YJ"; */
+"eG5-Ul-9YJ.title" = "请复查下面的信息然后再决定是否合并。";
+
+/* Class = "NSTextFieldCell"; title = "Last Modified:"; ObjectID = "eLJ-IC-5Yl"; */
+"eLJ-IC-5Yl.title" = "最后修改时间：";
+
+/* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "hnt-h3-082"; */
+"hnt-h3-082.title" = "密码提示：";
+
+/* Class = "NSTextFieldCell"; title = "Enter vault password:"; ObjectID = "nIU-VX-Nf8"; */
+"nIU-VX-Nf8.title" = "输入保险库密码：";
+
+/* Class = "NSTextFieldCell"; title = "1Password detected that your local vault is different from the data you selected in remote."; ObjectID = "t9y-Mc-hUq"; */
+"t9y-Mc-hUq.title" = "1Password 检测到你的本地保险库与你选择的远程数据有出入。";
+
+/* Class = "NSTextFieldCell"; title = "1Password Vault"; ObjectID = "wIT-hh-An7"; */
+"wIT-hh-An7.title" = "1Password 保险库";

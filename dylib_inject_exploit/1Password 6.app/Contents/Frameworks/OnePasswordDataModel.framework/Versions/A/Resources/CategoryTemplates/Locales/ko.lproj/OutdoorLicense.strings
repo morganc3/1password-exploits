@@ -1,0 +1,10 @@
+"__title__" = "레저활동 면허";
+"__pluralTitle__" = "레저활동 면허";
+
+"name" = "성명";
+"valid_from" = "취득일";
+"expires" = "만료일";
+"game" = "1종면허";
+"quota" = "3종면허";
+"state" = "주";
+"country" = "국가";

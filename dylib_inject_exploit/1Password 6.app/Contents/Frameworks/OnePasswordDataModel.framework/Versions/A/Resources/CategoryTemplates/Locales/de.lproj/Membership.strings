@@ -1,0 +1,11 @@
+"__title__" = "Mitgliedschaft";
+"__pluralTitle__" = "Mitgliedschaften";
+"__description__" = "Vereins- oder Clubmitgliedschaft";
+"org_name" = "Organisation";
+"phone" = "Telefon";
+"website" = "Webseite";
+"member_name" = "Mitgliedsname";
+"member_since" = "Mitglied seit";
+"expiry_date" = "Gültigkeitsdatum";
+"membership_no" = "Mitglieds-Nr.";
+"pin" = "Passwort";

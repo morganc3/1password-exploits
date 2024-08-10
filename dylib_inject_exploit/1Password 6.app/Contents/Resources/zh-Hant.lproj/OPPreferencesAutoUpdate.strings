@@ -1,0 +1,20 @@
+/* Class = "NSTextFieldCell"; title = "The beta builds are published more often. They include less tested features and improvements."; ObjectID = "0Wd-YP-6lP"; */
+"0Wd-YP-6lP.title" = "測試版發佈頻率較高。當中包含未經嚴格測試的功能和改進。";
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "Hta-H9-2rd"; */
+"Hta-H9-2rd.title" = "自動檢查更新";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "Jvj-96-pAY"; */
+"Jvj-96-pAY.title" = "檢查";
+
+/* Class = "NSButtonCell"; title = "Include beta builds"; ObjectID = "NNv-7u-c5G"; */
+"NNv-7u-c5G.title" = "包括測試版";
+
+/* Class = "NSTextFieldCell"; title = "Check for updates"; ObjectID = "V4w-sw-LvB"; */
+"V4w-sw-LvB.title" = "檢查更新";
+
+/* Class = "NSButtonCell"; title = "Show Release Notes"; ObjectID = "Zrb-Lg-l7l"; */
+"Zrb-Lg-l7l.title" = "Show Release Notes";
+
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "vbT-hy-6O3"; */
+"vbT-hy-6O3.title" = "現在檢查";

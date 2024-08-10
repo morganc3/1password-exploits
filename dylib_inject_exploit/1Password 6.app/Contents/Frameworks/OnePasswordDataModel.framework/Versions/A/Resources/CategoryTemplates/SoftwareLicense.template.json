@@ -1,0 +1,49 @@
+{
+	"uuid":"100",
+	"localized":"yes",
+    "hidden":"yes",
+    "subtitle":"product_version",
+	"icons": {
+		"list":"type-app-license-list",
+		"detail":"type-app-license-details"
+	},
+	"contents":[
+		{
+			"set":"",
+			"hideOnMac":"yes",
+			"fields":[
+				{ "name":"product_version", "type":"string", "inputTraits" : { "keyboard": "NumbersAndPunctuation" } },
+				{ "name":"reg_code", "type":"string", "attributes": { "multiline":"yes", "guarded":"yes" } }
+			]
+		},
+		{
+			"set":"customer",
+			"fields":[
+				{ "name":"reg_name", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"reg_email", "type":"email", "inputTraits" : { "keyboard": "EmailAddress" } },
+				{ "name":"company", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } }
+			]
+		},
+		
+		{
+			"set":"publisher",
+			"fields":[
+				{ "name":"download_link", "type":"URL" },
+				{ "name":"publisher_name", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"publisher_website", "type":"URL" },
+				{ "name":"retail_price", "type":"string", "inputTraits" : { "keyboard": "NumbersAndPunctuation" } },
+				{ "name":"support_email", "type":"email", "inputTraits" : { "autocapitalization" : "EmailAddress" } }
+			]
+		},
+		
+		{
+			"set":"order",
+			"fields":[
+				{ "name":"order_date", "type":"date" },
+				{ "name":"order_number", "type":"string" },
+				{ "name":"order_total", "type":"string", "inputTraits" : { "keyboard": "NumbersAndPunctuation" } }
+			]
+		}
+		
+	]
+}

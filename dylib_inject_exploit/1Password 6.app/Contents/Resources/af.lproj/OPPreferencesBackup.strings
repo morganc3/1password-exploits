@@ -1,0 +1,26 @@
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Backups"; ObjectID = "28"; */
+"28.ibExternalAccessibilityDescription" = "Rugsteunkopieë";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "35"; */
+"35.title" = "Tekssel";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "36"; */
+"36.title" = "Tekssel";
+
+/* Class = "NSButtonCell"; title = "Restore"; ObjectID = "57"; */
+"57.title" = "Stel terug";
+
+/* Class = "NSButtonCell"; title = "Backup Now"; ObjectID = "63"; */
+"63.title" = "Maak nou rugsteunkopie";
+
+/* Class = "NSTextFieldCell"; title = "Backups"; ObjectID = "88"; */
+"88.title" = "Rugsteunkopieë";
+
+/* Class = "NSButtonCell"; title = "Show Files"; ObjectID = "F0S-d0-HVW"; */
+"F0S-d0-HVW.title" = "Toon Lêers";
+
+/* Class = "NSButtonCell"; title = "Find Backup"; ObjectID = "hI5-FD-QyE"; */
+"hI5-FD-QyE.title" = "Vind Rugsteunkopie";
+
+/* Class = "NSTextFieldCell"; title = "Backups are created automatically\n\nUp to 30 daily and 24 monthly files are kept"; ObjectID = "xBp-bM-owh"; */
+"xBp-bM-owh.title" = "Rugsteunkopieë word outomaties gemaak\n\nDie 30 mees onlangse rugsteunkopieë word gehou";

@@ -1,0 +1,11 @@
+/* Class = "NSWindow"; title = "Account Frozen"; ObjectID = "Md5-ls-Hl7"; */
+"Md5-ls-Hl7.title" = "Tili jäädytetty";
+
+/* Class = "NSTextFieldCell"; title = "1Password Account Frozen"; ObjectID = "NfH-hp-H2V"; */
+"NfH-hp-H2V.title" = "1Password-tili jäädytetty";
+
+/* Class = "NSButtonCell"; title = "Not Now"; ObjectID = "V8P-Ok-fdB"; */
+"V8P-Ok-fdB.title" = "Ei nyt";
+
+/* Class = "NSButtonCell"; title = "Update Billing"; ObjectID = "bUi-CW-lTP"; */
+"bUi-CW-lTP.title" = "Päivitä laskutus";

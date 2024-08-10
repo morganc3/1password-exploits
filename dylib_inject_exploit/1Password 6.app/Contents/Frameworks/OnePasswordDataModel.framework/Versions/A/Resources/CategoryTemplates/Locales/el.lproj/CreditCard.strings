@@ -1,0 +1,40 @@
+"__title__" = "Πιστωτική Κάρτα";
+"__pluralTitle__" = "Πιστωτικές Κάρτες";
+"__description__" = "Στοιχεία Πιστωτικής Κάρτας";
+
+"set.contactInfo" = "Στοιχεία Επικοινωνίας";
+"set.details" = "Πρόσθετες Λεπτομέρειες";
+
+"cardholder" = "όνομα κατόχου κάρτας";
+"type" = "τύπος";
+"ccnum" = "αριθμός";
+"cvv" = "αριθμός επαλήθευσης";
+"expiry" = "λήξη";
+"validFrom" = "ισχύ";
+"bank" = "εκδότρια τράπεζα";
+"phoneLocal" = "τηλέφωνο (τοπικό)";
+"phoneTollFree" = "τηλέφωνο (χωρίς χρέωση)";
+"phoneIntl" = "τηλέφωνο (διεθνές)";
+"website" = "ιστοσελίδα";
+"pin" = "PIN";
+"creditLimit" = "πιστωτικό όριο";
+"cashLimit" = "όριο ανάληψης";
+"interest" = "επιτόκιο";
+"issuenumber" = "αριθμός έκδοσης";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "Λέιζερ";
+"menu.type.unionpay" = "UnionPay";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

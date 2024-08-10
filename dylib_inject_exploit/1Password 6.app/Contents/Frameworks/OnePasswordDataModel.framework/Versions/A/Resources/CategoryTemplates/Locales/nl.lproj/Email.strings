@@ -1,0 +1,56 @@
+"__title__" = "E-mailaccount";
+"__pluralTitle__" = "E-mailaccounts";
+"__description__" = "Gegevens van e-mailaccount";
+"pop_username" = "gebruikersnaam";
+"pop_password" = "wachtwoord";
+"pop_server" = "server";
+"pop_type" = "soort";
+"pop_port" = "poortnummer";
+"pop_security" = "veiligheid";
+"pop_authentication" = "auth​ method";
+"set.SMTP" = "SMTP";
+"smtp_username" = "gebruikersnaam";
+"smtp_password" = "wachtwoord";
+"smtp_server" = "SMTP-server";
+"smtp_type" = "soort";
+"smtp_port" = "poortnummer";
+"smtp_security" = "veiligheid";
+"smtp_authentication" = "auth​ method";
+"set.Contact Information" = "Contactgegevens";
+"provider" = "provider";
+"provider_website" = "website van = provider";
+"phone_tollfree" = "Telefoon (kosteloos)";
+"phone_local" = "telefoon (lokaal)";
+
+"menu.pop_type." = "";
+"menu.pop_type.pop3" = "POP3";
+"menu.pop_type.imap" = "IMAP";
+"menu.pop_type.either" = "POP3 dan wel IMAP";
+
+"menu.pop_security." = "";
+"menu.pop_security.none" = "Geen";
+"menu.pop_security.SSL" = "SSL";
+"menu.pop_security.TLS" = "TLS";
+
+"menu.pop_authentication." = "";
+"menu.pop_authentication.none" = "Geen";
+"menu.pop_authentication.password" = "Wachtwoord";
+"menu.pop_authentication.md5_challenge_response" = "MD5-Challenge-Response";
+"menu.pop_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+"menu.pop_authentication.kerberos_v4" = "Kerberos versie 4";
+"menu.pop_authentication.kerberos_v5" = "Kerberos versie 5 (GSSAPI)";
+"menu.pop_authentication.ntlm" = "NTLM";
+
+"menu.smtp_security." = "";
+"menu.smtp_security.none" = "Geen";
+"menu.smtp_security.SSL" = "SSL";
+"menu.smtp_security.TLS" = "TLS";
+
+"menu.smtp_authentication." = "";
+"menu.smtp_authentication.none" = "Geen";
+"menu.smtp_authentication.password" = "Wachtwoord";
+"menu.smtp_authentication.md5_challenge_response" = "MD5-Challenge-Response";
+"menu.smtp_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+"menu.smtp_authentication.kerberos_v4" = "Kerberos versie 4";
+"menu.smtp_authentication.kerberos_v5" = "Kerberos versie 5 (GSSAPI)";
+"menu.smtp_authentication.ntlm" = "NTLM";

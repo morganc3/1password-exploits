@@ -1,0 +1,25 @@
+{
+	"uuid":"102",
+	"localized":"yes",
+    "subtitle":"hostname",
+	"icons": {
+		"list":"type-database-list",
+		"detail":"type-database-details"
+	},
+	"contents":[
+		{
+		"set":"",
+		"fields":[
+				{ "name":"database_type", "type":"menu", "menuitems":["db2","filemaker", "msaccess","mssql","mysql","oracle","postgresql","sqlite","other"] },
+				{ "name":"hostname", "type":"string", "inputTraits" : { "keyboard": "URL" } },
+				{ "name":"port", "type":"string", "inputTraits" : { "keyboard": "NumberPad" } },
+				{ "name":"database", "type":"string", "inputTraits" : { "autocorrection": "no", "autocapitalization" : "none" } },
+				{ "name":"username", "type":"string", "isUsername":"yes", "inputTraits" : { "autocorrection": "no", "autocapitalization" : "none" } },
+				{ "name":"password", "type":"concealed" },
+				{ "name":"sid", "type":"string"},
+				{ "name":"alias", "type":"string"},
+				{ "name":"options", "type":"string"}
+			]
+		}
+	]
+}

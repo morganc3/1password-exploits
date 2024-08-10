@@ -1,0 +1,38 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Janela";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1UO-5b-d6U"; */
+"1UO-5b-d6U.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "1pr-R0-hsy"; */
+"1pr-R0-hsy.title" = "Pista para a palavra-passe:";
+
+/* Class = "NSTextFieldCell"; title = "Vault found in Remote"; ObjectID = "6La-1P-BsB"; */
+"6La-1P-BsB.title" = "Foi um encontrado um cofre remoto";
+
+/* Class = "NSTextFieldCell"; title = "Last Modified:"; ObjectID = "BFN-Uf-Lqo"; */
+"BFN-Uf-Lqo.title" = "Última alteração:";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Enter Password"; ObjectID = "HPs-Jo-dQ6"; */
+"HPs-Jo-dQ6.placeholderString" = "Digite a palavra-passe";
+
+/* Class = "NSButtonCell"; title = "Unlock and Merge"; ObjectID = "S7a-3a-uOY"; */
+"S7a-3a-uOY.title" = "Desbloquear e combinar";
+
+/* Class = "NSTextFieldCell"; title = "Please review the information below before deciding to merge."; ObjectID = "eG5-Ul-9YJ"; */
+"eG5-Ul-9YJ.title" = "Antes de combinar os cofres, certifique-se de que estas informações estão corretas.";
+
+/* Class = "NSTextFieldCell"; title = "Last Modified:"; ObjectID = "eLJ-IC-5Yl"; */
+"eLJ-IC-5Yl.title" = "Última alteração:";
+
+/* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "hnt-h3-082"; */
+"hnt-h3-082.title" = "Pista para a palavra-passe:";
+
+/* Class = "NSTextFieldCell"; title = "Enter vault password:"; ObjectID = "nIU-VX-Nf8"; */
+"nIU-VX-Nf8.title" = "Digite a palavra-passe deste cofre:";
+
+/* Class = "NSTextFieldCell"; title = "1Password detected that your local vault is different from the data you selected in remote."; ObjectID = "t9y-Mc-hUq"; */
+"t9y-Mc-hUq.title" = "A 1Password detetou que as informações do seu cofre local são diferentes das do cofre remoto.";
+
+/* Class = "NSTextFieldCell"; title = "1Password Vault"; ObjectID = "wIT-hh-An7"; */
+"wIT-hh-An7.title" = "Cofre da 1Password";

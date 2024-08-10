@@ -1,0 +1,40 @@
+"__title__" = "Kredittkort";
+"__pluralTitle__" = "Kredittkort";
+"__description__" = "Kredittkortinfo";
+
+"set.contactInfo" = "Kontaktinformasjon";
+"set.details" = "Ytterlige detaljer";
+
+"cardholder" = "Kortinnehavers navn";
+"type" = "Type";
+"ccnum" = "Nummer";
+"cvv" = "Verifiseringsnummer";
+"expiry" = "Utløpsdato";
+"validFrom" = "Gyldig fra";
+"bank" = "Utstedende bank";
+"phoneLocal" = "Telefonnummer (lokal)";
+"phoneTollFree" = "Telefonnummer (gratis)";
+"phoneIntl" = "Telefonnummer (utland)";
+"website" = "Nettside";
+"pin" = "PIN";
+"creditLimit" = "Kredittgrense";
+"cashLimit" = "Kontantuttaksgrense";
+"interest" = "Rente";
+"issuenumber" = "Utstedelsesnummer";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "Laser";
+"menu.type.unionpay" = "UnionPay";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

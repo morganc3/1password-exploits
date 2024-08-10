@@ -1,0 +1,20 @@
+"__title__" = "Passport";
+"__pluralTitle__" = "Passports";
+"__description__" = "Government issued Passport.";
+
+"type" = "نوع";
+"fullname" = "Full Name";
+"number" = "Number";
+"birthdate" = "Date of Birth";
+"birthplace" = "Place of Birth";
+"nationality" = "Nationality";
+"code" = "Code";
+"sex" = "Sex";
+"issuing_country" = "Issuing Country";
+"issuing_authority" = "Issuing Authority";
+"issue_date" = "Issued On";
+"expiry_date" = "Expiry Date";
+
+"menu.sex." = "";
+"menu.sex.male" = "Male";
+"menu.sex.female" = "Female";

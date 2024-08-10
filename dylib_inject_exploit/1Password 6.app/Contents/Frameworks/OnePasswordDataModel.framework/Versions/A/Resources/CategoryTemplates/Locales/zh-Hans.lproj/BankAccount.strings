@@ -1,0 +1,23 @@
+"__title__" = "银行账户";
+"__pluralTitle__" = "银行账户";
+"__description__" = "银行账户信息。";
+
+"bankName" = "银行名称";
+"owner" = "账户名称";
+"accountType" = "类型";
+"routingNo" = "银行代号";
+"accountNo" = "账号";
+"swift" = "SWIFT 代码";
+"iban" = "IBAN 编号";
+"set.branchInfo" = "分行信息";
+"branchPhone" = "电话";
+"branchAddress" = "地址";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "ATM";
+"menu.accountType.checking" = "支票";
+"menu.accountType.savings" = "储蓄";
+"menu.accountType.loc" = "信用额度";
+"menu.accountType.money_market" = "货币市场";
+"menu.accountType.other" = "其他";

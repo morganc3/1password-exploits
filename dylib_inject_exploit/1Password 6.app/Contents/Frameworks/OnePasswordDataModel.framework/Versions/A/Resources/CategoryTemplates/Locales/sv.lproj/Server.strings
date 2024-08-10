@@ -1,0 +1,18 @@
+"__title__" = "Server";
+"__pluralTitle__" = "Servrar";
+
+"set.admin_console" = "Adminkonsol";
+"set.hosting_provider_details" = "Webbhotell";
+
+"__description__" = "Kontoinformation för dedikerade Linux- och FreeBSD-servrar, VPS-system, etc.";
+
+"url" = "URL";
+"username" = "användarnamn";
+"password" = "lösenord";
+"admin_console_url" = "URL för adminkonsol";
+"admin_console_username" = "användarnamn för adminkonsol";
+"admin_console_password" = "konsollösenord";
+"name" = "namn";
+"website" = "webbplats";
+"support_contact_url" = "support-URL";
+"support_contact_phone" = "support-telefon";

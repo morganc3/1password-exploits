@@ -1,0 +1,22 @@
+"__title__" = "Programvarulicens";
+"__pluralTitle__" = "Programvarulicenser";
+"__description__" = "Programvarulicens, registreringskod eller serienummer.";
+
+"set.customer" = "Kund";
+"set.publisher" = "Utgivare";
+"set.order" = "Order";
+
+"product_name" = "produktnamn";
+"product_version" = "version";
+"reg_name" = "licensierat till";
+"reg_code" = "licensnyckel";
+"reg_email" = "registrerad e-post";
+"company" = "företag";
+"download_link" = "hämtningssida";
+"publisher_name" = "utgivare";
+"retail_price" = "pris";
+"publisher_website" = "webbplats";
+"support_email" = "e-post för support";
+"order_number" = "ordernummer";
+"order_date" = "köpdatum";
+"order_total" = "totalsumma";

@@ -1,0 +1,44 @@
+/* Class = "NSTextFieldCell"; title = "Menu Items"; ObjectID = "0Xd-WX-inQ"; */
+"0Xd-WX-inQ.title" = "Valikkokohteet";
+
+/* Class = "NSButtonCell"; title = "Verify browser code signature"; ObjectID = "5iy-N0-XZz"; */
+"5iy-N0-XZz.title" = "Tarkista selaimen koodin allekirjoitus";
+
+/* Class = "NSTextFieldCell"; title = "Integrations"; ObjectID = "63k-i1-Y49"; */
+"63k-i1-Y49.title" = "Integrointi";
+
+/* Class = "NSTextFieldCell"; title = "Export unencrypted item overviews so that application launchers like Alfred, Quicksilver, and LaunchBar can read 1Password bookmarks."; ObjectID = "6YZ-Ac-vZR"; */
+"6YZ-Ac-vZR.title" = "Vie salaamaton lista kohteista, jotta ohjelmat kuten Alfred, Quicksilver ja LaunchBar voivat lukea 1Passwordin kirjanmerkkejä.";
+
+/* Class = "NSTextFieldCell"; title = "Local Vaults"; ObjectID = "JSx-Gq-3Wh"; */
+"JSx-Gq-3Wh.title" = "Paikalliset holvit";
+
+/* Class = "NSTextFieldCell"; title = "These items will show up in the Item menu"; ObjectID = "NPZ-7I-9Le"; */
+"NPZ-7I-9Le.title" = "Nämä kohteet näytetään Kohde-valikossa";
+
+/* Class = "NSButtonCell"; title = "Show numbers and symbols first"; ObjectID = "P4R-uf-eUc"; */
+"P4R-uf-eUc.title" = "Näytä numerot ja erikoismerkit ensin";
+
+/* Class = "NSButtonCell"; title = "Allow creation of vaults outside of 1Password accounts"; ObjectID = "Rtg-TQ-vhz"; */
+"Rtg-TQ-vhz.title" = "Salli 1Password-tilien ulkopuolisten holvien luonti";
+
+/* Class = "NSButtonCell"; title = "Copy JSON"; ObjectID = "eVS-w3-F41"; */
+"eVS-w3-F41.title" = "Kopioi JSON";
+
+/* Class = "NSTextFieldCell"; title = "Enabling this feature will create a Primary vault on your Mac. You will use the Primary vault to unlock 1Password from now on."; ObjectID = "h0u-7I-S3K"; */
+"h0u-7I-S3K.title" = "Jos otat tämän ominaisuuden käyttöön, 1Password luo Macille ensisijaisen holvin, jota käytetään 1Passwordin avaamiseen jatkossa.";
+
+/* Class = "NSTextFieldCell"; title = "Sorting"; ObjectID = "iSb-i3-KBY"; */
+"iSb-i3-KBY.title" = "Lajittelu";
+
+/* Class = "NSTextFieldCell"; title = "Web Browsers"; ObjectID = "neC-kd-JBx"; */
+"neC-kd-JBx.title" = "Verkkoselaimet";
+
+/* Class = "NSButtonCell"; title = "Copy UUID"; ObjectID = "oNn-FF-Ndl"; */
+"oNn-FF-Ndl.title" = "Kopioi UUID";
+
+/* Class = "NSButtonCell"; title = "Enable 3rd party app integrations"; ObjectID = "tin-BV-rCK"; */
+"tin-BV-rCK.title" = "Ota käyttöön integrointi kolmannen polven ohjelmiin";
+
+/* Class = "NSTextFieldCell"; title = "Verify the identity of web browsers for added security. Disable to allow 1Password to communicate with unsigned browsers. Disabling verifications lowers your security."; ObjectID = "tw7-az-pof"; */
+"tw7-az-pof.title" = "Varmenna selaimen identiteetit suojauksen lisäämiseksi. Kytke pois päältä salliaksesi 1Passwordin ja allekirjoittamattoman selaimen kommunikointi. Poiskytkeminen alentaa tietoturvaa.";

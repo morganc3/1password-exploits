@@ -1,0 +1,20 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Finestra";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Vault Name"; ObjectID = "1BM-zQ-D00"; */
+"1BM-zQ-D00.placeholderString" = "Nom del cofre";
+
+/* Class = "NSButtonCell"; title = "Create Vault"; ObjectID = "5y3-Gu-V2t"; */
+"5y3-Gu-V2t.title" = "Crear el cofre";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "OsZ-O6-8CW"; */
+"OsZ-O6-8CW.title" = "Cancel·lar";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Enter Vault Password"; ObjectID = "axw-qu-UWv"; */
+"axw-qu-UWv.placeholderString" = "Introduïu la contrasenya del cofre";
+
+/* Class = "NSTextFieldCell"; title = "1Password will create a new vault from abc.agilekeychain file and keep it in sync."; ObjectID = "nwB-8q-DWi"; */
+"nwB-8q-DWi.title" = "1Password crearà un nou cofre des del fitxer abc.agilekeychain i el mantindrà actualitzat.";
+
+/* Class = "NSTextFieldCell"; title = "Create New Vault"; ObjectID = "wc9-YE-wpV"; */
+"wc9-YE-wpV.title" = "Crear un nou cofre";

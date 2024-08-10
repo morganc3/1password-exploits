@@ -1,0 +1,10 @@
+"__title__" = "Licencja przyrodnicza";
+"__pluralTitle__" = "Licencje przyrodnicze";
+
+"name" = "Imię i nazwisko";
+"valid_from" = "Ważne od";
+"expires" = "Wygasa";
+"game" = "Approved Wildlife";
+"quota" = "Maximum Quota";
+"state" = "Stan";
+"country" = "Kraj";

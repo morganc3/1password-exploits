@@ -1,0 +1,29 @@
+/* Class = "NSTextFieldCell"; title = "Browser Extension"; ObjectID = "20"; */
+"20.title" = "ブラウザ拡張機能";
+
+/* Class = "NSButtonCell"; title = "Install Browser Extension"; ObjectID = "21"; */
+"21.title" = "ブラウザの拡張機能をインストール";
+
+/* Class = "NSButtonCell"; title = "Detect new usernames and passwords and offer to save them"; ObjectID = "41"; */
+"41.title" = "新しいユーザー名とパスワードを検出し、保存可能にする";
+
+/* Class = "NSButtonCell"; title = "Automatically sign in after filling usernames and passwords"; ObjectID = "43"; */
+"43.title" = "ユーザー名とパスワードを補充して自動ログイン";
+
+/* Class = "NSButtonCell"; title = "Show animation when filling details on page"; ObjectID = "60"; */
+"60.title" = "ページの詳細を補充するときにアニメーションを表示する";
+
+/* Class = "NSTextFieldCell"; title = "(except on the following domains)"; ObjectID = "82"; */
+"82.title" = "(ただし、次のドメインは例外とする)";
+
+/* Class = "NSButtonCell"; title = "Allow filling on pages that closely match saved websites"; ObjectID = "1Pb-ut-IiI"; */
+"1Pb-ut-IiI.title" = "保存された Web サイトと完全一致するページを補充";
+
+/* Class = "NSTextFieldCell"; title = "Filling and Signing In"; ObjectID = "DJV-NN-CAm"; */
+"DJV-NN-CAm.title" = "補充とサインイン";
+
+/* Class = "NSTextFieldCell"; title = "Look and Feel"; ObjectID = "OD7-qV-QC2"; */
+"OD7-qV-QC2.title" = "見た目と操作性";
+
+/* Class = "NSTextFieldCell"; title = "Autosave"; ObjectID = "qA1-wA-oqz"; */
+"qA1-wA-oqz.title" = "自動保存";

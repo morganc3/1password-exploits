@@ -1,0 +1,14 @@
+"__title__" = "Program lojalnościowy";
+"__pluralTitle__" = "Programy lojalnościowe";
+"__description__" = "Programy lojalnościowe dla klientów, włączając częste przeloty i korzystanie z hoteli";
+
+"company_name" = "Nazwa firmy";
+"member_name" = "Nazwa członka";
+"member_since" = "Członkowstwo od";
+"membership_no" = "Członkostwo #";
+"additional_no" = "Członkostwo # (Opcjonalne)";
+"pin" = "Kod PIN";
+"customer_service_phone" = "Telefon do Biura Obsługi Klienta";
+"reservations_phone" = "telefon dla rezerwacji";
+"website" = "Witryna";
+"set.extra" = "Więcej informacji";

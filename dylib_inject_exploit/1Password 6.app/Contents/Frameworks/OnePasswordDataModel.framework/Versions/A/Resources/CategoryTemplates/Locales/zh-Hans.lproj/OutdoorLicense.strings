@@ -1,0 +1,10 @@
+"__title__" = "户外许可证";
+"__pluralTitle__" = "户外许可证";
+
+"name" = "全名";
+"valid_from" = "生效日";
+"expires" = "至";
+"game" = "批准的野生动物";
+"quota" = "最高配额";
+"state" = "州";
+"country" = "国家";

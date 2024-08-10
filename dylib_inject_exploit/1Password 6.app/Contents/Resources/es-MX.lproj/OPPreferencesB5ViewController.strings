@@ -1,0 +1,42 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "4Ay-DE-asW"; */
+"4Ay-DE-asW.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Account Key"; ObjectID = "KSm-g6-HOE"; */
+"KSm-g6-HOE.title" = "Account Key";
+
+/* Class = "NSButtonCell"; title = "Change Password"; ObjectID = "MvG-26-7bh"; */
+"MvG-26-7bh.title" = "Change Password";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "UDa-yD-RWR"; */
+"UDa-yD-RWR.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "•••••••••••••••••••••"; ObjectID = "XKO-pg-1ED"; */
+"XKO-pg-1ED.title" = "•••••••••••••••••••••";
+
+/* Class = "NSButtonCell"; title = "Add Devices"; ObjectID = "aSg-Oy-47K"; */
+"aSg-Oy-47K.title" = "Add Devices";
+
+/* Class = "NSTextFieldCell"; title = "email@address.com"; ObjectID = "d5h-uo-b0M"; */
+"d5h-uo-b0M.title" = "email@address.com";
+
+/* Class = "NSTextFieldCell"; title = "Team URL"; ObjectID = "i17-ig-1oi"; */
+"i17-ig-1oi.title" = "Team URL";
+
+/* Class = "NSTableColumn"; headerCell.title = "Team"; ObjectID = "izj-qi-asT"; */
+"izj-qi-asT.headerCell.title" = "Team";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Account"; ObjectID = "jkK-K8-r7H"; */
+"jkK-K8-r7H.ibExternalAccessibilityDescription" = "Add Account";
+
+/* Class = "NSTextFieldCell"; title = "www.website.com"; ObjectID = "jpe-l4-kDG"; */
+"jpe-l4-kDG.title" = "www.website.com";
+
+/* Class = "NSTextFieldCell"; title = "Email Address"; ObjectID = "naX-Wn-F8v"; */
+"naX-Wn-F8v.title" = "Email Address";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "o3c-wy-Pk5"; */
+"o3c-wy-Pk5.title" = "User Name";
+
+/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "pFq-iP-hst"; */
+"pFq-iP-hst.title" = "Remove Account";

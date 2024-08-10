@@ -1,0 +1,10 @@
+"__title__" = "Metsästyslupa";
+"__pluralTitle__" = "Metsästysluvat";
+
+"name" = "koko nimi";
+"valid_from" = "voimassa alkaen";
+"expires" = "vanhenee";
+"game" = "hyväksytyt villieläimet";
+"quota" = "kiintiön enimmäismäärä";
+"state" = "osavaltio";
+"country" = "maa";

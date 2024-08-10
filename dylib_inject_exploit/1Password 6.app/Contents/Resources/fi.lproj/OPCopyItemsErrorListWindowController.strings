@@ -1,0 +1,26 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "31Y-LR-pAi"; */
+"31Y-LR-pAi.title" = "Tekstiruutu";
+
+/* Class = "NSTextFieldCell"; title = "The following issues occurred while copying items to the vault."; ObjectID = "3ja-K7-F6N"; */
+"3ja-K7-F6N.title" = "Seuraavat ongelmat ilmaantuivat, kun kohteita kopioitiin holviin.";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "79E-t0-4m9"; */
+"79E-t0-4m9.title" = "Taulukkonäkymän solu";
+
+/* Class = "NSTableColumn"; headerCell.title = "Issue"; ObjectID = "8Ge-xa-rGq"; */
+"8Ge-xa-rGq.headerCell.title" = "Ongelma";
+
+/* Class = "NSWindow"; title = "Problems"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Ongelmat";
+
+/* Class = "NSTableColumn"; headerCell.title = "Item"; ObjectID = "G9s-3I-ImZ"; */
+"G9s-3I-ImZ.headerCell.title" = "Kohde";
+
+/* Class = "NSButtonCell"; title = "Dismiss"; ObjectID = "LHp-lv-HZD"; */
+"LHp-lv-HZD.title" = "Hylkää";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lOI-6A-Re5"; */
+"lOI-6A-Re5.title" = "Tekstiruutu";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "pF3-Jx-jdF"; */
+"pF3-Jx-jdF.title" = "Taulukkonäkymän solu";

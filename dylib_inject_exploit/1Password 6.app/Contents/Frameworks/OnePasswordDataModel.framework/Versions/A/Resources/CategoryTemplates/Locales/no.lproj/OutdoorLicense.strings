@@ -1,0 +1,10 @@
+"__title__" = "Jaktkort";
+"__pluralTitle__" = "Jaktkort";
+
+"name" = "Fullt navn";
+"valid_from" = "Gyldig fra";
+"expires" = "Gyldig til";
+"game" = "Tillat vilt";
+"quota" = "Kvote";
+"state" = "Delstat";
+"country" = "Land";

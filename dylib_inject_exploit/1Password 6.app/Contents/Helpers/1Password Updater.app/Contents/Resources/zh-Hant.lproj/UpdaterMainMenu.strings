@@ -1,0 +1,98 @@
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "視窗";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "最小化";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "視窗";
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "1Password Updater"; ObjectID = "56"; */
+"56.title" = "1Password Updater";
+
+/* Class = "NSMenu"; title = "1Password Updater"; ObjectID = "57"; */
+"57.title" = "1Password Updater";
+
+/* Class = "NSMenuItem"; title = "About 1Password Updater"; ObjectID = "58"; */
+"58.title" = "關於 1Password 更新工具";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "關閉";
+
+/* Class = "NSMenuItem"; title = "Source"; ObjectID = "83"; */
+"83.title" = "源";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "服務";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "服務";
+
+/* Class = "NSMenuItem"; title = "Hide 1Password Updater"; ObjectID = "134"; */
+"134.title" = "隱藏 1Password 更新工具";
+
+/* Class = "NSMenuItem"; title = "Quit 1Password Updater"; ObjectID = "136"; */
+"136.title" = "結束 1Password 更新工具";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "隱藏其他";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "顯示全部";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "197"; */
+"197.title" = "複製";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "198"; */
+"198.title" = "全選";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "199"; */
+"199.title" = "剪下";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "202"; */
+"202.title" = "刪除";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "203"; */
+"203.title" = "貼上";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "205"; */
+"205.title" = "編輯";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "207"; */
+"207.title" = "復原";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "215"; */
+"215.title" = "重作";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "217"; */
+"217.title" = "編輯";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "縮放";
+
+/* Class = "NSWindow"; title = "1Password Updater"; ObjectID = "371"; */
+"371.title" = "1Password Updater";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "490"; */
+"490.title" = "幫助";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "491"; */
+"491.title" = "幫助";
+
+/* Class = "NSMenuItem"; title = "1Password Updater Help"; ObjectID = "492"; */
+"492.title" = "1Password 更新工具輔助說明";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "FkW-gM-r2S"; */
+"FkW-gM-r2S.title" = "項目 2";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "J5h-zs-oi6"; */
+"J5h-zs-oi6.title" = "項目 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "M15-y2-8vV"; */
+"M15-y2-8vV.title" = "項目 3";
+
+/* Class = "NSMenu"; title = "Source"; ObjectID = "aky-9I-Qgv"; */
+"aky-9I-Qgv.title" = "源";

@@ -1,0 +1,25 @@
+"__title__" = "데이터베이스";
+"__pluralTitle__" = "데이터베이스";
+"__description__" = "데이터베이스 연결 정보";
+
+"hostname" = "서버";
+"port" = "포트";
+"database" = "데이터베이스";
+"database_type" = "유형";
+"username" = "아이디";
+"password" = "비밀번호";
+"sid" = "SID";
+"alias" = "앨리어스";
+"options" = "연결 옵션";
+
+"menu.database_type." = "";
+"menu.database_type.db2" = "DB2";
+"menu.database_type.filemaker" = "FileMaker";
+"menu.database_type.msaccess" = "Microsoft Access";
+"menu.database_type.mssql" = "MS SQL Server";
+"menu.database_type.mysql" = "MySQL";
+"menu.database_type.oracle" = "Oracle";
+"menu.database_type.postresql" = "PostgreSQL";
+"menu.database_type.postgresql" = "PostgreSQL";
+"menu.database_type.sqlite" = "SQLite";
+"menu.database_type.other" = "기타";

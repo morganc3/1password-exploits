@@ -1,0 +1,11 @@
+"__title__" = "メンバーシップ";
+"__pluralTitle__" = "メンバーシップ";
+"__description__" = "コミュニティまたはクラブのメンバーシップ";
+"org_name" = "組織";
+"phone" = "電話番号";
+"website" = "ウェブサイト";
+"member_name" = "メンバー名";
+"member_since" = "メンバー登録日";
+"expiry_date" = "有効期限日";
+"membership_no" = "メンバーシップ #";
+"pin" = "パスワード";

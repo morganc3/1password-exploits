@@ -1,0 +1,18 @@
+"__title__" = "Řidičský průkaz";
+"__pluralTitle__" = "Řidičské průkazy";
+
+"fullname" = "celé jméno";
+"address" = "adresa";
+"birthdate" = "datum narození";
+"sex" = "pohlaví";
+"height" = "výška";
+"number" = "číslo";
+"class" = "skupiny ŘO";
+"conditions" = "podmínky / omezení";
+"state" = "stát";
+"country" = "země";
+"expiry_date" = "datum expirace";
+
+"menu.sex." = "";
+"menu.sex.male" = "Muž";
+"menu.sex.female" = "Žena";

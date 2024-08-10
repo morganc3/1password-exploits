@@ -1,0 +1,11 @@
+"__title__" = "회원가입정보";
+"__pluralTitle__" = "회원가입정보";
+"__description__" = "회원제 단체 또는 클럽 멤버십";
+"org_name" = "기관";
+"phone" = "전화번호";
+"website" = "웹사이트";
+"member_name" = "회원명";
+"member_since" = "가입일";
+"expiry_date" = "만료일";
+"membership_no" = "회원번호";
+"pin" = "비밀번호";

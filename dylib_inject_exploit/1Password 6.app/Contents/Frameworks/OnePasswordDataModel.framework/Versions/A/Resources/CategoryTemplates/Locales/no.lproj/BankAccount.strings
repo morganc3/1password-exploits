@@ -1,0 +1,23 @@
+"__title__" = "Bankkonto";
+"__pluralTitle__" = "Bankkonti";
+"__description__" = "Bankkontoinformasjon.";
+
+"bankName" = "Banknavn";
+"owner" = "Name on Account";
+"accountType" = "Type";
+"routingNo" = "Routing Number";
+"accountNo" = "Kontonummer";
+"swift" = "SWIFT Code";
+"iban" = "IBAN Number";
+"set.branchInfo" = "Branch Information";
+"branchPhone" = "Telefonnummer";
+"branchAddress" = "Adresse";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "Minibank";
+"menu.accountType.checking" = "Brukskonto";
+"menu.accountType.savings" = "Sparekonto";
+"menu.accountType.loc" = "Kredittgrense";
+"menu.accountType.money_market" = "Money Market";
+"menu.accountType.other" = "Annet";

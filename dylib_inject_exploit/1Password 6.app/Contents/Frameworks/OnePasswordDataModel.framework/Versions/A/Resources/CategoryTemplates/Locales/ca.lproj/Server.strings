@@ -1,0 +1,18 @@
+"__title__" = "Servidor";
+"__pluralTitle__" = "Servidors";
+
+"set.admin_console" = "Consola d'administració";
+"set.hosting_provider_details" = "Proveïdor d'allotjament";
+
+"__description__" = "Informació del compte per a servidors dedicats a Linux i a FreeBSD, sistemes VPS, etc.";
+
+"url" = "URL";
+"username" = "nom d'usuari";
+"password" = "contrasenya";
+"admin_console_url" = "URL de la consola d'administració";
+"admin_console_username" = "Nom d'usuari de la consola d'administració";
+"admin_console_password" = "contrasenya de la consola";
+"name" = "nom";
+"website" = "lloc web";
+"support_contact_url" = "URL de suport";
+"support_contact_phone" = "telèfon d'assistència";

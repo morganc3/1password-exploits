@@ -1,0 +1,37 @@
+<h1>{{item.title}}</h1>
+<p>{{category.localizedSingularName}}</p>
+	
+<br>
+	
+{{#item.URLs}}
+<p>{{calculatedLabel}}: <b><a href="{{{URLString}}}">{{URLString}}</a></b></p>
+{{/item.URLs}}
+
+<br>
+	
+{{#item.username}}
+<p>{{labels.username}}: <b>{{item.username}}</b></p>
+{{/item.username}}
+
+{{#item.password}}
+<p>{{labels.password}}: <b class="password">{{item.password}}</b></p>
+{{/item.password}}
+	
+{{#item.fieldSections}}
+{{^isEmpty}}
+	<h3>{{title}}</h3>
+		
+	{{#nonEmptyFields}}
+		<p>{{title}}: <b>{{stringValue}}</b></p>
+	{{/nonEmptyFields}}
+{{/isEmpty}}
+{{/item.fieldSections}}
+	
+	
+{{#item.notesPlain}}
+<br>
+<p>{{labels.notes}}</p>
+<pre>
+{{{item.notesPlain}}}
+</pre>
+{{/item.notesPlain}}

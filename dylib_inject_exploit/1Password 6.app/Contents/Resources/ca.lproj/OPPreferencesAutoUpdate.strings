@@ -1,0 +1,20 @@
+/* Class = "NSTextFieldCell"; title = "The beta builds are published more often. They include less tested features and improvements."; ObjectID = "0Wd-YP-6lP"; */
+"0Wd-YP-6lP.title" = "Les versions beta es publiquen amb més freqüència. Amb elles s'inclouen característiques no tan provades com també millores.";
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "Hta-H9-2rd"; */
+"Hta-H9-2rd.title" = "Comprovar l'existència d'actualitzacions automàticament";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "Jvj-96-pAY"; */
+"Jvj-96-pAY.title" = "Comprovar";
+
+/* Class = "NSButtonCell"; title = "Include beta builds"; ObjectID = "NNv-7u-c5G"; */
+"NNv-7u-c5G.title" = "Incloure versions beta";
+
+/* Class = "NSTextFieldCell"; title = "Check for updates"; ObjectID = "V4w-sw-LvB"; */
+"V4w-sw-LvB.title" = "Comprovar l'existència d'actualitzacions";
+
+/* Class = "NSButtonCell"; title = "Show Release Notes"; ObjectID = "Zrb-Lg-l7l"; */
+"Zrb-Lg-l7l.title" = "Show Release Notes";
+
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "vbT-hy-6O3"; */
+"vbT-hy-6O3.title" = "Comprovar-ho ara";

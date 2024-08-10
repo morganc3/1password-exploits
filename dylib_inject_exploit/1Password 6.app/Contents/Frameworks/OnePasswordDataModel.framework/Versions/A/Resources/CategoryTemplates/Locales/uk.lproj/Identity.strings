@@ -1,0 +1,46 @@
+"__title__" = "Identity";
+"__pluralTitle__" = "Identities";
+"__description__" = "It does not really belong to Wallet, we keep it here to generate the detail view.";
+
+"set.name" = "Identification";
+"firstname" = "First Name";
+"initial" = "Initial";
+"lastname" = "Last Name";
+"sex" = "Стать";
+"birthdate" = "Birth Date";
+"occupation" = "Occupation";
+"company" = "Company";
+"department" = "Department";
+"jobtitle" = "Job Title";
+
+"set.internet" = "Internet Details";
+"username" = "Username";
+"reminderq" = "Reminder Question";
+"remindera" = "Reminder Answer";
+"email" = "Email";
+"website" = "Website";
+"icq" = "ICQ";
+"skype" = "Skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "Forum Signature";
+
+"set.address" = "Address";
+"address" = "address";
+"address1" = "Address Line 1";
+"address2" = "Address Line 2";
+"city" = "City/Town/Suburb";
+"state" = "State/Province";
+"zip" = "Zip/Postal Code";
+"country" = "Країна";
+"location" = "Location";
+"phone" = "Telephone";
+"defphone" = "Default Phone";
+"homephone" = "Home";
+"cellphone" = "Cell";
+"busphone" = "Business";
+
+"menu.sex." = "";
+"menu.sex.male" = "Чоловік";
+"menu.sex.female" = "Жінка";

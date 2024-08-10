@@ -1,0 +1,29 @@
+/* Class = "NSTextFieldCell"; title = "Browser Extension"; ObjectID = "20"; */
+"20.title" = "Selainlaajennus";
+
+/* Class = "NSButtonCell"; title = "Install Browser Extension"; ObjectID = "21"; */
+"21.title" = "Asenna selainlaajennus";
+
+/* Class = "NSButtonCell"; title = "Detect new usernames and passwords and offer to save them"; ObjectID = "41"; */
+"41.title" = "Tunnista uudet käyttäjätunnukset ja salasanat ja kysy, tallennetaanko ne";
+
+/* Class = "NSButtonCell"; title = "Automatically sign in after filling usernames and passwords"; ObjectID = "43"; */
+"43.title" = "Autom. kirjautuminen käyttäjätunnuksien ja salasanojen täytön jälkeen";
+
+/* Class = "NSButtonCell"; title = "Show animation when filling details on page"; ObjectID = "60"; */
+"60.title" = "Näytä animaatio täytettäessä tietoja sivulla";
+
+/* Class = "NSTextFieldCell"; title = "(except on the following domains)"; ObjectID = "82"; */
+"82.title" = "(paitsi seuraavissa verkkotunnuksissa)";
+
+/* Class = "NSButtonCell"; title = "Allow filling on pages that closely match saved websites"; ObjectID = "1Pb-ut-IiI"; */
+"1Pb-ut-IiI.title" = "Salli täyttö sivuilla, joiden osoite on lähellä tallennettua";
+
+/* Class = "NSTextFieldCell"; title = "Filling and Signing In"; ObjectID = "DJV-NN-CAm"; */
+"DJV-NN-CAm.title" = "Täyttäminen ja kirjautuminen";
+
+/* Class = "NSTextFieldCell"; title = "Look and Feel"; ObjectID = "OD7-qV-QC2"; */
+"OD7-qV-QC2.title" = "Ulkoasu";
+
+/* Class = "NSTextFieldCell"; title = "Autosave"; ObjectID = "qA1-wA-oqz"; */
+"qA1-wA-oqz.title" = "Automaattinen tallennus";

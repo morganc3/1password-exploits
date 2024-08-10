@@ -1,0 +1,11 @@
+"__title__" = "会员卡";
+"__pluralTitle__" = "会籍";
+"__description__" = "社区或俱乐部的会籍信息";
+"org_name" = "组织";
+"phone" = "电话";
+"website" = "网站";
+"member_name" = "会员姓名";
+"member_since" = "入会日期";
+"expiry_date" = "有效期";
+"membership_no" = "会员编号";
+"pin" = "密码";

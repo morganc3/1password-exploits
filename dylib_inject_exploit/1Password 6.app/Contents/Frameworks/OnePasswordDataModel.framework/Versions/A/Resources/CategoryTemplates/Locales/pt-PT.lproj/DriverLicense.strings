@@ -1,0 +1,18 @@
+"__title__" = "Carta de condução";
+"__pluralTitle__" = "Cartas de condução";
+
+"fullname" = "nome completo";
+"address" = "morada";
+"birthdate" = "data de nascimento";
+"sex" = "género";
+"height" = "altura";
+"number" = "número";
+"class" = "categoria da carta";
+"conditions" = "restrições";
+"state" = "estado";
+"country" = "país";
+"expiry_date" = "data de validade";
+
+"menu.sex." = "";
+"menu.sex.male" = "Masculino";
+"menu.sex.female" = "Feminino";

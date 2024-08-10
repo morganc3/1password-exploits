@@ -1,0 +1,10 @@
+"__title__" = "Llicència de caça";
+"__pluralTitle__" = "Llicències de caça";
+
+"name" = "nom i cognoms";
+"valid_from" = "vàlid des del";
+"expires" = "caduca";
+"game" = "fauna permesa";
+"quota" = "límit màxim";
+"state" = "estat";
+"country" = "país";

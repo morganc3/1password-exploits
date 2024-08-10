@@ -1,0 +1,38 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Окно";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1UO-5b-d6U"; */
+"1UO-5b-d6U.title" = "Отмена";
+
+/* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "1pr-R0-hsy"; */
+"1pr-R0-hsy.title" = "Подсказка:";
+
+/* Class = "NSTextFieldCell"; title = "Vault found in Remote"; ObjectID = "6La-1P-BsB"; */
+"6La-1P-BsB.title" = "Найден удаленный сейф";
+
+/* Class = "NSTextFieldCell"; title = "Last Modified:"; ObjectID = "BFN-Uf-Lqo"; */
+"BFN-Uf-Lqo.title" = "Изменено:";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Enter Password"; ObjectID = "HPs-Jo-dQ6"; */
+"HPs-Jo-dQ6.placeholderString" = "Введите пароль";
+
+/* Class = "NSButtonCell"; title = "Unlock and Merge"; ObjectID = "S7a-3a-uOY"; */
+"S7a-3a-uOY.title" = "Разблокировать и слить";
+
+/* Class = "NSTextFieldCell"; title = "Please review the information below before deciding to merge."; ObjectID = "eG5-Ul-9YJ"; */
+"eG5-Ul-9YJ.title" = "Прежде чем принимать решение слиянии, ознакомьтесь с приведенной ниже информацией.";
+
+/* Class = "NSTextFieldCell"; title = "Last Modified:"; ObjectID = "eLJ-IC-5Yl"; */
+"eLJ-IC-5Yl.title" = "Изменено:";
+
+/* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "hnt-h3-082"; */
+"hnt-h3-082.title" = "Подсказка:";
+
+/* Class = "NSTextFieldCell"; title = "Enter vault password:"; ObjectID = "nIU-VX-Nf8"; */
+"nIU-VX-Nf8.title" = "Введите пароль сейфа:";
+
+/* Class = "NSTextFieldCell"; title = "1Password detected that your local vault is different from the data you selected in remote."; ObjectID = "t9y-Mc-hUq"; */
+"t9y-Mc-hUq.title" = "1Password обнаружил, что ваш местный сейф отличается от данных, которые вы выбрали удаленно.";
+
+/* Class = "NSTextFieldCell"; title = "1Password Vault"; ObjectID = "wIT-hh-An7"; */
+"wIT-hh-An7.title" = "Сейф 1Password";

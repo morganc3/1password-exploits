@@ -1,0 +1,33 @@
+{
+	"uuid":"101",	
+	"localized":"yes",
+    "subtitle":"bankName",
+	"icons": {
+		"list":"type-bank-account-list",
+		"detail":"type-bank-account-details"
+	},
+	"contents":[
+		{
+			"set":"",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"bankName", "type":"string", "inputTraits": { "autocapitalization":"Words" }  },
+				{ "name":"owner", "type":"string", "inputTraits": { "autocapitalization":"Words" } },
+				{ "name":"accountType", "type":"menu", "menuitems":["checking", "savings", "loc", "atm", "money_market", "other"] },
+				{ "name":"routingNo", "type":"string", "width":"80", "inputTraits" : { "keyboard": "NumbersAndPunctuation" } },
+				{ "name":"accountNo", "type":"string", "width":"120", "inputTraits" : { "keyboard": "NumbersAndPunctuation" } },
+				{ "name":"swift", "type":"string", "inputTraits" : { "keyboard": "NumbersAndPunctuation" } },
+				{ "name":"iban", "type":"string", "inputTraits" : { "keyboard": "NumbersAndPunctuation" } },
+				{ "name":"telephonePin", "type":"concealed", "attributes": {"generate":"off"}, "inputTraits" : { "keyboard": "NumberPad" } }
+			]
+		},
+		
+		{
+			"set":"branchInfo",
+			"fields":[
+				{ "name":"branchPhone", "type":"phone", "inputTraits" : { "keyboard": "NamePhonePad" } },
+				{ "name":"branchAddress", "type":"string", "inputTraits": { "autocapitalization":"Sentences" } }
+			]
+		}
+	]
+}

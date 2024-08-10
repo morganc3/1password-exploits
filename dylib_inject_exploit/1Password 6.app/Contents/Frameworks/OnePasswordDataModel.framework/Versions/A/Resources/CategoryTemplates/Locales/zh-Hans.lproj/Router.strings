@@ -1,0 +1,18 @@
+"__title__" = "无线路由器";
+"__pluralTitle__" = "无线路由器";
+"__description__" = "AirPort Extreme 或其他无线路由器的账户信息。";
+
+"network_name" = "网络名称";
+"name" = "基站名称";
+"password" = "基站密码";
+"server" = "服务器/IP 地址";
+"airport_id" = "AirPort ID";
+"wireless_security" = "无线安全";
+"wireless_password" = "无线网络密码";
+"disk_password" = "附加存储密码";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "无安全";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 个人";
+"menu.wireless_security.wpa2e" = "WPA2 企业";

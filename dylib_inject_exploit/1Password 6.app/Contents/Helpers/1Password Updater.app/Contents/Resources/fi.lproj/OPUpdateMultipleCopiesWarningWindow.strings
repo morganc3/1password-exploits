@@ -1,0 +1,32 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4NV-qh-gNA"; */
+"4NV-qh-gNA.title" = "Tekstiruutu";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "7py-hk-akV"; */
+"7py-hk-akV.title" = "Poistu";
+
+/* Class = "NSTextFieldCell"; title = "The extra copies of 1Password are listed below. Click the magnifying glass icon next to each copy to show them in the Finder, then move each one to the Trash."; ObjectID = "7rU-4Z-qcZ"; */
+"7rU-4Z-qcZ.title" = "1Passwordin ylimääräiset kopiot ovat lueteltu alla. Napsauta suurennuslasikuvaketta jokaisen holvin kohdalla näyttääksesi sen Finderissä ja siirrä sitten jokainen yksitellen roskakoriin.";
+
+/* Class = "NSButtonCell"; title = "Update Anyway"; ObjectID = "Dpr-UK-fZQ"; */
+"Dpr-UK-fZQ.title" = "Päivitä silti";
+
+/* Class = "NSWindow"; title = "Warning"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Varoitus";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "N3J-GI-6CD"; */
+"N3J-GI-6CD.title" = "Nimi";
+
+/* Class = "NSButtonCell"; title = "Move to Trash"; ObjectID = "SlN-21-j04"; */
+"SlN-21-j04.title" = "Siirrä roskakoriin";
+
+/* Class = "NSButtonCell"; title = "Learn More…"; ObjectID = "VRn-VF-LxL"; */
+"VRn-VF-LxL.title" = "Lisätietoja…";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Show In Finder"; ObjectID = "kva-5N-ZJO"; */
+"kva-5N-ZJO.ibExternalAccessibilityDescription" = "Näytä Finderissä";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "lHF-s0-im9"; */
+"lHF-s0-im9.title" = "Peruuta";
+
+/* Class = "NSTextFieldCell"; title = "Message"; ObjectID = "qAB-eS-Aq3"; */
+"qAB-eS-Aq3.title" = "Viesti";

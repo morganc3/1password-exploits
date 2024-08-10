@@ -1,0 +1,26 @@
+/* Class = "NSButtonCell"; title = "Sentence Case"; ObjectID = "26k-2M-jBG"; */
+"26k-2M-jBG.title" = "Sentence Case";
+
+/* Class = "NSMenuItem"; title = "Spaces"; ObjectID = "7gd-lK-TJ0"; */
+"7gd-lK-TJ0.title" = "Spaces";
+
+/* Class = "NSButtonCell"; title = "Regenerate"; ObjectID = "7oP-i3-daU"; */
+"7oP-i3-daU.title" = "Regenerate";
+
+/* Class = "NSTextFieldCell"; title = "4"; ObjectID = "IfB-fN-SDi"; */
+"IfB-fN-SDi.title" = "4";
+
+/* Class = "NSTextFieldCell"; title = "Number of Words"; ObjectID = "UHn-5l-68P"; */
+"UHn-5l-68P.title" = "Number of Words";
+
+/* Class = "NSMenuItem"; title = "Underscores"; ObjectID = "YZk-PT-5ll"; */
+"YZk-PT-5ll.title" = "Underscores";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "nyz-ST-xnW"; */
+"nyz-ST-xnW.title" = "None";
+
+/* Class = "NSMenuItem"; title = "Dashes"; ObjectID = "wiG-RH-UHA"; */
+"wiG-RH-UHA.title" = "Dashes";
+
+/* Class = "NSTextFieldCell"; title = "Separate Using"; ObjectID = "ykh-eI-nAT"; */
+"ykh-eI-nAT.title" = "Separate Using";

@@ -1,0 +1,45 @@
+
+/* Class = "NSTextFieldCell"; title = "Menu Items"; ObjectID = "0Xd-WX-inQ"; */
+"0Xd-WX-inQ.title" = "Menu Items";
+
+/* Class = "NSButtonCell"; title = "Verify browser code signature"; ObjectID = "5iy-N0-XZz"; */
+"5iy-N0-XZz.title" = "Verify browser code signature";
+
+/* Class = "NSTextFieldCell"; title = "Integrations"; ObjectID = "63k-i1-Y49"; */
+"63k-i1-Y49.title" = "Integrations";
+
+/* Class = "NSTextFieldCell"; title = "Export unencrypted item overviews so that application launchers like Alfred, Quicksilver, and LaunchBar can read 1Password bookmarks."; ObjectID = "6YZ-Ac-vZR"; */
+"6YZ-Ac-vZR.title" = "Export unencrypted item overviews so that application launchers like Alfred, Quicksilver, and LaunchBar can read 1Password bookmarks.";
+
+/* Class = "NSTextFieldCell"; title = "Personal Vaults"; ObjectID = "JSx-Gq-3Wh"; */
+"JSx-Gq-3Wh.title" = "Personal Vaults";
+
+/* Class = "NSTextFieldCell"; title = "These items will show up in the Item menu"; ObjectID = "NPZ-7I-9Le"; */
+"NPZ-7I-9Le.title" = "These items will show up in the Item menu";
+
+/* Class = "NSButtonCell"; title = "Show numbers and symbols first"; ObjectID = "P4R-uf-eUc"; */
+"P4R-uf-eUc.title" = "Show numbers and symbols first";
+
+/* Class = "NSButtonCell"; title = "Copy JSON"; ObjectID = "eVS-w3-F41"; */
+"eVS-w3-F41.title" = "Copy JSON";
+
+/* Class = "NSTextFieldCell"; title = "Personal vaults are vaults that are disconnected from all 1Password for Teams accounts. They are only stored locally on this device unless you choose to sync them through Dropbox or iCloud."; ObjectID = "h0u-7I-S3K"; */
+"h0u-7I-S3K.title" = "Personal vaults are vaults that are disconnected from all 1Password for Teams accounts. They are only stored locally on this device unless you choose to sync them through Dropbox or iCloud.";
+
+/* Class = "NSTextFieldCell"; title = "Sorting"; ObjectID = "iSb-i3-KBY"; */
+"iSb-i3-KBY.title" = "Sorting";
+
+/* Class = "NSTextFieldCell"; title = "Web Browsers"; ObjectID = "neC-kd-JBx"; */
+"neC-kd-JBx.title" = "Web Browsers";
+
+/* Class = "NSButtonCell"; title = "Copy UUID"; ObjectID = "oNn-FF-Ndl"; */
+"oNn-FF-Ndl.title" = "Copy UUID";
+
+/* Class = "NSButtonCell"; title = "Enable 3rd party app integrations"; ObjectID = "tin-BV-rCK"; */
+"tin-BV-rCK.title" = "Enable 3rd party app integrations";
+
+/* Class = "NSTextFieldCell"; title = "Verify the identity of web browsers for added security. Disable to allow 1Password to communicate with unsigned browsers. Disabling verifications lowers your security."; ObjectID = "tw7-az-pof"; */
+"tw7-az-pof.title" = "Verify the identity of web browsers for added security. Disable to allow 1Password to communicate with unsigned browsers. Disabling verifications lowers your security.";
+
+/* Class = "NSButtonCell"; title = "Enable Personal Vaults"; ObjectID = "zsD-bC-71v"; */
+"zsD-bC-71v.title" = "Enable Personal Vaults";

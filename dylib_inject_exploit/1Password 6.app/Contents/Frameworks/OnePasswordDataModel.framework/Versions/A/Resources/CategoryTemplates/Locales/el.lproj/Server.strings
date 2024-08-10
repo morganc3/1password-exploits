@@ -1,0 +1,18 @@
+"__title__" = "Εξυπηρετητής";
+"__pluralTitle__" = "Εξυπηρετητές";
+
+"set.admin_console" = "Κονσόλα Διαχείρισης";
+"set.hosting_provider_details" = "Πάροχος Φιλοξενίας";
+
+"__description__" = "Πληροφορίες λογαριασμού για αποκλειστικούς διακομιστές Linux και FreeBSD, συστήματα VPS, κλπ.";
+
+"url" = "URL";
+"username" = "όνομα χρήστη";
+"password" = "κωδικός";
+"admin_console_url" = "κονσόλα διαχείρισης URL";
+"admin_console_username" = "όνομα χρήστη κονσόλας διαχείρισης";
+"admin_console_password" = "κωδικός κονσόλας";
+"name" = "όνομα";
+"website" = "ιστοσελίδα";
+"support_contact_url" = "URL υποστήριξης";
+"support_contact_phone" = "τηλέφωνο υποστήριξης";

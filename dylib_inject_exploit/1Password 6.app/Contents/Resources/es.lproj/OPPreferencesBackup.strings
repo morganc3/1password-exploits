@@ -1,0 +1,26 @@
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Backups"; ObjectID = "28"; */
+"28.ibExternalAccessibilityDescription" = "Copias de seguridad";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "35"; */
+"35.title" = "Celda de texto";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "36"; */
+"36.title" = "Celda de texto";
+
+/* Class = "NSButtonCell"; title = "Restore"; ObjectID = "57"; */
+"57.title" = "Restaurar";
+
+/* Class = "NSButtonCell"; title = "Backup Now"; ObjectID = "63"; */
+"63.title" = "Hacer una copia de seguridad ahora";
+
+/* Class = "NSTextFieldCell"; title = "Backups"; ObjectID = "88"; */
+"88.title" = "Copias de seguridad";
+
+/* Class = "NSButtonCell"; title = "Show Files"; ObjectID = "F0S-d0-HVW"; */
+"F0S-d0-HVW.title" = "Mostrar archivos";
+
+/* Class = "NSButtonCell"; title = "Find Backup"; ObjectID = "hI5-FD-QyE"; */
+"hI5-FD-QyE.title" = "Buscar copia de seguridad";
+
+/* Class = "NSTextFieldCell"; title = "Backups are created automatically\n\nUp to 30 daily and 24 monthly files are kept"; ObjectID = "xBp-bM-owh"; */
+"xBp-bM-owh.title" = "Las copias de seguridad se crean automáticamente.\n\nSe guardan hasta 30 copias de seguridad recientes";

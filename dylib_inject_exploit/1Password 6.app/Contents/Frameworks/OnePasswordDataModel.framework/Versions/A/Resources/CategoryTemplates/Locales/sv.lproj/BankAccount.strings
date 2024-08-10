@@ -1,0 +1,23 @@
+"__title__" = "Bankkonto";
+"__pluralTitle__" = "Bankkonton";
+"__description__" = "kontoinformation.";
+
+"bankName" = "bank";
+"owner" = "kontoinnehavare";
+"accountType" = "typ";
+"routingNo" = "routingnummer";
+"accountNo" = "kontonummer";
+"swift" = "SWIFT";
+"iban" = "IBAN";
+"set.branchInfo" = "Bankkontor";
+"branchPhone" = "telefon";
+"branchAddress" = "adress";
+"telephonePin" = "PIN-kod";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "Uttagsautomat";
+"menu.accountType.checking" = "Uttagskonto";
+"menu.accountType.savings" = "Sparkonto";
+"menu.accountType.loc" = "Kredit";
+"menu.accountType.money_market" = "Penningmarknad";
+"menu.accountType.other" = "Annat";

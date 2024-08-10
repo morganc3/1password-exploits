@@ -1,0 +1,56 @@
+"__title__" = "Учетная запись эл. почты";
+"__pluralTitle__" = "Учетная запись эл. почты";
+"__description__" = "Параметры учетной записи эл. почты";
+"pop_username" = "Имя пользователя";
+"pop_password" = "Пароль";
+"pop_server" = "Сервер";
+"pop_type" = "Тип";
+"pop_port" = "Номер порта";
+"pop_security" = "Безопасность";
+"pop_authentication" = "способ аутентификации";
+"set.SMTP" = "SMTP";
+"smtp_username" = "Имя пользователя";
+"smtp_password" = "Пароль";
+"smtp_server" = "SMTP-сервер";
+"smtp_type" = "Тип";
+"smtp_port" = "Номер порта";
+"smtp_security" = "Безопасность";
+"smtp_authentication" = "способ аутентификации";
+"set.Contact Information" = "Contact Information";
+"provider" = "Поставщик";
+"provider_website" = "Веб-сайт поставщика";
+"phone_tollfree" = "Телефон (звонок бесплатный)";
+"phone_local" = "Телефон (местный)";
+
+"menu.pop_type." = "";
+"menu.pop_type.pop3" = "POP3";
+"menu.pop_type.imap" = "IMAP";
+"menu.pop_type.either" = "POP3 или IMAP";
+
+"menu.pop_security." = "";
+"menu.pop_security.none" = "Нет";
+"menu.pop_security.SSL" = "SSL";
+"menu.pop_security.TLS" = "TLS";
+
+"menu.pop_authentication." = "";
+"menu.pop_authentication.none" = "Нет";
+"menu.pop_authentication.password" = "Пароль";
+"menu.pop_authentication.md5_challenge_response" = "Ответ на вызов MD5";
+"menu.pop_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+"menu.pop_authentication.kerberos_v4" = "Kerberos версии 4";
+"menu.pop_authentication.kerberos_v5" = "Kerberos версии 5 (GSSAPI)";
+"menu.pop_authentication.ntlm" = "NTLM";
+
+"menu.smtp_security." = "";
+"menu.smtp_security.none" = "Нет";
+"menu.smtp_security.SSL" = "SSL";
+"menu.smtp_security.TLS" = "TLS";
+
+"menu.smtp_authentication." = "";
+"menu.smtp_authentication.none" = "Нет";
+"menu.smtp_authentication.password" = "Пароль";
+"menu.smtp_authentication.md5_challenge_response" = "Ответ на вызов MD5";
+"menu.smtp_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+"menu.smtp_authentication.kerberos_v4" = "Kerberos версии 4";
+"menu.smtp_authentication.kerberos_v5" = "Kerberos версии 5 (GSSAPI)";
+"menu.smtp_authentication.ntlm" = "NTLM";

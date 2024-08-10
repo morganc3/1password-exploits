@@ -1,0 +1,46 @@
+"__title__" = "Identitet";
+"__pluralTitle__" = "Identiteter";
+"__description__" = "Identiteter";
+
+"set.name" = "Identifikasjon";
+"firstname" = "fornavn";
+"initial" = "initial";
+"lastname" = "etternavn";
+"sex" = "kjønn";
+"birthdate" = "fødselsdato";
+"occupation" = "yrke";
+"company" = "firma";
+"department" = "avdeling";
+"jobtitle" = "yrkestittel";
+
+"set.internet" = "Internettdetaljer";
+"username" = "brukernavn";
+"reminderq" = "påminnelsesspørsmål";
+"remindera" = "påminnelsessvar";
+"email" = "e-post";
+"website" = "nettside";
+"icq" = "ICQ";
+"skype" = "Skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "forumsignatur";
+
+"set.address" = "Adresse";
+"address" = "adresse";
+"address1" = "adresselinje 1";
+"address2" = "adresselinje 2";
+"city" = "by";
+"state" = "delstat/provins";
+"zip" = "postnummer";
+"country" = "land";
+"location" = "sted";
+"phone" = "telefonnummer";
+"defphone" = "standardtelefonnummer";
+"homephone" = "hjem";
+"cellphone" = "mobil";
+"busphone" = "firma";
+
+"menu.sex." = "";
+"menu.sex.male" = "Mann";
+"menu.sex.female" = "Kvinne";

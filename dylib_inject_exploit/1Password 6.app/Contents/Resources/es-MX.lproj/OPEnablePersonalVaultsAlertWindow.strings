@@ -1,0 +1,24 @@
+
+/* Class = "NSTextFieldCell"; title = "Enabling Personal Vaults will create a “Primary” vault that will from now on be used to encrypt the keys for all of your other vaults and 1Password for Teams accounts. This cannot be undone."; ObjectID = "D0O-2d-h3c"; */
+"D0O-2d-h3c.title" = "Enabling Personal Vaults will create a “Primary” vault that will from now on be used to encrypt the keys for all of your other vaults and 1Password for Teams accounts. This cannot be undone.";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "FGg-Jm-ynQ"; */
+"FGg-Jm-ynQ.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "SVM-Dc-eLp"; */
+"SVM-Dc-eLp.title" = "Continue";
+
+/* Class = "NSTextFieldCell"; title = "Enter your Master Password:"; ObjectID = "Uv1-HL-zvj"; */
+"Uv1-HL-zvj.title" = "Enter your Master Password:";
+
+/* Class = "NSButtonCell"; title = "Create Primary Vault"; ObjectID = "Vzz-Dt-cui"; */
+"Vzz-Dt-cui.title" = "Create Primary Vault";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "o7M-QT-MXk"; */
+"o7M-QT-MXk.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "tSi-xG-yg7"; */
+"tSi-xG-yg7.title" = "Label";

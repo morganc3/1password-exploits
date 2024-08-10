@@ -1,0 +1,34 @@
+{
+	"uuid":"107",
+	"localized":"yes",
+    "subtitle":"company_name",
+	"icons": {
+		"list":"type-reward-list",
+		"detail":"type-reward-details"
+	},
+	"contents":[
+		{
+			"set":"",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"company_name", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"member_name", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"membership_no", "type":"string", "attributes":{"clipboardFilter":"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz" }, "inputTraits" : { "autocorrection": "no", "autocapitalization" : "none" } },
+				{ "name":"pin", "type":"concealed", "inputTraits" : { "keyboard": "NumberPad" }  }
+			]
+		},
+		
+		{
+			"set":"extra",
+			"disclosed":"no",
+			"fields":[
+				{ "name":"additional_no", "type":"string", "inputTraits" : { "autocorrection": "no", "autocapitalization" : "none" }  },
+				{ "name":"member_since", "type":"monthYear" },
+				{ "name":"customer_service_phone", "type":"string", "inputTraits" : { "keyboard": "NamePhonePad" } },
+				{ "name":"reservations_phone", "type":"phone", "inputTraits" : { "keyboard": "NamePhonePad" } },
+				{ "name":"website", "type":"URL" }
+			]
+		}
+		
+	]
+}

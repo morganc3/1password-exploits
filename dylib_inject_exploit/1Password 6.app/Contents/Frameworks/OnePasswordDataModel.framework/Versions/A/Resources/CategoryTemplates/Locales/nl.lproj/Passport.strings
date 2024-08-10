@@ -1,0 +1,20 @@
+"__title__" = "Paspoort";
+"__pluralTitle__" = "Paspoorten";
+"__description__" = "Door overheid afgegeven paspoort";
+
+"type" = "soort";
+"fullname" = "volledige naam";
+"number" = "nummer";
+"birthdate" = "geboortedatum";
+"birthplace" = "geboorteplaats";
+"nationality" = "nationaliteit";
+"code" = "code";
+"sex" = "geslacht";
+"issuing_country" = "afgevend land";
+"issuing_authority" = "afgevend instantie";
+"issue_date" = "afgegeven op";
+"expiry_date" = "vervaldatum";
+
+"menu.sex." = "";
+"menu.sex.male" = "Man";
+"menu.sex.female" = "Vrouw";

@@ -1,0 +1,46 @@
+"__title__" = "Identiteit";
+"__pluralTitle__" = "Identiteiten";
+"__description__" = "Identiteiten";
+
+"set.name" = "Identificatie";
+"firstname" = "voornaam";
+"initial" = "initialen";
+"lastname" = "achternaam";
+"sex" = "geslacht";
+"birthdate" = "geboortedatum";
+"occupation" = "beroep";
+"company" = "bedrijf";
+"department" = "afdeling";
+"jobtitle" = "functie";
+
+"set.internet" = "Internetgegevens";
+"username" = "gebruikersnaam";
+"reminderq" = "herinneringsvraag";
+"remindera" = "herinneringsantwoord";
+"email" = "e-mailadres";
+"website" = "website";
+"icq" = "ICQ";
+"skype" = "Skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "forumhandtekening";
+
+"set.address" = "Adres";
+"address" = "adres";
+"address1" = "adresregel 1";
+"address2" = "adresregel 2";
+"city" = "plaats";
+"state" = "staat/provincie";
+"zip" = "postcode";
+"country" = "land";
+"location" = "locatie";
+"phone" = "telefoon";
+"defphone" = "telefoon";
+"homephone" = "thuis";
+"cellphone" = "mobiel";
+"busphone" = "zakelijk";
+
+"menu.sex." = "";
+"menu.sex.male" = "Man";
+"menu.sex.female" = "Vrouw";

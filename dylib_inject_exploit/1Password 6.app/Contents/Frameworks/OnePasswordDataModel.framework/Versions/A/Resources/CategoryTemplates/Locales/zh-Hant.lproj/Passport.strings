@@ -1,0 +1,20 @@
+"__title__" = "護照";
+"__pluralTitle__" = "護照";
+"__description__" = "政府發行的護照";
+
+"type" = "類型";
+"fullname" = "全名";
+"number" = "號碼";
+"birthdate" = "出生日期";
+"birthplace" = "出生地";
+"nationality" = "國籍";
+"code" = "代碼";
+"sex" = "性別";
+"issuing_country" = "發行護照國家";
+"issuing_authority" = "發行護照機關";
+"issue_date" = "發行日期";
+"expiry_date" = "效期截止日期";
+
+"menu.sex." = "";
+"menu.sex.male" = "男";
+"menu.sex.female" = "女";

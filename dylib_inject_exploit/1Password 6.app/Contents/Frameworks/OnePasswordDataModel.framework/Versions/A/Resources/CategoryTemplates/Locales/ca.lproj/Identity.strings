@@ -1,0 +1,46 @@
+"__title__" = "Identificació";
+"__pluralTitle__" = "Identificacions";
+"__description__" = "Identificacions";
+
+"set.name" = "Identificació";
+"firstname" = "nom";
+"initial" = "inicial";
+"lastname" = "cognom";
+"sex" = "sexe";
+"birthdate" = "data de naixement";
+"occupation" = "ocupació";
+"company" = "empresa";
+"department" = "departament";
+"jobtitle" = "títol laboral";
+
+"set.internet" = "Detalls d'internet";
+"username" = "nom d'usuari";
+"reminderq" = "pregunta de recordatori";
+"remindera" = "resposta de recordatori";
+"email" = "Correu electrònic";
+"website" = "Lloc web";
+"icq" = "ICQ";
+"skype" = "skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "signatura de fòrum";
+
+"set.address" = "Adreça";
+"address" = "adreça";
+"address1" = "línia d'adreça 1";
+"address2" = "línia d'adreça 2";
+"city" = "ciutat/poble/districte";
+"state" = "estat/província";
+"zip" = "codi postal";
+"country" = "país";
+"location" = "ubicació";
+"phone" = "telèfon";
+"defphone" = "telèfon per omissió";
+"homephone" = "casa";
+"cellphone" = "mòbil";
+"busphone" = "feina";
+
+"menu.sex." = "";
+"menu.sex.male" = "Home";
+"menu.sex.female" = "Dona";

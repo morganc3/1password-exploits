@@ -1,0 +1,23 @@
+"__title__" = "Bankovní účet";
+"__pluralTitle__" = "Bankovní účty";
+"__description__" = "Údaje bankovního účtu.";
+
+"bankName" = "název banky";
+"owner" = "jméno na účtu";
+"accountType" = "typ";
+"routingNo" = "směrovací číslo";
+"accountNo" = "číslo účtu";
+"swift" = "SWIFT kód";
+"iban" = "IBAN číslo";
+"set.branchInfo" = "Údaje o pobočce";
+"branchPhone" = "telefon";
+"branchAddress" = "adresa";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "Bankomat";
+"menu.accountType.checking" = "Šekový";
+"menu.accountType.savings" = "Spořicí";
+"menu.accountType.loc" = "Úvěrová linka";
+"menu.accountType.money_market" = "Peněžní trh";
+"menu.accountType.other" = "Jiné";

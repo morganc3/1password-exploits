@@ -1,0 +1,18 @@
+"__title__" = "Patente di guida";
+"__pluralTitle__" = "Patenti di guida";
+
+"fullname" = "Nome completo";
+"address" = "Indirizzo";
+"birthdate" = "Data di nascita";
+"sex" = "Sesso";
+"height" = "Altezza";
+"number" = "Numero";
+"class" = "Tipo di patente";
+"conditions" = "Condizioni / Limitazioni";
+"state" = "Provincia";
+"country" = "Paese";
+"expiry_date" = "Data di scadenza";
+
+"menu.sex." = "";
+"menu.sex.male" = "Maschio";
+"menu.sex.female" = "Femmina";

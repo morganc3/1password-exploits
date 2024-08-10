@@ -1,0 +1,11 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "9"; */
+"9.title" = "視窗";
+
+/* Class = "NSButtonCell"; title = "Use in Safari"; ObjectID = "14"; */
+"14.title" = "在 Safari 中使用";
+
+/* Class = "NSTextFieldCell"; title = "To use 1Password in Safari this mini app needs to stay running in your menu bar at all times."; ObjectID = "54"; */
+"54.title" = "若要在 Safari 中使用 1Password，此 mini 應用程式須隨時在選單列保持執行。";
+
+/* Class = "NSTextFieldCell"; title = "1Password mini started"; ObjectID = "164"; */
+"164.title" = "1Password mini 已啟動";

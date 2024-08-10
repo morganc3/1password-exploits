@@ -1,0 +1,11 @@
+"__title__" = "Medlemskap";
+"__pluralTitle__" = "Medlemskap";
+"__description__" = "Förenings- eller klubbmedlemskap";
+"org_name" = "grupp";
+"phone" = "telefon";
+"website" = "webbplats";
+"member_name" = "medlemsnamn";
+"member_since" = "medlem sedan";
+"expiry_date" = "sista giltighetsdag";
+"membership_no" = "medlems-ID";
+"pin" = "lösenord";

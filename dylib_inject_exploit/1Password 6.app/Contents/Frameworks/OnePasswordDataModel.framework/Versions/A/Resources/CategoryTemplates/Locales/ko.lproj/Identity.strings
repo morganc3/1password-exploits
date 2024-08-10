@@ -1,0 +1,46 @@
+"__title__" = "프로필 센터";
+"__pluralTitle__" = "프로필 센터";
+"__description__" = "Identities";
+
+"set.name" = "신원정보";
+"firstname" = "이름";
+"initial" = "이니셜";
+"lastname" = "성";
+"sex" = "성별";
+"birthdate" = "생일";
+"occupation" = "직업";
+"company" = "회사";
+"department" = "부서";
+"jobtitle" = "직책";
+
+"set.internet" = "인터넷 상세 정보";
+"username" = "아이디";
+"reminderq" = "본인 확인 질문";
+"remindera" = "본인 확인 답변";
+"email" = "이메일";
+"website" = "웹사이트";
+"icq" = "ICQ";
+"skype" = "Skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "포럼 서명";
+
+"set.address" = "주소";
+"address" = "주소";
+"address1" = "기본 주소";
+"address2" = "상세 주소";
+"city" = "시/군/구";
+"state" = "주/도";
+"zip" = "우편번호";
+"country" = "국가";
+"location" = "위치";
+"phone" = "전화번호";
+"defphone" = "기본 번호";
+"homephone" = "자택";
+"cellphone" = "휴대전화";
+"busphone" = "직장";
+
+"menu.sex." = "";
+"menu.sex.male" = "남";
+"menu.sex.female" = "여";

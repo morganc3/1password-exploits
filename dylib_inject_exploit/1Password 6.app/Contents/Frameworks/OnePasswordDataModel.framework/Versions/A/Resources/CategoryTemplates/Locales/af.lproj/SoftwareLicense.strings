@@ -1,0 +1,22 @@
+"__title__" = "Programmatuurlisensie";
+"__pluralTitle__" = "Programmatuurlisensies";
+"__description__" = "Programmatuurproduklisensie, registrasiekode of reeksnommer.";
+
+"set.customer" = "Klant";
+"set.publisher" = "Uitgewer";
+"set.order" = "Bestelling";
+
+"product_name" = "produknaam";
+"product_version" = "weergawe";
+"reg_name" = "gelisensieer aan";
+"reg_code" = "lisensiesleutel";
+"reg_email" = "geregistreerde e-pos";
+"company" = "maatskappy";
+"download_link" = "aflaaiblad";
+"publisher_name" = "uitgewer";
+"retail_price" = "handelsprys";
+"publisher_website" = "webwerf";
+"support_email" = "ondersteuningse-pos";
+"order_number" = "bestelnommer";
+"order_date" = "aankoopdatum";
+"order_total" = "besteltotaal";

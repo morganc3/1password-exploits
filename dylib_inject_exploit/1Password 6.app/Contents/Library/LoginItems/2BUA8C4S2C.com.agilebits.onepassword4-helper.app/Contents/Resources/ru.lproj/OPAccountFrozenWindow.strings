@@ -1,0 +1,11 @@
+/* Class = "NSWindow"; title = "Account Frozen"; ObjectID = "Md5-ls-Hl7"; */
+"Md5-ls-Hl7.title" = "Учётная запись заморожена";
+
+/* Class = "NSTextFieldCell"; title = "1Password Account Frozen"; ObjectID = "NfH-hp-H2V"; */
+"NfH-hp-H2V.title" = "Учётная запись 1Password заморожена";
+
+/* Class = "NSButtonCell"; title = "Not Now"; ObjectID = "V8P-Ok-fdB"; */
+"V8P-Ok-fdB.title" = "Не сейчас";
+
+/* Class = "NSButtonCell"; title = "Update Billing"; ObjectID = "bUi-CW-lTP"; */
+"bUi-CW-lTP.title" = "Обновить платёжную информацию";

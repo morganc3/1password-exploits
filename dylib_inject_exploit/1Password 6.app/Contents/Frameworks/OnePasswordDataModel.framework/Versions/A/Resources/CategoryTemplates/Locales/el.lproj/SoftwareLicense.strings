@@ -1,0 +1,22 @@
+"__title__" = "Άδεια Χρήσης Λογισμικού";
+"__pluralTitle__" = "Άδειες Χρήσης Λογισμικού";
+"__description__" = "Άδεια χρήσης λογισμικού προϊόντος, κωδικός καταχώρισης ή σειριακός αριθμός.";
+
+"set.customer" = "Πελάτης";
+"set.publisher" = "Εκδότης";
+"set.order" = "Παραγγελία";
+
+"product_name" = "όνομα προϊόντος";
+"product_version" = "έκδοση";
+"reg_name" = "κάτοχος άδειας";
+"reg_code" = "κλειδί άδειας χρήσης";
+"reg_email" = "email χρήσης";
+"company" = "εταιρεία";
+"download_link" = "σελίδα λήψης";
+"publisher_name" = "εκδότης";
+"retail_price" = "λιανική τιμή";
+"publisher_website" = "ιστοσελίδα";
+"support_email" = "email υποστήριξης";
+"order_number" = "αριθμός παραγγελίας";
+"order_date" = "ημερομηνία αγοράς";
+"order_total" = "σύνολο παραγγελίας";

@@ -1,0 +1,18 @@
+"__title__" = "Driver License";
+"__pluralTitle__" = "運転免許証";
+
+"fullname" = "氏名";
+"address" = "住所";
+"birthdate" = "生年月日";
+"sex" = "性別";
+"height" = "身長";
+"number" = "番号";
+"class" = "免許の種類";
+"conditions" = "条件/制限事項";
+"state" = "都道府県";
+"country" = "国";
+"expiry_date" = "有効期限日";
+
+"menu.sex." = "";
+"menu.sex.male" = "男性";
+"menu.sex.female" = "女性";

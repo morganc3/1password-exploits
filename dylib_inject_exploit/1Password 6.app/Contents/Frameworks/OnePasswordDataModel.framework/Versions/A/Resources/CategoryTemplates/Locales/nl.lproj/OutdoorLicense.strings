@@ -1,0 +1,10 @@
+"__title__" = "Jachtvergunning";
+"__pluralTitle__" = "Jachtvergunningen";
+
+"name" = "volledige naam";
+"valid_from" = "geldig vanaf";
+"expires" = "vervalt";
+"game" = "toegestaan wild";
+"quota" = "quotum";
+"state" = "staat";
+"country" = "land";

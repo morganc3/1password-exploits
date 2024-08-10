@@ -1,0 +1,18 @@
+"__title__" = "Router inalámbrico";
+"__pluralTitle__" = "Routers inalámbricos";
+"__description__" = "Información de cuenta para su AirPort Extreme u otros routers inalámbricos.";
+
+"network_name" = "Nombre de red";
+"name" = "Nombre de estación base";
+"password" = "Contraseña de estación base";
+"server" = "Servidor/Dirección IP";
+"airport_id" = "ID de AirPort";
+"wireless_security" = "Seguridad de red inalámbrica";
+"wireless_password" = "Contraseña de red inalámbrica";
+"disk_password" = "Contraseña de almacenamiento anexado";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Sin seguridad";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 personal";
+"menu.wireless_security.wpa2e" = "WPA2 corporativo";

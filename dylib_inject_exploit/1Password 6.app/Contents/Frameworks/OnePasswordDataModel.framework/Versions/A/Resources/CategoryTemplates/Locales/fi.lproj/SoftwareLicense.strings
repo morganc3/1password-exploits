@@ -1,0 +1,22 @@
+"__title__" = "Ohjelmistolisenssi";
+"__pluralTitle__" = "Ohjelmistolisenssit";
+"__description__" = "Ohjelmiston tai tuotteen lisenssi, rekisteröintikoodi tai sarjanumero.";
+
+"set.customer" = "Asiakas";
+"set.publisher" = "Julkaisija";
+"set.order" = "Tilaus";
+
+"product_name" = "tuotteen nimi";
+"product_version" = "versio";
+"reg_name" = "lisensoitu henkilölle";
+"reg_code" = "lisenssiavain";
+"reg_email" = "rekisteröity sähköposti";
+"company" = "yritys";
+"download_link" = "lataussivu";
+"publisher_name" = "julkaisija";
+"retail_price" = "vähittäismyyntihinta";
+"publisher_website" = "sivusto";
+"support_email" = "tuen sähköposti";
+"order_number" = "tilausnumero";
+"order_date" = "ostopäivä";
+"order_total" = "tilauksen loppusumma";

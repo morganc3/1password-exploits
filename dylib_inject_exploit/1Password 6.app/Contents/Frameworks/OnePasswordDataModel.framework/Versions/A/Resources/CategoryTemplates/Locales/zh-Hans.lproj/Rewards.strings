@@ -1,0 +1,14 @@
+"__title__" = "奖励活动";
+"__pluralTitle__" = "奖励活动";
+"__description__" = "客户忠诚度活动，包括飞行常客奖励和酒店奖励";
+
+"company_name" = "公司名称";
+"member_name" = "会员姓名";
+"member_since" = "入会日期";
+"membership_no" = "会员编号";
+"additional_no" = "会员编号（附加）";
+"pin" = "PIN";
+"customer_service_phone" = "客服电话";
+"reservations_phone" = "预约电话";
+"website" = "网站";
+"set.extra" = "更多信息";

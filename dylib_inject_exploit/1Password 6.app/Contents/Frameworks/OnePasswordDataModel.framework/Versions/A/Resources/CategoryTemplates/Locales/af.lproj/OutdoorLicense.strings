@@ -1,0 +1,10 @@
+"__title__" = "Jaglisensie";
+"__pluralTitle__" = "Jaglisensies";
+
+"name" = "volle naam";
+"valid_from" = "geldig vanaf";
+"expires" = "verval";
+"game" = "wild wat gejag mag word";
+"quota" = "kwota";
+"state" = "staat/provinsie";
+"country" = "land";

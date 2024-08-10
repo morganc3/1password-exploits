@@ -1,0 +1,25 @@
+{
+	"uuid":"109",
+	"localized":"yes",
+    "subtitle":"network_name",
+	"icons": {
+		"list":"type-network-list",
+		"detail":"type-network-details"
+	},
+	"contents":[
+		{
+			"set":"",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"name", "type":"string", "isUsername":"yes", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"password", "type":"concealed" },
+				{ "name":"server", "type":"string", "inputTraits" : { "keyboard": "URL" } },
+				{ "name":"airport_id", "type":"string" },
+				{ "name":"network_name", "type":"string" },
+				{ "name":"wireless_security", "type":"menu", "menuitems":["none", "wpa2p", "wpa2e", "wpa", "wep" ] },
+				{ "name":"wireless_password", "type":"concealed" },
+				{ "name":"disk_password", "type":"concealed" }
+			]
+		}
+	]
+}

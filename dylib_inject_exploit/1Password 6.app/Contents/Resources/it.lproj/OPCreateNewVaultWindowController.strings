@@ -1,0 +1,26 @@
+/* Class = "NSWindow"; title = "Create New Vault"; ObjectID = "1"; */
+"1.title" = "Crea nuova cassaforte";
+
+/* Class = "NSTextFieldCell"; title = "The password you enter below will be used to encrypt the data in this vault. You’ll continue to unlock 1Password with your Master Password.\n\nIf you don’t intend to share this vault with anyone, we recommend using your Master Password instead of creating a new one."; ObjectID = "19"; */
+"19.title" = "La password che inserirai qui sotto sarà usata per crittografare i dati in questa cassaforte. Continuerai a sbloccare 1Password con la tua password generale.\n\nSe non intendi condividere questa cassaforte con altre persone ti consigliamo di usare la tua password generale invece di crearne una nuova.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter a hint to help you in case you forgot the password."; ObjectID = "50"; */
+"50.placeholderString" = "Inserisci un suggerimento che ti possa aiutare nel caso in cui dimenticassi la password";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "89"; */
+"89.title" = "Annulla";
+
+/* Class = "NSButtonCell"; title = "Create New Vault"; ObjectID = "95"; */
+"95.title" = "Crea cassaforte";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Please type the password."; ObjectID = "105"; */
+"105.placeholderString" = "Inserisci la password.";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Type the password again to confirm."; ObjectID = "111"; */
+"111.placeholderString" = "Digita nuovamente la password.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Vault Name"; ObjectID = "179"; */
+"179.placeholderString" = "Nome cassaforte";
+
+/* Class = "NSTextFieldCell"; title = "Create New Vault"; ObjectID = "304"; */
+"304.title" = "Crea nuova cassaforte";

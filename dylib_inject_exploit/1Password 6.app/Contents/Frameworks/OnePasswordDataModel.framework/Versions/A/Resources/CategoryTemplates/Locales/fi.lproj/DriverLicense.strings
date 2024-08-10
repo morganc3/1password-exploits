@@ -1,0 +1,18 @@
+"__title__" = "Ajokortti";
+"__pluralTitle__" = "Ajokortit";
+
+"fullname" = "etu- ja sukunimi";
+"address" = "osoite";
+"birthdate" = "syntymäaika";
+"sex" = "sukupuoli";
+"height" = "pituus";
+"number" = "numero";
+"class" = "ajokorttiluokka";
+"conditions" = "rajoitukset";
+"state" = "osavaltio";
+"country" = "maa";
+"expiry_date" = "voimassaolo";
+
+"menu.sex." = "";
+"menu.sex.male" = "Mies";
+"menu.sex.female" = "Nainen";

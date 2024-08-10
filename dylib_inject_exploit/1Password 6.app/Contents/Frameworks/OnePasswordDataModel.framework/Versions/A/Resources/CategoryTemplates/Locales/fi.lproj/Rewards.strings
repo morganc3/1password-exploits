@@ -1,0 +1,14 @@
+"__title__" = "Kanta-asiakasohjelma";
+"__pluralTitle__" = "Kanta-asiakasohjelmat";
+"__description__" = "Kanta-asiakasohjelmat, kuten lentoyhtiöiden ja hotellien ohjelmat";
+
+"company_name" = "yrityksen nimi";
+"member_name" = "jäsenen nimi";
+"member_since" = "jäsen lähtien";
+"membership_no" = "jäsennumero";
+"additional_no" = "jäsennumero (toinen)";
+"pin" = "PIN";
+"customer_service_phone" = "asiakaspalvelun puhelin";
+"reservations_phone" = "varausten puhelin";
+"website" = "sivusto";
+"set.extra" = "Lisätietoja";

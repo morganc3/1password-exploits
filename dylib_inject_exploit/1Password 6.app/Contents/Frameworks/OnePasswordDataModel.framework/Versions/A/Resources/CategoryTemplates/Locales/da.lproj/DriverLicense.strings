@@ -1,0 +1,18 @@
+"__title__" = "Kørekort";
+"__pluralTitle__" = "Kørekort";
+
+"fullname" = "fulde navn";
+"address" = "adresse";
+"birthdate" = "fødselsdato";
+"sex" = "køn";
+"height" = "højde";
+"number" = "nummer";
+"class" = "kategorier";
+"conditions" = "betingelser / begrænsninger";
+"state" = "stat";
+"country" = "land";
+"expiry_date" = "udløbsdato";
+
+"menu.sex." = "";
+"menu.sex.male" = "Mand";
+"menu.sex.female" = "Kvinde";

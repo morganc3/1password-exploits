@@ -1,0 +1,11 @@
+"__title__" = "Lidmaatschap";
+"__pluralTitle__" = "Lidmaatschappen";
+"__description__" = "Verenigings- of clublidmaatschap";
+"org_name" = "organisatie";
+"phone" = "telefoon";
+"website" = "website";
+"member_name" = "lidnaam";
+"member_since" = "lid sinds";
+"expiry_date" = "vervaldatum";
+"membership_no" = "lidnummer";
+"pin" = "wachtwoord";

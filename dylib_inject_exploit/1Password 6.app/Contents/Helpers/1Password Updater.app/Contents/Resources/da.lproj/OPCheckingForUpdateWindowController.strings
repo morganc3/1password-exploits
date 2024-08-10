@@ -1,0 +1,8 @@
+/* Class = "NSWindow"; title = "Software Update"; ObjectID = "1"; */
+"1.title" = "Programopdatering";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "TpU-Ty-5QM"; */
+"TpU-Ty-5QM.title" = "Annuller";
+
+/* Class = "NSTextFieldCell"; title = "Checking for 1Password updates..."; ObjectID = "a73-og-geF"; */
+"a73-og-geF.title" = "Søger efter opdateringer til 1Password...";

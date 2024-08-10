@@ -1,0 +1,10 @@
+framework module AgileLibrary {
+  umbrella header "AgileLibrary.h"
+
+  export *
+  module * { export * }
+}
+
+module AgileLibrary.Swift {
+    header "AgileLibrary-Swift.h"
+}

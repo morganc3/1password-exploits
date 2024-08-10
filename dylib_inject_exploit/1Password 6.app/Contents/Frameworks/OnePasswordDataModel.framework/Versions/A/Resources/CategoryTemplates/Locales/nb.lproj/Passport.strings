@@ -1,0 +1,20 @@
+"__title__" = "Pass";
+"__pluralTitle__" = "Pass";
+"__description__" = "Offentlig godkjent pass.";
+
+"type" = "Type";
+"fullname" = "Fullt navn";
+"number" = "Nummer";
+"birthdate" = "Fødselsdato";
+"birthplace" = "Fødselssted";
+"nationality" = "Nasjonalitet";
+"code" = "Kode";
+"sex" = "Kjønn";
+"issuing_country" = "Utstedelsesland";
+"issuing_authority" = "Utstedt av";
+"issue_date" = "Utstedt den";
+"expiry_date" = "Gyldig til";
+
+"menu.sex." = "";
+"menu.sex.male" = "Mann";
+"menu.sex.female" = "Kvinne";

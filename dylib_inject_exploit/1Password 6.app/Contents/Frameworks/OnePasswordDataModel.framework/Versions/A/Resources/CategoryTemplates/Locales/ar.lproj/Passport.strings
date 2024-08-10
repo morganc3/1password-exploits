@@ -1,0 +1,20 @@
+"__title__" = "رقم جواز السفر";
+"__pluralTitle__" = "رقم جواز السفر";
+"__description__" = "بلد اصدار جواز السفر";
+
+"type" = "النوع";
+"fullname" = "الاسم الكامل";
+"number" = "الرقم";
+"birthdate" = "تاريخ الميلاد";
+"birthplace" = "مكان الميلاد";
+"nationality" = "الجنسية";
+"code" = "رقم الجواز";
+"sex" = "الجنس";
+"issuing_country" = "بلد الاصدار";
+"issuing_authority" = "جهة الاصدار";
+"issue_date" = "صادر في";
+"expiry_date" = "تاريخ الانتهاء";
+
+"menu.sex." = "";
+"menu.sex.male" = "ذكر";
+"menu.sex.female" = "أنثى";

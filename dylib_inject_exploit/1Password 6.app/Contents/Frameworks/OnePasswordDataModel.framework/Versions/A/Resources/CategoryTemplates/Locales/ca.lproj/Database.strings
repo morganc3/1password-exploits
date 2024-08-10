@@ -1,0 +1,25 @@
+"__title__" = "Base de dades";
+"__pluralTitle__" = "Bases de dades";
+"__description__" = "Informació de connexió de base de dades.";
+
+"hostname" = "servidor";
+"port" = "port";
+"database" = "base de dades";
+"database_type" = "tipus";
+"username" = "nom d'usuari";
+"password" = "contrasenya";
+"sid" = "SID";
+"alias" = "àlies";
+"options" = "opcions de connexió";
+
+"menu.database_type." = "";
+"menu.database_type.db2" = "DB2";
+"menu.database_type.filemaker" = "FileMaker";
+"menu.database_type.msaccess" = "Microsoft Access";
+"menu.database_type.mssql" = "Servidor MS SQL";
+"menu.database_type.mysql" = "MySQL";
+"menu.database_type.oracle" = "Oracle";
+"menu.database_type.postresql" = "PostgreSQL";
+"menu.database_type.postgresql" = "PostgreSQL";
+"menu.database_type.sqlite" = "SQLite";
+"menu.database_type.other" = "Altres";

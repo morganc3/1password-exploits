@@ -1,0 +1,56 @@
+"__title__" = "حساب ایمیل";
+"__pluralTitle__" = "حساب ایمیل";
+"__description__" = "اطلاعات حساب ایمیل.";
+"pop_username" = "نام کاربری";
+"pop_password" = "گذرواژه";
+"pop_server" = "سرور";
+"pop_type" = "نوع";
+"pop_port" = "شماره درگاه";
+"pop_security" = "امنیت";
+"pop_authentication" = "روش احراز هویت";
+"set.SMTP" = "SMTP";
+"smtp_username" = "نام کاربری";
+"smtp_password" = "گذرواژه";
+"smtp_server" = "سرویس دهنده SMTP";
+"smtp_type" = "نوع";
+"smtp_port" = "شماره درگاه";
+"smtp_security" = "امنیت";
+"smtp_authentication" = "روش احراز هویت";
+"set.Contact Information" = "Contact Information";
+"provider" = "ارائه دهنده";
+"provider_website" = "وبسایت سرویس دهنده";
+"phone_tollfree" = "شماره تلفن (بدون عوارض)";
+"phone_local" = "شماره تلفن (محلی)";
+
+"menu.pop_type." = "";
+"menu.pop_type.pop3" = "POP3";
+"menu.pop_type.imap" = "IMAP";
+"menu.pop_type.either" = "POP3 یا IMAP";
+
+"menu.pop_security." = "";
+"menu.pop_security.none" = "هیچ کدام";
+"menu.pop_security.SSL" = "SSL";
+"menu.pop_security.TLS" = "TLS";
+
+"menu.pop_authentication." = "";
+"menu.pop_authentication.none" = "هیچ کدام";
+"menu.pop_authentication.password" = "گذرواژه";
+"menu.pop_authentication.md5_challenge_response" = "پاسخ چالش MD5";
+"menu.pop_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+"menu.pop_authentication.kerberos_v4" = "Kerberos نسخه 4";
+"menu.pop_authentication.kerberos_v5" = "Kerberos نسخه 5 (GSSAPI)";
+"menu.pop_authentication.ntlm" = "NTLM";
+
+"menu.smtp_security." = "";
+"menu.smtp_security.none" = "هیچ کدام";
+"menu.smtp_security.SSL" = "SSL";
+"menu.smtp_security.TLS" = "TLS";
+
+"menu.smtp_authentication." = "";
+"menu.smtp_authentication.none" = "هیچ کدام";
+"menu.smtp_authentication.password" = "گذرواژه";
+"menu.smtp_authentication.md5_challenge_response" = "پاسخ چالش MD5";
+"menu.smtp_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+"menu.smtp_authentication.kerberos_v4" = "Kerberos نسخه 4";
+"menu.smtp_authentication.kerberos_v5" = "Kerberos نسخه 5 (GSSAPI)";
+"menu.smtp_authentication.ntlm" = "NTLM";

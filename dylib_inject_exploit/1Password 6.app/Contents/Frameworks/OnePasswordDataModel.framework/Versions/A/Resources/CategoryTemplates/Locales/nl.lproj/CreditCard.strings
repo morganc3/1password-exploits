@@ -1,0 +1,40 @@
+"__title__" = "Creditcard";
+"__pluralTitle__" = "Creditcards";
+"__description__" = "Creditcardinformatie";
+
+"set.contactInfo" = "Contactgegevens";
+"set.details" = "Overige gegevens";
+
+"cardholder" = "kaarthouder";
+"type" = "soort";
+"ccnum" = "nummer";
+"cvv" = "verificatiecode";
+"expiry" = "vervaldatum";
+"validFrom" = "geldig vanaf";
+"bank" = "uitgevende bank";
+"phoneLocal" = "telefoon (lokaal)";
+"phoneTollFree" = "Telefoon (gratis)";
+"phoneIntl" = "telefoon (internationaal)";
+"website" = "website";
+"pin" = "PIN";
+"creditLimit" = "kredietlimiet";
+"cashLimit" = "geldopnamelimiet";
+"interest" = "rente";
+"issuenumber" = "uitgiftenummer";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "Laser";
+"menu.type.unionpay" = "UnionPay";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

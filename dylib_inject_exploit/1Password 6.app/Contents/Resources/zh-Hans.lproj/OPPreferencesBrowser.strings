@@ -1,0 +1,29 @@
+/* Class = "NSTextFieldCell"; title = "Browser Extension"; ObjectID = "20"; */
+"20.title" = "浏览器扩展";
+
+/* Class = "NSButtonCell"; title = "Install Browser Extension"; ObjectID = "21"; */
+"21.title" = "安装浏览器扩展";
+
+/* Class = "NSButtonCell"; title = "Detect new usernames and passwords and offer to save them"; ObjectID = "41"; */
+"41.title" = "检测新用户名和密码并提议保存它们";
+
+/* Class = "NSButtonCell"; title = "Automatically sign in after filling usernames and passwords"; ObjectID = "43"; */
+"43.title" = "填写用户名和密码后自动登录";
+
+/* Class = "NSButtonCell"; title = "Show animation when filling details on page"; ObjectID = "60"; */
+"60.title" = "动画显示页面上详细信息的填写";
+
+/* Class = "NSTextFieldCell"; title = "(except on the following domains)"; ObjectID = "82"; */
+"82.title" = "（以下域上除外）";
+
+/* Class = "NSButtonCell"; title = "Allow filling on pages that closely match saved websites"; ObjectID = "1Pb-ut-IiI"; */
+"1Pb-ut-IiI.title" = "允许填写精确匹配已保存网站的页面";
+
+/* Class = "NSTextFieldCell"; title = "Filling and Signing In"; ObjectID = "DJV-NN-CAm"; */
+"DJV-NN-CAm.title" = "填写并登录";
+
+/* Class = "NSTextFieldCell"; title = "Look and Feel"; ObjectID = "OD7-qV-QC2"; */
+"OD7-qV-QC2.title" = "外观和感觉";
+
+/* Class = "NSTextFieldCell"; title = "Autosave"; ObjectID = "qA1-wA-oqz"; */
+"qA1-wA-oqz.title" = "自动保存";

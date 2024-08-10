@@ -1,0 +1,20 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Fenêtre";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Vault Name"; ObjectID = "1BM-zQ-D00"; */
+"1BM-zQ-D00.placeholderString" = "Nom du coffre";
+
+/* Class = "NSButtonCell"; title = "Create Vault"; ObjectID = "5y3-Gu-V2t"; */
+"5y3-Gu-V2t.title" = "Créer le coffre";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "OsZ-O6-8CW"; */
+"OsZ-O6-8CW.title" = "Annuler";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Enter Vault Password"; ObjectID = "axw-qu-UWv"; */
+"axw-qu-UWv.placeholderString" = "Entrer le mot de passe du coffre";
+
+/* Class = "NSTextFieldCell"; title = "1Password will create a new vault from abc.agilekeychain file and keep it in sync."; ObjectID = "nwB-8q-DWi"; */
+"nwB-8q-DWi.title" = "1Password créera un nouveau coffre à partir du fichier abc.agilekeychain et le maintiendra synchronisé.";
+
+/* Class = "NSTextFieldCell"; title = "Create New Vault"; ObjectID = "wc9-YE-wpV"; */
+"wc9-YE-wpV.title" = "Créer un nouveau coffre";

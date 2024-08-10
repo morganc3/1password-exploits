@@ -1,0 +1,26 @@
+/* Class = "NSWindow"; title = "Create New Vault"; ObjectID = "1"; */
+"1.title" = "Skep Nuwe Kluis";
+
+/* Class = "NSTextFieldCell"; title = "The password you enter below will be used to encrypt the data in this vault. You’ll continue to unlock 1Password with your Master Password.\n\nIf you don’t intend to share this vault with anyone, we recommend using your Master Password instead of creating a new one."; ObjectID = "19"; */
+"19.title" = "Die wagwoord wat u hieronder invoer sal gebruik word om die data in hierdie kluis te enkripteer. U sal steeds 1Password met u Hoofwagwoord ontgrendel.\n\nIndien u nie van plan is om hierdie kluis met enigiemand te deel nie, stel ons voor dat u u Hoofwagwoord gebruik, in plaas van ’n nuwe een.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter a hint to help you in case you forgot the password."; ObjectID = "50"; */
+"50.placeholderString" = "Voer ’n wenk in wat u kan help indien u die wagwoord vergeet het.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "89"; */
+"89.title" = "Kanselleer";
+
+/* Class = "NSButtonCell"; title = "Create New Vault"; ObjectID = "95"; */
+"95.title" = "Skep Nuwe Kluis";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Please type the password."; ObjectID = "105"; */
+"105.placeholderString" = "Voer die wagwoord in.";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Type the password again to confirm."; ObjectID = "111"; */
+"111.placeholderString" = "Tik die wagwoord weer ter bevestiging.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Vault Name"; ObjectID = "179"; */
+"179.placeholderString" = "Kluisnaam";
+
+/* Class = "NSTextFieldCell"; title = "Create New Vault"; ObjectID = "304"; */
+"304.title" = "Skep Nuwe Kluis";

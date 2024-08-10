@@ -1,0 +1,40 @@
+"__title__" = "Karta płatnicza";
+"__pluralTitle__" = "Karty płatnicze";
+"__description__" = "Informacje o karcie płatniczej";
+
+"set.contactInfo" = "Dane kontaktowe";
+"set.details" = "Dodatkowe szczegóły";
+
+"cardholder" = "właściciel karty";
+"type" = "typ";
+"ccnum" = "numer";
+"cvv" = "Kod bezpieczeństwa";
+"expiry" = "data ważności";
+"validFrom" = "ważna od";
+"bank" = "bank wydający";
+"phoneLocal" = "Numer telefonu (połączenie lokalne)";
+"phoneTollFree" = "telefon (bezpłatny)";
+"phoneIntl" = "Telefon (międzynarodowy)";
+"website" = "Witryna";
+"pin" = "Kod PIN";
+"creditLimit" = "Limit kredytu";
+"cashLimit" = "Limit wypłaty środków pieniężnych";
+"interest" = "Stopa procentowa";
+"issuenumber" = "Numer karty";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "Laser";
+"menu.type.unionpay" = "UnionPay";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

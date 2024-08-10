@@ -1,0 +1,40 @@
+"__title__" = "信用卡";
+"__pluralTitle__" = "信用卡";
+"__description__" = "信用卡相關資訊";
+
+"set.contactInfo" = "聯絡訊息";
+"set.details" = "更多資訊";
+
+"cardholder" = "持卡人姓名";
+"type" = "類型";
+"ccnum" = "號碼";
+"cvv" = "識別碼";
+"expiry" = "效期截止日期";
+"validFrom" = "有效期限開始期間";
+"bank" = "發卡銀行";
+"phoneLocal" = "國內電話號碼";
+"phoneTollFree" = "電話（免費）";
+"phoneIntl" = "國外長途電話號碼";
+"website" = "網頁";
+"pin" = "PIN";
+"creditLimit" = "信用額度上限";
+"cashLimit" = "領取現金上限";
+"interest" = "利率";
+"issuenumber" = "發行號碼";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "Laser";
+"menu.type.unionpay" = "銀聯";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

@@ -1,0 +1,25 @@
+"__title__" = "قاعدة البيانات";
+"__pluralTitle__" = "قاعدة البيانات";
+"__description__" = "معلومات الاتصال بقاعدة البيانات.";
+
+"hostname" = "الخادم";
+"port" = "منفذ الاتصال";
+"database" = "قاعدة البيانات";
+"database_type" = "النوع";
+"username" = "اسم المستخدم";
+"password" = "كلمة المرور";
+"sid" = "SID";
+"alias" = "الاسم المستعار";
+"options" = "خيارات الاتصال";
+
+"menu.database_type." = "";
+"menu.database_type.db2" = "DB2";
+"menu.database_type.filemaker" = "صانع الملفات";
+"menu.database_type.msaccess" = "مايكروسوفت اكسس";
+"menu.database_type.mssql" = "MS SQL خادم";
+"menu.database_type.mysql" = "MySQL";
+"menu.database_type.oracle" = "اوراكل";
+"menu.database_type.postresql" = "PostgreSQL";
+"menu.database_type.postgresql" = "PostgreSQL";
+"menu.database_type.sqlite" = "SQLite";
+"menu.database_type.other" = "أخرى";

@@ -1,0 +1,18 @@
+"__title__" = "Führerschein";
+"__pluralTitle__" = "Führerscheine";
+
+"fullname" = "Vollständiger Name";
+"address" = "Adresse";
+"birthdate" = "Geburtsdatum";
+"sex" = "Geschlecht";
+"height" = "Größe";
+"number" = "Nummer";
+"class" = "Führerscheinklasse";
+"conditions" = "Bedingungen / Beschränkungen";
+"state" = "Bundesland / Kanton";
+"country" = "Land";
+"expiry_date" = "Gültigkeitsdatum";
+
+"menu.sex." = "";
+"menu.sex.male" = "Männlich";
+"menu.sex.female" = "Weiblich";

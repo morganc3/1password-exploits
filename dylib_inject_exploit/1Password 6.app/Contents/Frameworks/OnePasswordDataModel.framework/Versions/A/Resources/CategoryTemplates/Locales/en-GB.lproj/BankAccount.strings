@@ -1,0 +1,23 @@
+"__title__" = "Bank Account";
+"__pluralTitle__" = "Bank Accounts";
+"__description__" = "Bank Account information.";
+
+"bankName" = "bank name";
+"owner" = "name on account";
+"accountType" = "type";
+"routingNo" = "routing number";
+"accountNo" = "account number";
+"swift" = "SWIFT";
+"iban" = "IBAN";
+"set.branchInfo" = "Branch Information";
+"branchPhone" = "phone";
+"branchAddress" = "address";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "ATM";
+"menu.accountType.checking" = "Current";
+"menu.accountType.savings" = "Savings";
+"menu.accountType.loc" = "Overdraft limit";
+"menu.accountType.money_market" = "Money Market";
+"menu.accountType.other" = "Other";

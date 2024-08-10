@@ -1,0 +1,11 @@
+"__title__" = "Jäsenyys";
+"__pluralTitle__" = "Jäsenyydet";
+"__description__" = "Yhteisön tai klubin jäsenyys";
+"org_name" = "ryhmä";
+"phone" = "puhelin";
+"website" = "sivusto";
+"member_name" = "jäsennimi";
+"member_since" = "jäsen lähtien";
+"expiry_date" = "voimassaolo";
+"membership_no" = "jäsennumero";
+"pin" = "salasana";

@@ -1,0 +1,14 @@
+"__title__" = "xec de regal";
+"__pluralTitle__" = "xecs de regal";
+"__description__" = "Programes de fidelitat del client, incloent recompenses en vols i en nits d'hotel";
+
+"company_name" = "nom de la companyia";
+"member_name" = "nom del membre";
+"member_since" = "membre des de";
+"membership_no" = "ID de membre";
+"additional_no" = "ID de membre (addicional)";
+"pin" = "PIN";
+"customer_service_phone" = "telèfon d'atenció al client";
+"reservations_phone" = "telèfon per a reserves";
+"website" = "lloc web";
+"set.extra" = "More Information";

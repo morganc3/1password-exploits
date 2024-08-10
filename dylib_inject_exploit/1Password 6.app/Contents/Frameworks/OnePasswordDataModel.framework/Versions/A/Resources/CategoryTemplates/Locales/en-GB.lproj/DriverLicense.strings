@@ -1,0 +1,18 @@
+"__title__" = "Driver Licence";
+"__pluralTitle__" = "Driver Licences";
+
+"fullname" = "full name";
+"address" = "address";
+"birthdate" = "date of birth";
+"sex" = "sex";
+"height" = "height";
+"number" = "number";
+"class" = "licence class";
+"conditions" = "conditions / restrictions";
+"state" = "state";
+"country" = "country";
+"expiry_date" = "expiry date";
+
+"menu.sex." = "";
+"menu.sex.male" = "Male";
+"menu.sex.female" = "Female";

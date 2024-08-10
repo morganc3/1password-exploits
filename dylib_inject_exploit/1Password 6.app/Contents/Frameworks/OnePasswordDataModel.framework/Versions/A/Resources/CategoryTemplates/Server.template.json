@@ -1,0 +1,43 @@
+{
+	"uuid":"110",
+	"localized":"yes",
+    "hidden":"yes",
+    "subtitle":"username",
+	"icons": {
+		"list":"type-server-list",
+		"detail":"type-server-details"
+	},
+	"contents":[
+		{
+			"set":"",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"url", "type":"string", "inputTraits" : { "keyboard": "URL" } },
+				{ "name":"username", "type":"string", "isUsername":"yes", "inputTraits" : { "autocorrection": "no", "autocapitalization" : "none" } },
+				{ "name":"password", "type":"concealed" }
+			]
+		},
+
+		{
+			"set":"admin_console",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"admin_console_url", "type":"string", "inputTraits" : { "keyboard": "URL" } },
+				{ "name":"admin_console_username", "type":"string", "isUsername":"yes", "inputTraits" : { "autocorrection": "no", "autocapitalization" : "none" } },
+				{ "name":"admin_console_password", "type":"concealed" }
+			]
+		},
+		
+		{
+			"set":"hosting_provider_details",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"name", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"website", "type":"string", "inputTraits" : { "keyboard": "URL" } },
+				{ "name":"support_contact_url", "type":"string", "inputTraits" : { "keyboard": "URL" }  },
+				{ "name":"support_contact_phone", "type":"string", "inputTraits" : { "keyboard": "NamePhonePad" } }
+			]
+		}
+		
+	]
+}

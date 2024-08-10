@@ -1,0 +1,10 @@
+"__title__" = "Licenza";
+"__pluralTitle__" = "Licenze outdoor";
+
+"name" = "Nome completo";
+"valid_from" = "Valida dal";
+"expires" = "Scadenza";
+"game" = "Specie consentite";
+"quota" = "Quantità massima";
+"state" = "Provincia";
+"country" = "Paese";

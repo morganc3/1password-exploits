@@ -1,0 +1,20 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "نافذة";
+
+/* Class = "NSTextFieldCell"; title = "WARNING: Deleting data from the folder will put it to Trash."; ObjectID = "3c3-u0-jZe"; */
+"3c3-u0-jZe.title" = "تحذير: حذف البيانات من المجلد سوف يضعها في سلة المهملات.";
+
+/* Class = "NSTextFieldCell"; title = "Disabling Sync"; ObjectID = "APp-Od-W63"; */
+"APp-Od-W63.title" = "جاري تعطيل المزامنة";
+
+/* Class = "NSTextFieldCell"; title = "1Password will no longer sync with iCloud. "; ObjectID = "IOH-3R-Ndf"; */
+"IOH-3R-Ndf.title" = "1Password لم يعد يتزامن مع iCloud. . ";
+
+/* Class = "NSButtonCell"; title = "Disable Sync"; ObjectID = "Llz-w9-CTS"; */
+"Llz-w9-CTS.title" = "تعطيل المزامنة";
+
+/* Class = "NSButtonCell"; title = "Delete data from iCloud"; ObjectID = "zMC-pq-SBW"; */
+"zMC-pq-SBW.title" = "حذف البيانات من iCloud";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "zgw-7p-mUr"; */
+"zgw-7p-mUr.title" = "إلغاء";

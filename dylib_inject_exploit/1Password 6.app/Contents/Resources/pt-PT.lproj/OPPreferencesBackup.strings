@@ -1,0 +1,26 @@
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Backups"; ObjectID = "28"; */
+"28.ibExternalAccessibilityDescription" = "Cópias de segurança";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "35"; */
+"35.title" = "Célula de texto";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "36"; */
+"36.title" = "Célula de texto";
+
+/* Class = "NSButtonCell"; title = "Restore"; ObjectID = "57"; */
+"57.title" = "Restaurar";
+
+/* Class = "NSButtonCell"; title = "Backup Now"; ObjectID = "63"; */
+"63.title" = "Efetuar cópia de segurança agora";
+
+/* Class = "NSTextFieldCell"; title = "Backups"; ObjectID = "88"; */
+"88.title" = "Cópias de segurança";
+
+/* Class = "NSButtonCell"; title = "Show Files"; ObjectID = "F0S-d0-HVW"; */
+"F0S-d0-HVW.title" = "Mostrar ficheiros";
+
+/* Class = "NSButtonCell"; title = "Find Backup"; ObjectID = "hI5-FD-QyE"; */
+"hI5-FD-QyE.title" = "Importar cópia";
+
+/* Class = "NSTextFieldCell"; title = "Backups are created automatically\n\nUp to 30 daily and 24 monthly files are kept"; ObjectID = "xBp-bM-owh"; */
+"xBp-bM-owh.title" = "As cópias são efetuadas automaticamente\n\nPodem ser armazenados até 24 ficheiros por mês";

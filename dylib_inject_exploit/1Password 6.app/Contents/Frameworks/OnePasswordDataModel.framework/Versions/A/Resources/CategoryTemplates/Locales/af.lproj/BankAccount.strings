@@ -1,0 +1,23 @@
+"__title__" = "Bankrekening";
+"__pluralTitle__" = "Bankrekeninge";
+"__description__" = "Bankrekeninginligting.";
+
+"bankName" = "banknaam";
+"owner" = "rekeninghouer";
+"accountType" = "tipe";
+"routingNo" = "bankkode";
+"accountNo" = "rekeningnommer";
+"swift" = "SWIFT";
+"iban" = "IBAN";
+"set.branchInfo" = "Takinligting";
+"branchPhone" = "telefoon";
+"branchAddress" = "adres";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "OTM";
+"menu.accountType.checking" = "Tjekrekening";
+"menu.accountType.savings" = "Spaarrekening";
+"menu.accountType.loc" = "Kredietlimiet";
+"menu.accountType.money_market" = "Geldmark";
+"menu.accountType.other" = "Ander";

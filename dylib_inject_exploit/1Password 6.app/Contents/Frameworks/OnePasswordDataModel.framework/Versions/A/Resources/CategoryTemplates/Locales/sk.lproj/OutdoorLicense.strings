@@ -1,0 +1,10 @@
+"__title__" = "Lovecký preukaz";
+"__pluralTitle__" = "Lovecké preukazy";
+
+"name" = "celé meno";
+"valid_from" = "platnosť od";
+"expires" = "expiruje";
+"game" = "povolená zver";
+"quota" = "maximálny limit";
+"state" = "štát";
+"country" = "krajina";

@@ -1,0 +1,46 @@
+"__title__" = "個人情報";
+"__pluralTitle__" = "個人情報";
+"__description__" = "これはウォレットに属するものではありませんが、詳細表示を生成するためにここに保管します。";
+
+"set.name" = "認証";
+"firstname" = "名前";
+"initial" = "頭文字";
+"lastname" = "名字";
+"sex" = "性別";
+"birthdate" = "生年月日";
+"occupation" = "職業";
+"company" = "会社";
+"department" = "部";
+"jobtitle" = "職名";
+
+"set.internet" = "インターネットの詳細";
+"username" = "ユーザ名";
+"reminderq" = "リマインダーの質問";
+"remindera" = "リマインダーの答え";
+"email" = "メール";
+"website" = "ウェブサイト";
+"icq" = "ICQ";
+"skype" = "Skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "フォーラムの署名";
+
+"set.address" = "住所";
+"address" = "住所";
+"address1" = "住所 1 行目";
+"address2" = "住所 2 行目";
+"city" = "市町村";
+"state" = "都道府県";
+"zip" = "郵便番号";
+"country" = "国";
+"location" = "地域";
+"phone" = "電話番号";
+"defphone" = "デフォルトの電話番号";
+"homephone" = "自宅";
+"cellphone" = "携帯";
+"busphone" = "勤務先";
+
+"menu.sex." = "";
+"menu.sex.male" = "男性";
+"menu.sex.female" = "女性";

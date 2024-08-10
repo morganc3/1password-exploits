@@ -1,0 +1,8 @@
+/* Class = "NSWindow"; title = "1Password Extension Issue"; ObjectID = "1"; */
+"1.title" = "Проблема с расширением 1Password";
+
+/* Class = "NSTextFieldCell"; title = "An old 1Password extension is still installed. It is important to uninstall the old version and use the new 1Password 6 extension instead."; ObjectID = "VEq-ak-2gK"; */
+"VEq-ak-2gK.title" = "Старое расширение 1Password всё ещё установлено. Необходимо удалить старую версию и использовать новое расширение 1Password 6 вместо неё.";
+
+/* Class = "NSButtonCell"; title = "Upgrade Instructions"; ObjectID = "mYH-Tq-Y6S"; */
+"mYH-Tq-Y6S.title" = "Инструкции по обновлению";

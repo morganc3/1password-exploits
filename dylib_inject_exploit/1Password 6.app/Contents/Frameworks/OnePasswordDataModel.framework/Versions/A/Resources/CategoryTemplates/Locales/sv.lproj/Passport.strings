@@ -1,0 +1,20 @@
+"__title__" = "Pass";
+"__pluralTitle__" = "Pass";
+"__description__" = "Pass utfärdat av staten.";
+
+"type" = "typ";
+"fullname" = "fullständigt namn";
+"number" = "nummer";
+"birthdate" = "födelsedatum";
+"birthplace" = "födelseort";
+"nationality" = "nationalitet";
+"code" = "kod";
+"sex" = "kön";
+"issuing_country" = "utfärdandeland";
+"issuing_authority" = "myndighet";
+"issue_date" = "utfärdat";
+"expiry_date" = "sista giltighetsdag";
+
+"menu.sex." = "";
+"menu.sex.male" = "man";
+"menu.sex.female" = "kvinna";

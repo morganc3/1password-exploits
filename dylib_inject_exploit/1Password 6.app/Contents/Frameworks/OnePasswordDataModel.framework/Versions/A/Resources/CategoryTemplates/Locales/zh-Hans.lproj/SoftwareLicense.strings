@@ -1,0 +1,22 @@
+"__title__" = "软件许可";
+"__pluralTitle__" = "软件许可";
+"__description__" = "软件产品许可、注册码或序列号。";
+
+"set.customer" = "客户";
+"set.publisher" = "发布者";
+"set.order" = "订购";
+
+"product_name" = "产品名称";
+"product_version" = "版本";
+"reg_name" = "授权给";
+"reg_code" = "许可证密钥";
+"reg_email" = "注册电子邮件";
+"company" = "公司";
+"download_link" = "下载页";
+"publisher_name" = "发布者";
+"retail_price" = "零售价";
+"publisher_website" = "网站";
+"support_email" = "支持电子邮件";
+"order_number" = "订单号";
+"order_date" = "购买日期";
+"order_total" = "订单总计";

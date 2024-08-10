@@ -1,0 +1,20 @@
+"__title__" = "Passi";
+"__pluralTitle__" = "Passit";
+"__description__" = "Valtion myöntämä passi.";
+
+"type" = "tyyppi";
+"fullname" = "koko nimi";
+"number" = "numero";
+"birthdate" = "syntymäaika";
+"birthplace" = "syntymäpaikka";
+"nationality" = "kansallisuus";
+"code" = "koodi";
+"sex" = "sukupuoli";
+"issuing_country" = "myöntävä maa";
+"issuing_authority" = "myöntävä viranomainen";
+"issue_date" = "myönnetty";
+"expiry_date" = "voimassaolo";
+
+"menu.sex." = "";
+"menu.sex.male" = "Mies";
+"menu.sex.female" = "Nainen";

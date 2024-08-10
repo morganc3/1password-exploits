@@ -1,0 +1,26 @@
+/* Class = "NSButtonCell"; title = "Sentence Case"; ObjectID = "26k-2M-jBG"; */
+"26k-2M-jBG.title" = "Eerste hoofletter en kleinletters";
+
+/* Class = "NSMenuItem"; title = "Spaces"; ObjectID = "7gd-lK-TJ0"; */
+"7gd-lK-TJ0.title" = "Spasies";
+
+/* Class = "NSButtonCell"; title = "Regenerate"; ObjectID = "7oP-i3-daU"; */
+"7oP-i3-daU.title" = "Hergenereer";
+
+/* Class = "NSTextFieldCell"; title = "4"; ObjectID = "IfB-fN-SDi"; */
+"IfB-fN-SDi.title" = "4";
+
+/* Class = "NSTextFieldCell"; title = "Number of Words"; ObjectID = "UHn-5l-68P"; */
+"UHn-5l-68P.title" = "Aantal Woorde";
+
+/* Class = "NSMenuItem"; title = "Underscores"; ObjectID = "YZk-PT-5ll"; */
+"YZk-PT-5ll.title" = "Onderstrepe";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "nyz-ST-xnW"; */
+"nyz-ST-xnW.title" = "Geen";
+
+/* Class = "NSMenuItem"; title = "Dashes"; ObjectID = "wiG-RH-UHA"; */
+"wiG-RH-UHA.title" = "Koppeltekens";
+
+/* Class = "NSTextFieldCell"; title = "Separate Using"; ObjectID = "ykh-eI-nAT"; */
+"ykh-eI-nAT.title" = "Skei Deur";

@@ -1,0 +1,40 @@
+"__title__" = "Targeta de crèdit";
+"__pluralTitle__" = "Targetes de crèdit";
+"__description__" = "Info. de la targeta";
+
+"set.contactInfo" = "Informació de contacte";
+"set.details" = "Detalls addicionals";
+
+"cardholder" = "nom del titular";
+"type" = "tipus";
+"ccnum" = "número";
+"cvv" = "núm. de verificació";
+"expiry" = "data de caducitat";
+"validFrom" = "vàlid des del";
+"bank" = "banc emissor";
+"phoneLocal" = "telèfon (local)";
+"phoneTollFree" = "telèfon (gratuït)";
+"phoneIntl" = "telèfon (intl)";
+"website" = "lloc web";
+"pin" = "PIN";
+"creditLimit" = "límit de crèdit";
+"cashLimit" = "límit de retirada d'efectiu";
+"interest" = "taxa d'interès";
+"issuenumber" = "núm. expedició";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "Làser";
+"menu.type.unionpay" = "UnionPay";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

@@ -1,0 +1,14 @@
+"__title__" = "Treueprogramm";
+"__pluralTitle__" = "Treueprogramme";
+"__description__" = "Kundentreueprogramme wie Vielflieger- oder Hotelkundenprogramme";
+
+"company_name" = "Firmenname";
+"member_name" = "Mitgliedsname";
+"member_since" = "Mitglied seit";
+"membership_no" = "Mitglieds-Nr.";
+"additional_no" = "Mitgliedschafts-Nr. (zusätzlich)";
+"pin" = "PIN";
+"customer_service_phone" = "Kundenservicetelefon";
+"reservations_phone" = "Reservierungs-Nummer";
+"website" = "Webseite";
+"set.extra" = "Zusätzliche Informationen";

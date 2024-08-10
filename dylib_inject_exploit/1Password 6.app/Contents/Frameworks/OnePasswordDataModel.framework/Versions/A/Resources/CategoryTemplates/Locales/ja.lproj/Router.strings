@@ -1,0 +1,18 @@
+"__title__" = "無線ルータ";
+"__pluralTitle__" = "無線ルータ";
+"__description__" = "AirPort Extreme またはその他の無線ルータのアカウント情報。";
+
+"network_name" = "ネットワーク名";
+"name" = "ベースステーション名";
+"password" = "ベースステーションのパスワード";
+"server" = "サーバー / IP アドレス";
+"airport_id" = "AirMac ID";
+"wireless_security" = "ワイヤレスセキュリティ";
+"wireless_password" = "ワイヤレスネットワークのパスワード";
+"disk_password" = "アタッチトストレージ";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "セキュリティなし";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 パーソナル";
+"menu.wireless_security.wpa2e" = "WPA2 エンタープライズ";

@@ -1,0 +1,56 @@
+"__title__" = "E-postkonto";
+"__pluralTitle__" = "E-postkonti";
+"__description__" = "E-postkontoinformasjon.";
+"pop_username" = "Brukernavn";
+"pop_password" = "Passord";
+"pop_server" = "Server";
+"pop_type" = "Type";
+"pop_port" = "Port Number";
+"pop_security" = "Security";
+"pop_authentication" = "autentiseringsmetode";
+"set.SMTP" = "SMTP";
+"smtp_username" = "Brukernavn";
+"smtp_password" = "Passord";
+"smtp_server" = "SMTP Server";
+"smtp_type" = "Type";
+"smtp_port" = "Port Number";
+"smtp_security" = "Security";
+"smtp_authentication" = "autentiseringsmetode";
+"set.Contact Information" = "Kontaktinformasjon";
+"provider" = "Provider";
+"provider_website" = "Provider's Website";
+"phone_tollfree" = "telefonnummer (gratis)";
+"phone_local" = "telefonnummer (lokalt)";
+
+"menu.pop_type." = "";
+"menu.pop_type.pop3" = "POP3";
+"menu.pop_type.imap" = "IMAP";
+"menu.pop_type.either" = "Enten POP3 eller IMAP";
+
+"menu.pop_security." = "";
+"menu.pop_security.none" = "Ingen";
+"menu.pop_security.SSL" = "SSL";
+"menu.pop_security.TLS" = "TLS";
+
+"menu.pop_authentication." = "";
+"menu.pop_authentication.none" = "Ingen";
+"menu.pop_authentication.password" = "Passord";
+"menu.pop_authentication.md5_challenge_response" = "MD5 Challenge Response";
+"menu.pop_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+"menu.pop_authentication.kerberos_v4" = "Kerberos Version 4";
+"menu.pop_authentication.kerberos_v5" = "Kerberos Version 5 (GSSAPI)";
+"menu.pop_authentication.ntlm" = "NTLM";
+
+"menu.smtp_security." = "";
+"menu.smtp_security.none" = "None";
+"menu.smtp_security.SSL" = "SSL";
+"menu.smtp_security.TLS" = "TLS";
+
+"menu.smtp_authentication." = "";
+"menu.smtp_authentication.none" = "None";
+"menu.smtp_authentication.password" = "Passord";
+"menu.smtp_authentication.md5_challenge_response" = "MD5 Challenge Response";
+"menu.smtp_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+"menu.smtp_authentication.kerberos_v4" = "Kerberos Version 4";
+"menu.smtp_authentication.kerberos_v5" = "Kerberos Version 5 (GSSAPI)";
+"menu.smtp_authentication.ntlm" = "NTLM";

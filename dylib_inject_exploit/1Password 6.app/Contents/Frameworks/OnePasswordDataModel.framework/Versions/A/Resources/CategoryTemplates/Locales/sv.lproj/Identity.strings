@@ -1,0 +1,46 @@
+"__title__" = "Identitet";
+"__pluralTitle__" = "Identiteter";
+"__description__" = "Identiteter";
+
+"set.name" = "Personuppgifter";
+"firstname" = "förnamn";
+"initial" = "initial";
+"lastname" = "efternamn";
+"sex" = "kön";
+"birthdate" = "födelsedatum";
+"occupation" = "yrke";
+"company" = "företag";
+"department" = "avdelning";
+"jobtitle" = "yrkestitel";
+
+"set.internet" = "Internetuppgifter";
+"username" = "användarnamn";
+"reminderq" = "säkerhetsfråga";
+"remindera" = "säkerhetssvar";
+"email" = "e-post";
+"website" = "webbplats";
+"icq" = "ICQ";
+"skype" = "skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "forumsignatur";
+
+"set.address" = "Adress";
+"address" = "adress";
+"address1" = "adressrad 1";
+"address2" = "adressrad 2";
+"city" = "stad/förort";
+"state" = "delstat/provins";
+"zip" = "postnummer";
+"country" = "land";
+"location" = "plats";
+"phone" = "telefon";
+"defphone" = "huvudnummer";
+"homephone" = "hem";
+"cellphone" = "mobil";
+"busphone" = "arbete";
+
+"menu.sex." = "";
+"menu.sex.male" = "Man";
+"menu.sex.female" = "Kvinna";

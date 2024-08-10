@@ -1,0 +1,32 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4NV-qh-gNA"; */
+"4NV-qh-gNA.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "7py-hk-akV"; */
+"7py-hk-akV.title" = "Beenden";
+
+/* Class = "NSTextFieldCell"; title = "The extra copies of 1Password are listed below. Click the magnifying glass icon next to each copy to show them in the Finder, then move each one to the Trash."; ObjectID = "7rU-4Z-qcZ"; */
+"7rU-4Z-qcZ.title" = "Die zusätzlichen Kopien von 1Password sind unten aufgeführt. Klicken Sie auf das Lupensymbol neben jeder Kopie um sie im Finder anzuzeigen, dann verschieben Sie jede in den Papierkorb.";
+
+/* Class = "NSButtonCell"; title = "Update Anyway"; ObjectID = "Dpr-UK-fZQ"; */
+"Dpr-UK-fZQ.title" = "Trotzdem aktualisieren";
+
+/* Class = "NSWindow"; title = "Warning"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Warnung";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "N3J-GI-6CD"; */
+"N3J-GI-6CD.title" = "Titel";
+
+/* Class = "NSButtonCell"; title = "Move to Trash"; ObjectID = "SlN-21-j04"; */
+"SlN-21-j04.title" = "In den Papierkorb verschieben";
+
+/* Class = "NSButtonCell"; title = "Learn More…"; ObjectID = "VRn-VF-LxL"; */
+"VRn-VF-LxL.title" = "Erfahren Sie mehr…";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Show In Finder"; ObjectID = "kva-5N-ZJO"; */
+"kva-5N-ZJO.ibExternalAccessibilityDescription" = "Im Finder anzeigen";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "lHF-s0-im9"; */
+"lHF-s0-im9.title" = "Abbrechen";
+
+/* Class = "NSTextFieldCell"; title = "Message"; ObjectID = "qAB-eS-Aq3"; */
+"qAB-eS-Aq3.title" = "Nachricht";

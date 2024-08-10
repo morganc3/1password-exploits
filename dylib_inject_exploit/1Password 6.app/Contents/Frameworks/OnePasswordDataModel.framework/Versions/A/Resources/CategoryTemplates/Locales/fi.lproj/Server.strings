@@ -1,0 +1,18 @@
+"__title__" = "Palvelin";
+"__pluralTitle__" = "Palvelimet";
+
+"set.admin_console" = "Hallintakonsoli";
+"set.hosting_provider_details" = "Sivutilan tarjoaja";
+
+"__description__" = "Tili tiedot Linux- ja FreeBSD-palvelimiin, VPS-järjestelmiin, jne.";
+
+"url" = "Osoite";
+"username" = "käyttäjätunnus";
+"password" = "salasana";
+"admin_console_url" = "hallintakonsolin osoite";
+"admin_console_username" = "hallintakonsolin käyttäjätunnus";
+"admin_console_password" = "konsolin salasana";
+"name" = "nimi";
+"website" = "sivusto";
+"support_contact_url" = "tuen osoite";
+"support_contact_phone" = "tuen puhelinnumero";

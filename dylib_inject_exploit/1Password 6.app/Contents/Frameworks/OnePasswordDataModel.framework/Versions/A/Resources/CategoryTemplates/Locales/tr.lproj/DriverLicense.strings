@@ -1,0 +1,18 @@
+"__title__" = "Sürücü Ehliyeti";
+"__pluralTitle__" = "Sürücü Ehliyetleri";
+
+"fullname" = "Tam ad";
+"address" = "Adres";
+"birthdate" = "Doğum tarihi";
+"sex" = "Cinsiyet";
+"height" = "Boy";
+"number" = "Kart Numarası";
+"class" = "Ehliyet Sınıfı";
+"conditions" = "Koşullar / Yasaklamalar";
+"state" = "Şehir";
+"country" = "ülke";
+"expiry_date" = "son kullanma tarihi";
+
+"menu.sex." = "";
+"menu.sex.male" = "Erkek";
+"menu.sex.female" = "Kadın";

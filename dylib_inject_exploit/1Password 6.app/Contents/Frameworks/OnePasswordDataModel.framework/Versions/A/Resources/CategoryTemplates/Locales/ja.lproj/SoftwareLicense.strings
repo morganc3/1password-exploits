@@ -1,0 +1,22 @@
+"__title__" = "ライセンス";
+"__pluralTitle__" = "ライセンス";
+"__description__" = "ソフトウェア製品のライセンス、登録コードまたはシリアル番号。";
+
+"set.customer" = "顧客";
+"set.publisher" = "発行元";
+"set.order" = "注文";
+
+"product_name" = "製品名";
+"product_version" = "バージョン";
+"reg_name" = "ライセンス所有者";
+"reg_code" = "ライセンスキー";
+"reg_email" = "登録したメールアドレス";
+"company" = "会社";
+"download_link" = "ダウンロードページ";
+"publisher_name" = "発行元";
+"retail_price" = "小売価格";
+"publisher_website" = "ウェブサイト";
+"support_email" = "サポートのメールアドレス";
+"order_number" = "注文番号";
+"order_date" = "購入日";
+"order_total" = "注文合計";

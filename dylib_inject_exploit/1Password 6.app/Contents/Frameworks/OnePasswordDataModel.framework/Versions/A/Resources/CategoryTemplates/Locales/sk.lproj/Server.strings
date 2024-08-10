@@ -1,0 +1,18 @@
+"__title__" = "Server";
+"__pluralTitle__" = "Servery";
+
+"set.admin_console" = "Administračná konzola";
+"set.hosting_provider_details" = "Poskytovateľ hostingu";
+
+"__description__" = "Informácie o konte pre dedikované servery Linux a FreeBSD, VPS systémy, atď.";
+
+"url" = "URL";
+"username" = "užívateľské meno";
+"password" = "heslo";
+"admin_console_url" = "adresa URL administrácie";
+"admin_console_username" = "používateľské meno do administrácie";
+"admin_console_password" = "heslo pre konzolu";
+"name" = "meno";
+"website" = "webstránka";
+"support_contact_url" = "adresa URL technickej podpory";
+"support_contact_phone" = "telefón na podporu";

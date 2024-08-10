@@ -1,0 +1,28 @@
+{
+	"uuid":"103",
+	"localized":"yes",
+    "subtitle":"number",
+	"icons": {
+		"list":"type-drivers-license-list",
+		"detail":"type-drivers-license-details"
+	},
+	"contents":[
+		{
+			"set":"",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"fullname", "type":"string", "inputTraits" : { "autocapitalization" : "words" }  },
+				{ "name":"address", "type":"string", "inputTraits": { "autocapitalization":"sentences" }  },
+				{ "name":"birthdate", "type":"date" },
+				{ "name":"sex", "type":"gender", "menuitems":["male","female"] },
+				{ "name":"height", "type":"string" },
+				{ "name":"number", "type":"string" },
+				{ "name":"class", "type":"string" },
+				{ "name":"conditions", "type":"string" },
+				{ "name":"state", "type":"string" },
+				{ "name":"country", "type":"string" },
+				{ "name":"expiry_date", "type":"monthYear" }
+			]
+		}
+	]
+}

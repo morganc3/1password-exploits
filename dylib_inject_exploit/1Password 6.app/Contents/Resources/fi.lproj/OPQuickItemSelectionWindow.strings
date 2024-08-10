@@ -1,0 +1,17 @@
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "1O5-pM-hv3"; */
+"1O5-pM-hv3.title" = "Taulukkonäkymän solu";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Llf-MJ-XaF"; */
+"Llf-MJ-XaF.title" = "Laatikko";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "bjt-Va-yqa"; */
+"bjt-Va-yqa.title" = "Tekstiruutu";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "mTr-gD-MSf"; */
+"mTr-gD-MSf.title" = "Peruuta";
+
+/* Class = "NSTextFieldCell"; title = "Select an Item…"; ObjectID = "sKf-lR-gCA"; */
+"sKf-lR-gCA.title" = "Valitse kohde…";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "zdi-OP-dV9"; */
+"zdi-OP-dV9.title" = "Ikkuna";

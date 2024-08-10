@@ -1,0 +1,11 @@
+"__title__" = "會員資格";
+"__pluralTitle__" = "會員資格";
+"__description__" = "社群或俱樂部會員";
+"org_name" = "組織";
+"phone" = "電話";
+"website" = "網頁";
+"member_name" = "會員號碼";
+"member_since" = "加入會員時間";
+"expiry_date" = "效期截止日期";
+"membership_no" = "會員號碼";
+"pin" = "密碼";

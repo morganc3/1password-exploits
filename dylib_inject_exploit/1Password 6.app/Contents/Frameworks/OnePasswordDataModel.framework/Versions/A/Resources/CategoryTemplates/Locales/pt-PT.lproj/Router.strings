@@ -1,0 +1,18 @@
+"__title__" = "Router Wi-Fi";
+"__pluralTitle__" = "Routers Wi-Fi";
+"__description__" = "Informações de uma conta AirPort ou de um router Wi-Fi";
+
+"network_name" = "nome da rede";
+"name" = "nome da estação-base";
+"password" = "palavra-passe da estação-base";
+"server" = "servidor ou endereço IP";
+"airport_id" = "ID AirPort";
+"wireless_security" = "segurança da rede";
+"wireless_password" = "palavra-passe da rede";
+"disk_password" = "palavra-passe do armazenamento";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Nenhuma segurança";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 pessoal";
+"menu.wireless_security.wpa2e" = "WPA2 empresarial";

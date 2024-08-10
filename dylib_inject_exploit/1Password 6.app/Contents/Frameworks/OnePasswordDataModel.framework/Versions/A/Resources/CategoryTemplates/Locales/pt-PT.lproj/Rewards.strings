@@ -1,0 +1,14 @@
+"__title__" = "Cartão de fidelidade";
+"__pluralTitle__" = "Cartões de fidelidade";
+"__description__" = "Programas de fidelidade de cliente (milhas e pontos)";
+
+"company_name" = "nome da empresa";
+"member_name" = "nome do membro";
+"member_since" = "membro desde";
+"membership_no" = "ID de membro";
+"additional_no" = "ID de membro (opcional)";
+"pin" = "código PIN";
+"customer_service_phone" = "telefone (apoio a clientes)";
+"reservations_phone" = "telefone (reservas)";
+"website" = "site";
+"set.extra" = "Mais informações";

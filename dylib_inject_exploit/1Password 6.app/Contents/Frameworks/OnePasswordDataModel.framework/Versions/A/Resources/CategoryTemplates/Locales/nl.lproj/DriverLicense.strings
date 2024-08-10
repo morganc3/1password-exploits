@@ -1,0 +1,18 @@
+"__title__" = "Rijbewijs";
+"__pluralTitle__" = "Rijbewijzen";
+
+"fullname" = "volledige naam";
+"address" = "adres";
+"birthdate" = "geboortedatum";
+"sex" = "geslacht";
+"height" = "lengte";
+"number" = "nummer";
+"class" = "categorie";
+"conditions" = "voorwaarden/beperkingen";
+"state" = "staat";
+"country" = "land";
+"expiry_date" = "vervaldatum";
+
+"menu.sex." = "";
+"menu.sex.male" = "Man";
+"menu.sex.female" = "Vrouw";

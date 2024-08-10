@@ -1,0 +1,22 @@
+"__title__" = "Llicència de programari";
+"__pluralTitle__" = "Llicències de programari";
+"__description__" = "Llicència de programari, codi de registre o número de sèrie.";
+
+"set.customer" = "Client";
+"set.publisher" = "Creador";
+"set.order" = "Ordre";
+
+"product_name" = "nom del producte";
+"product_version" = "versió";
+"reg_name" = "Llicenciat a";
+"reg_code" = "clau de llicència";
+"reg_email" = "correu electrònic registrat";
+"company" = "companyia";
+"download_link" = "pàgina de descàrrega";
+"publisher_name" = "creador";
+"retail_price" = "preu de botiga";
+"publisher_website" = "lloc web";
+"support_email" = "correu electrònic de suport";
+"order_number" = "número de comanda";
+"order_date" = "data de compra";
+"order_total" = "total de la comanda";

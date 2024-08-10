@@ -1,0 +1,20 @@
+/* Class = "NSButtonCell"; title = "LastPass"; ObjectID = "Dqe-fa-wfi"; */
+"Dqe-fa-wfi.title" = "LastPass";
+
+/* Class = "NSTextFieldCell"; title = "Where is your data coming from?"; ObjectID = "HKK-KQ-xvF"; */
+"HKK-KQ-xvF.title" = "Skąd pochodzą dane?";
+
+/* Class = "NSButtonCell"; title = "Other"; ObjectID = "VJd-Mp-d6b"; */
+"VJd-Mp-d6b.title" = "Inne";
+
+/* Class = "NSTextFieldCell"; title = "Select the source of your data for instructions on how to import it."; ObjectID = "nHN-C6-xTw"; */
+"nHN-C6-xTw.title" = "Wybierz źródło danych, aby uzyskać wskazówki na temat sposobu importowania.";
+
+/* Class = "NSButtonCell"; title = "1Password"; ObjectID = "nom-iI-AxJ"; */
+"nom-iI-AxJ.title" = "1Password";
+
+/* Class = "NSButtonCell"; title = "SplashID"; ObjectID = "op7-EV-agl"; */
+"op7-EV-agl.title" = "SplashID";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "vYa-Nj-Ua4"; */
+"vYa-Nj-Ua4.title" = "Box";

@@ -1,0 +1,46 @@
+"__title__" = "Totožnost";
+"__pluralTitle__" = "Totožnosti";
+"__description__" = "Totožnosti";
+
+"set.name" = "identifikace";
+"firstname" = "křestní jméno";
+"initial" = "iniciála";
+"lastname" = "příjmení";
+"sex" = "pohlaví";
+"birthdate" = "datum narození";
+"occupation" = "povolání";
+"company" = "společnost";
+"department" = "oddělení";
+"jobtitle" = "pracovní pozice";
+
+"set.internet" = "Internetové podrobnosti";
+"username" = "uživatelské jméno";
+"reminderq" = "návodná otázka";
+"remindera" = "odpověď připomínky";
+"email" = "e-mail";
+"website" = "web";
+"icq" = "ICQ";
+"skype" = "Skype";
+"aim" = "AOL/IAM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "podpis do diskusí";
+
+"set.address" = "Adresa";
+"address" = "address";
+"address1" = "1. řádek adresy";
+"address2" = "2. řádek adresy";
+"city" = "město/obec/čtvrť";
+"state" = "stát/země";
+"zip" = "PSČ";
+"country" = "země";
+"location" = "umístění";
+"phone" = "telefon";
+"defphone" = "výchozí telefon";
+"homephone" = "domů";
+"cellphone" = "mobilní";
+"busphone" = "pracovní";
+
+"menu.sex." = "";
+"menu.sex.male" = "Muž";
+"menu.sex.female" = "Žena";

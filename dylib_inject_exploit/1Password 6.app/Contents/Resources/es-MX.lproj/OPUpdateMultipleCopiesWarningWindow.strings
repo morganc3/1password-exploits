@@ -1,0 +1,27 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4NV-qh-gNA"; */
+"4NV-qh-gNA.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Update Anyway"; ObjectID = "Dpr-UK-fZQ"; */
+"Dpr-UK-fZQ.title" = "Update Anyway";
+
+/* Class = "NSWindow"; title = "Warning"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Warning";
+
+/* Class = "NSTextFieldCell"; title = "Extra copies of 1Password found"; ObjectID = "N3J-GI-6CD"; */
+"N3J-GI-6CD.title" = "Extra copies of 1Password found";
+
+/* Class = "NSButtonCell"; title = "Move to Trash"; ObjectID = "SlN-21-j04"; */
+"SlN-21-j04.title" = "Move to Trash";
+
+/* Class = "NSButtonCell"; title = "Learn More…"; ObjectID = "VRn-VF-LxL"; */
+"VRn-VF-LxL.title" = "Learn More…";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "lHF-s0-im9"; */
+"lHF-s0-im9.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "We've found more than one copy of 1Password on your Mac. Please remove the extra copies before updating.\n\nMove the copies of 1Password listed below to the Trash and Empty the Trash."; ObjectID = "qAB-eS-Aq3"; */
+"qAB-eS-Aq3.title" = "We've found more than one copy of 1Password on your Mac. Please remove the extra copies before updating.\n\nMove the copies of 1Password listed below to the Trash and Empty the Trash.";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "qfx-Rs-fmi"; */
+"qfx-Rs-fmi.title" = "Table View Cell";

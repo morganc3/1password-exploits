@@ -1,0 +1,30 @@
+
+/* Class = "NSButtonCell"; title = "Select CSV File…"; ObjectID = "3Qn-dn-NBw"; */
+"3Qn-dn-NBw.title" = "Select CSV File…";
+
+/* Class = "NSTextFieldCell"; title = "1. Choose the "; ObjectID = "HVA-b5-PIS"; */
+"HVA-b5-PIS.title" = "1. Choose the ";
+
+/* Class = "NSTextFieldCell"; title = "Each item type will need to be in its own separate file. Logins, Credit Cards, Software Licenses, and Secure Notes are supported."; ObjectID = "RcW-zD-j0B"; */
+"RcW-zD-j0B.title" = "Each item type will need to be in its own separate file. Logins, Credit Cards, Software Licenses, and Secure Notes are supported.";
+
+/* Class = "NSMenuItem"; title = "Credit Card"; ObjectID = "Tmk-dh-rpC"; */
+"Tmk-dh-rpC.title" = "Credit Card";
+
+/* Class = "NSMenuItem"; title = "Software License"; ObjectID = "bHH-VS-36y"; */
+"bHH-VS-36y.title" = "Software License";
+
+/* Class = "NSTextFieldCell"; title = "2. "; ObjectID = "eEK-pO-abE"; */
+"eEK-pO-abE.title" = "2. ";
+
+/* Class = "NSMenuItem"; title = "Item Type"; ObjectID = "ecK-vk-xeN"; */
+"ecK-vk-xeN.title" = "Item Type";
+
+/* Class = "NSMenuItem"; title = "Secure Note"; ObjectID = "m4w-zT-Uk0"; */
+"m4w-zT-Uk0.title" = "Secure Note";
+
+/* Class = "NSTextFieldCell"; title = "If you are using another app or a spreadsheet file, you will need to find out how to export your data into what’s called a Comma Separated Value file (CSV)."; ObjectID = "v44-Mo-g64"; */
+"v44-Mo-g64.title" = "If you are using another app or a spreadsheet file, you will need to find out how to export your data into what’s called a Comma Separated Value file (CSV).";
+
+/* Class = "NSMenuItem"; title = "Login"; ObjectID = "xzW-0M-LiQ"; */
+"xzW-0M-LiQ.title" = "Login";

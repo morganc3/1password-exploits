@@ -1,0 +1,18 @@
+"__title__" = "WiFi Router";
+"__pluralTitle__" = "WiFi Routre";
+"__description__" = "Informácie o konte pre váš AirPort Extreme alebo iný WiFi Router.";
+
+"network_name" = "názov siete";
+"name" = "názov základňovej stanice";
+"password" = "heslo základňovej stanice";
+"server" = "server / IP adresa";
+"airport_id" = "AirPort ID";
+"wireless_security" = "zabezpečenie bezdrôtovej siete";
+"wireless_password" = "heslo bezdrôtovej siete";
+"disk_password" = "heslo pre pripojené úložisko";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Žiadne zabezpečenie";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 Personal";
+"menu.wireless_security.wpa2e" = "WPA2 Enterprise";

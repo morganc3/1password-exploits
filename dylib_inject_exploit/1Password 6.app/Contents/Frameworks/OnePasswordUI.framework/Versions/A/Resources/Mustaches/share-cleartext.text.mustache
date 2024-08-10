@@ -1,0 +1,19 @@
+{{item.title}}
+{{category.localizedSingularName}}
+	
+{{#item.username}}{{labels.username}}: {{& item.username}}{{/item.username}}
+{{#item.password}}{{labels.password}}: {{& item.password}}{{/item.password}}
+
+{{#item.URLs}}{{calculatedLabel}}: {{{URLString}}}
+{{/item.URLs}}
+
+{{#item.fieldSections}}{{#numberOfFields}}
+
+{{title}}
+{{#fields}}{{#stringValue}}{{& title}}: {{& stringValue}}
+{{/stringValue}}{{/fields}}
+{{/numberOfFields}}{{/item.fieldSections}}
+
+{{#item.notesPlain}}{{labels.notes}}
+{{{item.notesPlain}}}
+{{/item.notesPlain}}

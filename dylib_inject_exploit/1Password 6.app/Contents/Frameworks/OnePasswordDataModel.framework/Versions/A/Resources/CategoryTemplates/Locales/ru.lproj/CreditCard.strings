@@ -1,0 +1,40 @@
+"__title__" = "Кредитная карта";
+"__pluralTitle__" = "Кредитные карты";
+"__description__" = "Данные кредитной карты";
+
+"set.contactInfo" = "Контактная информация";
+"set.details" = "Дополнительные сведения";
+
+"cardholder" = "Имя владельца карты";
+"type" = "Тип";
+"ccnum" = "Номер";
+"cvv" = "Проверочный код";
+"expiry" = "Срок действия";
+"validFrom" = "Начало действия";
+"bank" = "Банк, выдавший карту";
+"phoneLocal" = "Телефон (местный)";
+"phoneTollFree" = "Телефон (звонок бесплатный)";
+"phoneIntl" = "Телефон (международный)";
+"website" = "Веб-сайт";
+"pin" = "PIN-код";
+"creditLimit" = "Кредитный лимит";
+"cashLimit" = "Лимит выдачи наличных";
+"interest" = "Ставка";
+"issuenumber" = "Номер выпуска";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "Лазер";
+"menu.type.unionpay" = "UnionPay";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

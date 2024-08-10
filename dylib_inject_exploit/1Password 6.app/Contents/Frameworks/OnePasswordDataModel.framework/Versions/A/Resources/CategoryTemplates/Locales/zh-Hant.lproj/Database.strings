@@ -1,0 +1,25 @@
+"__title__" = "資料庫";
+"__pluralTitle__" = "資料庫";
+"__description__" = "連接資料庫相關資訊";
+
+"hostname" = "伺服器";
+"port" = "連接埠";
+"database" = "資料庫";
+"database_type" = "類型";
+"username" = "使用者名稱";
+"password" = "密碼";
+"sid" = "SID";
+"alias" = "別名";
+"options" = "連線選項";
+
+"menu.database_type." = "";
+"menu.database_type.db2" = "DB2";
+"menu.database_type.filemaker" = "FileMaker";
+"menu.database_type.msaccess" = "Microsoft Access";
+"menu.database_type.mssql" = "MS SQL Server";
+"menu.database_type.mysql" = "MySQL";
+"menu.database_type.oracle" = "Oracle";
+"menu.database_type.postresql" = "PostgreSQL";
+"menu.database_type.postgresql" = "PostgreSQL";
+"menu.database_type.sqlite" = "SQLite";
+"menu.database_type.other" = "其他";

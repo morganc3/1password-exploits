@@ -1,0 +1,20 @@
+"__title__" = "Cestovní pas";
+"__pluralTitle__" = "Pas";
+"__description__" = "Vládou vydaný pas.";
+
+"type" = "typ";
+"fullname" = "celé jméno";
+"number" = "číslo";
+"birthdate" = "datum narození";
+"birthplace" = "místo narození";
+"nationality" = "národnost";
+"code" = "kód";
+"sex" = "pohlaví";
+"issuing_country" = "vydávající země";
+"issuing_authority" = "vydávající orgán";
+"issue_date" = "datum vydání";
+"expiry_date" = "datum expirace";
+
+"menu.sex." = "";
+"menu.sex.male" = "Muž";
+"menu.sex.female" = "Žena";

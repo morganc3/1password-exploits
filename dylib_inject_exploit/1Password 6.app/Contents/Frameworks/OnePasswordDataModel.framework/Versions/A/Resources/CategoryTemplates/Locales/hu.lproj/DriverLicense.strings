@@ -1,0 +1,18 @@
+"__title__" = "Jogosítvány";
+"__pluralTitle__" = "Jogosítvány";
+
+"fullname" = "teljes név";
+"address" = "cím";
+"birthdate" = "születési dátum";
+"sex" = "neme";
+"height" = "magasság";
+"number" = "szám";
+"class" = "kategória";
+"conditions" = "feltételek / korlátozások";
+"state" = "állam";
+"country" = "ország";
+"expiry_date" = "lejárati idő";
+
+"menu.sex." = "";
+"menu.sex.male" = "Férfi";
+"menu.sex.female" = "Nő";

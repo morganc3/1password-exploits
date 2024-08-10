@@ -1,0 +1,23 @@
+"__title__" = "Konto bankowe";
+"__pluralTitle__" = "Konta bankowe";
+"__description__" = "Informacje o koncie bankowym.";
+
+"bankName" = "Nazwa banku";
+"owner" = "Nazwa konta";
+"accountType" = "Typ";
+"routingNo" = "Routing Number";
+"accountNo" = "Numer konta";
+"swift" = "Kod SWIFT";
+"iban" = "Numer IBAN";
+"set.branchInfo" = "Informacja o oddziale";
+"branchPhone" = "Telefon";
+"branchAddress" = "Adres";
+"telephonePin" = "Kod PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "ATM";
+"menu.accountType.checking" = "rozliczeniowy";
+"menu.accountType.savings" = "Oszczędności";
+"menu.accountType.loc" = "Linia kredytowa";
+"menu.accountType.money_market" = "Rynek pieniężny";
+"menu.accountType.other" = "Inne";

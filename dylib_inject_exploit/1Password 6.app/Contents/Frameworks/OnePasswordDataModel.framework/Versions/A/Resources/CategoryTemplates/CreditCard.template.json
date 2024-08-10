@@ -1,0 +1,46 @@
+{
+	"uuid":"002",	
+	"localized":"yes",
+	"hidden":"yes",
+	"availability":"always",
+	"icons": {
+		"list":"type-credit-card-list",
+		"detail":"type-credit-card-details"
+	},
+	"contents":[
+		{
+			"set":"",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"cardholder", "type":"string", "attributes": { "guarded":"yes" }, "inputTraits": { "autocapitalization":"Words", "keyboard": "Default" } },
+				{ "name":"type", "type":"cctype", "menuitems":["visa", "mc", "amex", "diners", "carteblanche", "discover", "jcb", "maestro", "visaelectron", "laser", "unionpay" ], "attributes": { "guarded":"yes" } },
+				{ "name":"ccnum", "type":"string", "attributes": { "clipboardFilter":"0123456789", "guarded":"yes" }, "inputTraits" : { "keyboard": "NumberPad" } },
+				{ "name":"cvv", "type":"concealed", "attributes": { "generate":"off", "guarded":"yes" }, "inputTraits" : { "keyboard": "NumberPad" } },
+				{ "name":"expiry", "type":"monthYear", "attributes": { "guarded":"yes" } },
+				{ "name":"validFrom", "type":"monthYear", "attributes": { "guarded":"yes" } }
+			]
+		},
+		
+		{
+			"set":"contactInfo",
+			"fields":[
+				{ "name":"bank", "type":"string", "inputTraits": { "autocapitalization":"Words", "keyboard": "Default" } },
+				{ "name":"phoneLocal", "type":"phone", "inputTraits" : { "keyboard": "NamePhonePad" } },
+				{ "name":"phoneTollFree", "type":"phone", "inputTraits" : { "keyboard": "NamePhonePad" }  },
+				{ "name":"phoneIntl", "type":"phone", "inputTraits" : { "keyboard": "NamePhonePad" }  },
+				{ "name":"website", "type":"URL" }
+			]
+		},
+		
+		{
+			"set":"details",
+			"fields":[
+				{ "name":"pin", "type":"concealed", "inputTraits" : { "keyboard": "NumberPad" } },
+				{ "name":"creditLimit", "type":"string", "inputTraits" : { "keyboard": "NumbersAndPunctuation" } },
+				{ "name":"cashLimit", "type":"string", "inputTraits" : { "keyboard": "NumbersAndPunctuation" } },
+				{ "name":"interest", "type":"string", "inputTraits" : { "keyboard": "NumbersAndPunctuation" } },
+				{ "name":"issuenumber", "type":"string", "inputTraits" : { "autocorrection" : "no" } }
+			]
+		}		
+	]
+}

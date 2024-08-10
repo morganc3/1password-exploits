@@ -1,0 +1,10 @@
+"__title__" = "Kültéri engedély";
+"__pluralTitle__" = "Kültéri engedély";
+
+"name" = "teljes név";
+"valid_from" = "kibocsátási idő";
+"expires" = "lejárat";
+"game" = "jóváhagyo engedély";
+"quota" = "maximum keret";
+"state" = "állam";
+"country" = "ország";

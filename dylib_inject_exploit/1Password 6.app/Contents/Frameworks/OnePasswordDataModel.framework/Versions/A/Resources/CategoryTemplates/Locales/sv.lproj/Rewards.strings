@@ -1,0 +1,14 @@
+"__title__" = "Belöningsprogram";
+"__pluralTitle__" = "Belöningsprogram";
+"__description__" = "Lojalitetsprogram, inklusive flygmil och hotell";
+
+"company_name" = "företagsnamn";
+"member_name" = "medlemsnamn";
+"member_since" = "medlem sedan";
+"membership_no" = "medlems-ID";
+"additional_no" = "medlems-ID (extra)";
+"pin" = "PIN-kod";
+"customer_service_phone" = "telefon för kundtjänst";
+"reservations_phone" = "telefon för reservationer";
+"website" = "webbplats";
+"set.extra" = "Mer information";

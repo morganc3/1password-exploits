@@ -1,0 +1,11 @@
+"__title__" = "Membership";
+"__pluralTitle__" = "Memberships";
+"__description__" = "Community or club membership";
+"org_name" = "group";
+"phone" = "telephone";
+"website" = "website";
+"member_name" = "member name";
+"member_since" = "member since";
+"expiry_date" = "expiry date";
+"membership_no" = "member ID";
+"pin" = "password";

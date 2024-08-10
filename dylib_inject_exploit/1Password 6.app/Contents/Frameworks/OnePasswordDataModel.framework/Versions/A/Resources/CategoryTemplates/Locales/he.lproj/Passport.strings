@@ -1,0 +1,20 @@
+"__title__" = "דרכון";
+"__pluralTitle__" = "דרכונים";
+"__description__" = "הממשלה שהנפיקה את הדרכון.";
+
+"type" = "סוג";
+"fullname" = "שם מלא";
+"number" = "מספר";
+"birthdate" = "תאריך לידה";
+"birthplace" = "מקום לידה";
+"nationality" = "אזרחות";
+"code" = "קוד";
+"sex" = "מין";
+"issuing_country" = "המדינה המנפיקה";
+"issuing_authority" = "הרשות המנפיקה";
+"issue_date" = "הונפק בתאריך";
+"expiry_date" = "תאריך תפוגה";
+
+"menu.sex." = "";
+"menu.sex.male" = "זכר";
+"menu.sex.female" = "נקבה";

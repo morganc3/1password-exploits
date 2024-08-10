@@ -1,0 +1,24 @@
+{
+	"uuid":"104",
+	"localized":"yes",
+    "subtitle":"name",
+	"icons": {
+		"list":"type-outdoor-list",
+		"detail":"type-outdoor-details"
+	},
+	"contents":[
+		{
+			"set":"",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"name", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"valid_from", "type":"date" },
+				{ "name":"expires", "type":"date" },
+				{ "name":"game", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"quota", "type":"string" },
+				{ "name":"state", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"country", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } }
+			]
+		}
+	]
+}

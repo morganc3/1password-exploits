@@ -1,0 +1,22 @@
+"__title__" = "Softvérová licencia";
+"__pluralTitle__" = "Softvérové licencie";
+"__description__" = "Licencia na produkt, registračný kód alebo sériové číslo.";
+
+"set.customer" = "Zákazník";
+"set.publisher" = "Vydavateľ";
+"set.order" = "Objednávka";
+
+"product_name" = "názov produktu";
+"product_version" = "verzia";
+"reg_name" = "držiteľ licencie";
+"reg_code" = "licenčný kľúč";
+"reg_email" = "registrovaný e-mail";
+"company" = "spoločnosť";
+"download_link" = "stránka na prevzatie";
+"publisher_name" = "vydavateľ";
+"retail_price" = "maloobchodná cena";
+"publisher_website" = "webstránka";
+"support_email" = "e-mail podpory";
+"order_number" = "číslo objednávky";
+"order_date" = "dátum nákupu";
+"order_total" = "objednávka celkom";

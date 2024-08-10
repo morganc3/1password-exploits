@@ -1,0 +1,23 @@
+"__title__" = "حساب البنك";
+"__pluralTitle__" = "حساب البنك";
+"__description__" = ".معلومات حساب البنك";
+
+"bankName" = "اسم المصرف";
+"owner" = "اسم الحساب";
+"accountType" = "النوع";
+"routingNo" = "رقم التوجيه";
+"accountNo" = "رقم الحساب";
+"swift" = "SWIFT Code";
+"iban" = "IBAN Number";
+"set.branchInfo" = "معلومات الفرغ";
+"branchPhone" = "الهاتف";
+"branchAddress" = "عنوان";
+"telephonePin" = "رقم التعريف الشخصي PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "ATM";
+"menu.accountType.checking" = "فحص";
+"menu.accountType.savings" = "المحفوظات";
+"menu.accountType.loc" = "خط السحب";
+"menu.accountType.money_market" = "سوق المال";
+"menu.accountType.other" = "أخرى";

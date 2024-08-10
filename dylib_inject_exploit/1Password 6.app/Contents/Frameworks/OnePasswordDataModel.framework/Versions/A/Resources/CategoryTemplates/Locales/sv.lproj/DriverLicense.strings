@@ -1,0 +1,18 @@
+"__title__" = "Körkort";
+"__pluralTitle__" = "Körkort";
+
+"fullname" = "fullständigt namn";
+"address" = "adress";
+"birthdate" = "födelsedatum";
+"sex" = "kön";
+"height" = "längd";
+"number" = "nummer";
+"class" = "förarbehörigheter";
+"conditions" = "villkor";
+"state" = "delstat";
+"country" = "land";
+"expiry_date" = "upphör att gälla";
+
+"menu.sex." = "";
+"menu.sex.male" = "Man";
+"menu.sex.female" = "Kvinna";

@@ -1,0 +1,18 @@
+"__title__" = "Langaton reititin";
+"__pluralTitle__" = "Langattomat reitittimet";
+"__description__" = "Tili tiedot Airport Extremeen tai muuhun langattomaan reitittimeen.";
+
+"network_name" = "verkon nimi";
+"name" = "päätukiaseman nimi";
+"password" = "päätukiaseman salasana";
+"server" = "palvelin tai IP-osoite";
+"airport_id" = "AirPortin tunnusnumero";
+"wireless_security" = "suojaustyyppi";
+"wireless_password" = "langattoman verkon salasana";
+"disk_password" = "liitetyn tallennusvälineen salasana";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Ei suojausta";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 Personal";
+"menu.wireless_security.wpa2e" = "WPA2 Enterprise";

@@ -1,0 +1,49 @@
+{
+	"uuid":"111",
+	"localized":"yes",
+    "subtitle":"pop_username",
+	"icons": {
+		"list":"type-email-list",
+		"detail":"type-email-details"
+	},
+	"contents":[
+		{
+			"set":"",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"pop_type", "type":"menu", "menuitems":["pop3", "imap", "either"] },
+				{ "name":"pop_username", "type":"string", "isUsername":"yes", "inputTraits" : { "autocorrection": "no", "autocapitalization" : "none" } },
+				{ "name":"pop_server", "type":"string", "inputTraits" : { "keyboard": "URL" }  },
+				{ "name":"pop_port", "type":"string", "width":"60", "inputTraits" : { "keyboard": "NumberPad" } },
+
+				{ "name":"pop_password", "type":"concealed" },
+				{ "name":"pop_security", "type":"menu", "menuitems":["none", "SSL", "TLS"] },
+				{ "name":"pop_authentication", "type":"menu", "menuitems":["none", "password", "md5_challenge_response", "kerberized_pop", "kerberos_v4", "kerberos_v5", "ntlm"] }
+			]
+		},
+		
+		{
+			"set":"SMTP",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"smtp_server", "type":"string", "inputTraits" : { "keyboard": "URL" }  },
+				{ "name":"smtp_port", "type":"string", "width":"60", "inputTraits" : { "keyboard": "NumberPad" } },
+				{ "name":"smtp_username", "type":"string", "isUsername":"yes", "inputTraits" : { "autocorrection": "no", "autocapitalization" : "none" } },
+				{ "name":"smtp_password", "type":"concealed" },
+				{ "name":"smtp_security", "type":"menu", "menuitems":["none", "SSL", "TLS"] },
+				{ "name":"smtp_authentication", "type":"menu", "menuitems":["none", "password", "md5_challenge_response", "kerberized_pop", "kerberos_v4", "kerberos_v5", "ntlm"] }
+			]
+		},
+		
+		{
+			"set":"Contact Information",
+			"disclosed":"no",
+			"fields": [
+				{ "name":"provider", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"provider_website", "type":"string", "inputTraits" : { "keyboard": "URL" } },
+				{ "name":"phone_local", "type":"string", "subtype":"phone", "inputTraits" : { "keyboard": "NamePhonePad" } },
+				{ "name":"phone_tollfree", "type":"string", "subtype":"phone", "inputTraits" : { "keyboard": "NamePhonePad" } }
+			]
+		}
+	]
+}

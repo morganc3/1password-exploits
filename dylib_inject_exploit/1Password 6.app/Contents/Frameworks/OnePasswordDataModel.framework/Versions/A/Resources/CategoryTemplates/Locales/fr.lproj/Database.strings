@@ -1,0 +1,25 @@
+"__title__" = "Base de données";
+"__pluralTitle__" = "Bases de données";
+"__description__" = "Infos de connexion base de données.";
+
+"hostname" = "serveur";
+"port" = "Port";
+"database" = "Base de données";
+"database_type" = "Type";
+"username" = "Nom d'utilisateur";
+"password" = "Mot de passe";
+"sid" = "SID";
+"alias" = "Alias";
+"options" = "Options de connexion";
+
+"menu.database_type." = "";
+"menu.database_type.db2" = "DB2";
+"menu.database_type.filemaker" = "FileMaker";
+"menu.database_type.msaccess" = "Microsoft Access";
+"menu.database_type.mssql" = "MS SQL Server";
+"menu.database_type.mysql" = "MySQL";
+"menu.database_type.oracle" = "Oracle";
+"menu.database_type.postresql" = "PostgreSQL";
+"menu.database_type.postgresql" = "PostgreSQL";
+"menu.database_type.sqlite" = "SQLite";
+"menu.database_type.other" = "Autre";

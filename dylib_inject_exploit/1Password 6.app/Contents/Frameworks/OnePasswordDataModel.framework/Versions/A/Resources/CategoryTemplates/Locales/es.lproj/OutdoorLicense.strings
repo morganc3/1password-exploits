@@ -1,0 +1,10 @@
+"__title__" = "Licencia exterior";
+"__pluralTitle__" = "Licencias exteriores";
+
+"name" = "Nombre completo";
+"valid_from" = "Válido desde";
+"expires" = "Caduca";
+"game" = "Habita salvaje aprobado";
+"quota" = "Cupo máximo";
+"state" = "Estado";
+"country" = "País";

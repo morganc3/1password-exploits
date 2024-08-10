@@ -1,0 +1,18 @@
+"__title__" = "駕照";
+"__pluralTitle__" = "駕照";
+
+"fullname" = "全名";
+"address" = "地址";
+"birthdate" = "出生日期";
+"sex" = "性別";
+"height" = "身高";
+"number" = "號碼";
+"class" = "類別";
+"conditions" = "特殊條件 / 限制";
+"state" = "州 / 省 / 縣";
+"country" = "國家";
+"expiry_date" = "效期截止日期";
+
+"menu.sex." = "";
+"menu.sex.male" = "男";
+"menu.sex.female" = "女";

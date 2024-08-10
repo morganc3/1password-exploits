@@ -1,0 +1,18 @@
+"__title__" = "Bediener";
+"__pluralTitle__" = "Bedieners";
+
+"set.admin_console" = "Beheerpaneel";
+"set.hosting_provider_details" = "Gasheerverskaffer";
+
+"__description__" = "Rekeninginligting vir toegewyde Linux- en FreeBSD-bedieners, VPS-stelsels, ens.";
+
+"url" = "Bronadres";
+"username" = "gebruikersnaam";
+"password" = "wagwoord";
+"admin_console_url" = "beheerpaneelbronadres";
+"admin_console_username" = "beheerpaneelgebruikersnaam";
+"admin_console_password" = "beheerpaneelwagwoord";
+"name" = "naam";
+"website" = "webwerf";
+"support_contact_url" = "ondersteuningsbronadres";
+"support_contact_phone" = "ondersteuningstelefoon";

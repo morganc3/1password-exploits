@@ -1,0 +1,23 @@
+"__title__" = "Tài khoản Ngân hàng";
+"__pluralTitle__" = "Tài khoản Ngân hàng";
+"__description__" = "Thông tin tài khoản ngân hàng.";
+
+"bankName" = "tên ngân hàng";
+"owner" = "tên chủ tài khoản";
+"accountType" = "loại tài khoản";
+"routingNo" = "routing number";
+"accountNo" = "số tài khoản";
+"swift" = "SWIFT";
+"iban" = "IBAN";
+"set.branchInfo" = "Thông tin chi nhánh";
+"branchPhone" = "số điện thoại";
+"branchAddress" = "Địa chỉ";
+"telephonePin" = "Mã PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "ATM";
+"menu.accountType.checking" = "Checking";
+"menu.accountType.savings" = "Savings";
+"menu.accountType.loc" = "Line of Credit";
+"menu.accountType.money_market" = "Money Market";
+"menu.accountType.other" = "Khác";

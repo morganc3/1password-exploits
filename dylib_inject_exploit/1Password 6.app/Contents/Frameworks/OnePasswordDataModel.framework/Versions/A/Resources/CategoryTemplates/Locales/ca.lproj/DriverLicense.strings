@@ -1,0 +1,18 @@
+"__title__" = "Carnet de conduir";
+"__pluralTitle__" = "Carnets de conduir";
+
+"fullname" = "nom i cognoms";
+"address" = "adreça";
+"birthdate" = "data de naixement";
+"sex" = "sexe";
+"height" = "alçada";
+"number" = "nombre";
+"class" = "tipus de llicència";
+"conditions" = "condicions / restriccions";
+"state" = "estat";
+"country" = "país";
+"expiry_date" = "data de caducitat";
+
+"menu.sex." = "";
+"menu.sex.male" = "Home";
+"menu.sex.female" = "Dona";

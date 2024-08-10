@@ -1,0 +1,23 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1Js-as-HFS"; */
+"1Js-as-HFS.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "AjT-zI-hrb"; */
+"AjT-zI-hrb.title" = "Élément 3";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "J2v-oW-0V3"; */
+"J2v-oW-0V3.title" = "Enregistrer";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "S8Z-I2-u2n"; */
+"S8Z-I2-u2n.title" = "Annuler";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "m2V-QS-dRP"; */
+"m2V-QS-dRP.title" = "Élément 2";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "rGE-hd-YIl"; */
+"rGE-hd-YIl.title" = "Fermer";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "uco-dW-376"; */
+"uco-dW-376.title" = "Élément 1";
+
+/* Class = "NSTextFieldCell"; title = "Search:"; ObjectID = "zxc-nw-8eO"; */
+"zxc-nw-8eO.title" = "Rechercher :";

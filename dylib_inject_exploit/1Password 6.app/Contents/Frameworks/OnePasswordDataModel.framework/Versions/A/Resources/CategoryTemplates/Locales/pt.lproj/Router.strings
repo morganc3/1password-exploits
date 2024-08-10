@@ -1,0 +1,18 @@
+"__title__" = "Roteador Sem Fio";
+"__pluralTitle__" = "Roteadores Sem Fio";
+"__description__" = "Informações de conta para o seu AirPort Extreme ou outros Roteadores Sem Fios.";
+
+"network_name" = "Nome da rede";
+"name" = "Nome da estação base";
+"password" = "Senha da estação base";
+"server" = "Servidor / Endereço IP";
+"airport_id" = "ID do AirPort";
+"wireless_security" = "Segurança da rede sem fios";
+"wireless_password" = "Senha da rede sem fio";
+"disk_password" = "Senha de armazenamento anexada";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Nenhuma segurança";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 Pessoal";
+"menu.wireless_security.wpa2e" = "WPA2 Enterprise";

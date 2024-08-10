@@ -1,0 +1,46 @@
+"__title__" = "Личность";
+"__pluralTitle__" = "Личности";
+"__description__" = "Этот объект не принадлежит к бумажнику, его задача - формировать подробное представление.";
+
+"set.name" = "Идентификация";
+"firstname" = "Имя";
+"initial" = "Инициалы";
+"lastname" = "Фамилия";
+"sex" = "Пол";
+"birthdate" = "Дата рождения";
+"occupation" = "Место работы";
+"company" = "Компания";
+"department" = "Отдел";
+"jobtitle" = "Должность";
+
+"set.internet" = "Параметры Интернета";
+"username" = "Имя пользователя";
+"reminderq" = "Секретный вопрос";
+"remindera" = "Ответ на секретный вопрос";
+"email" = "Эл. почта";
+"website" = "Веб-сайт";
+"icq" = "ICQ";
+"skype" = "Skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "Подпись на форуме";
+
+"set.address" = "Адрес";
+"address" = "Адрес";
+"address1" = "Адрес, строка 1";
+"address2" = "Адрес, строка 2";
+"city" = "Город";
+"state" = "Область";
+"zip" = "Почтовый индекс";
+"country" = "Страна";
+"location" = "Местоположение";
+"phone" = "Телефон";
+"defphone" = "Телефон по умолчанию";
+"homephone" = "Домашний";
+"cellphone" = "Сотовый";
+"busphone" = "Рабочй";
+
+"menu.sex." = "";
+"menu.sex.male" = "Мужской";
+"menu.sex.female" = "Женский";

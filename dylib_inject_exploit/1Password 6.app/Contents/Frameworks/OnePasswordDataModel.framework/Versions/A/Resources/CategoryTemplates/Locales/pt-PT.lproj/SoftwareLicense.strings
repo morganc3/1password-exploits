@@ -1,0 +1,22 @@
+"__title__" = "Licença de software";
+"__pluralTitle__" = "Licenças de software";
+"__description__" = "Licença de um software ou chave de um produto";
+
+"set.customer" = "Cliente";
+"set.publisher" = "Editora";
+"set.order" = "Pedido";
+
+"product_name" = "nome do produto";
+"product_version" = "versão";
+"reg_name" = "licenciado a";
+"reg_code" = "chave do produto";
+"reg_email" = "e-mail registado";
+"company" = "empresa";
+"download_link" = "página de descarga";
+"publisher_name" = "editora";
+"retail_price" = "preço";
+"publisher_website" = "site";
+"support_email" = "e-mail do suporte";
+"order_number" = "número do pedido";
+"order_date" = "data da compra";
+"order_total" = "total do pedido";

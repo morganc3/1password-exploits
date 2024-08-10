@@ -1,0 +1,18 @@
+"__title__" = "Carteira de Motorista";
+"__pluralTitle__" = "Carteiras de Motorista";
+
+"fullname" = "Nome completo";
+"address" = "Endereço";
+"birthdate" = "Data de nascimento";
+"sex" = "Sexo";
+"height" = "Altura";
+"number" = "Número";
+"class" = "classe de licença";
+"conditions" = "Condições / Restrições";
+"state" = "Estado";
+"country" = "País";
+"expiry_date" = "Data de validade";
+
+"menu.sex." = "";
+"menu.sex.male" = "Masculino";
+"menu.sex.female" = "Feminino";

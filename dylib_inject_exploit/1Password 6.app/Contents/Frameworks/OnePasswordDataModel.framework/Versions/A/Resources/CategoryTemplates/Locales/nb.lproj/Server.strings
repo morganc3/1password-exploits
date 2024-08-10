@@ -1,0 +1,18 @@
+"__title__" = "Tjener";
+"__pluralTitle__" = "Tjenere";
+
+"set.admin_console" = "Administratorkonsoll";
+"set.hosting_provider_details" = "Husingstilbyder";
+
+"__description__" = "Kontoinformasjon for dedikerte Linux- og FreeBSD-servere, VPS-systemer, osv.";
+
+"url" = "Nettadresse";
+"username" = "Brukernavn";
+"password" = "Passor";
+"admin_console_url" = "Nettaddresse for administratorkonsoll";
+"admin_console_username" = "Brukernavn for administratorkonsoll";
+"admin_console_password" = "Konsollpassord";
+"name" = "Navn";
+"website" = "Nettadresse";
+"support_contact_url" = "Nettadrese for kundeservice";
+"support_contact_phone" = "Telefonnummer for kundeservice";

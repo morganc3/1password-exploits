@@ -1,0 +1,40 @@
+"__title__" = "信用卡";
+"__pluralTitle__" = "信用卡";
+"__description__" = "信用卡信息";
+
+"set.contactInfo" = "联系信息";
+"set.details" = "其他细节";
+
+"cardholder" = "持卡人姓名";
+"type" = "类型";
+"ccnum" = "号码";
+"cvv" = "验证码";
+"expiry" = "有效期";
+"validFrom" = "生效日";
+"bank" = "发卡行";
+"phoneLocal" = "电话（本地）";
+"phoneTollFree" = "电话（免费）";
+"phoneIntl" = "电话（国际）";
+"website" = "网站";
+"pin" = "PIN";
+"creditLimit" = "信用额度";
+"cashLimit" = "取款限额";
+"interest" = "利率";
+"issuenumber" = "发行编号";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "激光卡";
+"menu.type.unionpay" = "银联卡";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

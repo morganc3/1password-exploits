@@ -1,0 +1,20 @@
+"__title__" = "Útlevél";
+"__pluralTitle__" = "Útlevél";
+"__description__" = "útlevél kiállító hatóság.";
+
+"type" = "típus";
+"fullname" = "teljes név";
+"number" = "szám";
+"birthdate" = "születési dátum";
+"birthplace" = "születési hely";
+"nationality" = "nemzetiség";
+"code" = "kód";
+"sex" = "neme";
+"issuing_country" = "kiállító ország";
+"issuing_authority" = "kiállító hatóság";
+"issue_date" = "kiállítva";
+"expiry_date" = "lejárati idő";
+
+"menu.sex." = "";
+"menu.sex.male" = "Férfi";
+"menu.sex.female" = "Nő";

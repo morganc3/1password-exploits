@@ -1,0 +1,45 @@
+
+/* Class = "NSWindow"; title = "Software Update"; ObjectID = "1"; */
+"1.title" = "Software Update";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "5fV-Xf-Nid"; */
+"5fV-Xf-Nid.title" = "Multiline Label";
+
+/* Class = "NSTextFieldCell"; title = "Downloading..."; ObjectID = "I82-cc-eaA"; */
+"I82-cc-eaA.title" = "Downloading...";
+
+/* Class = "NSButtonCell"; title = "Update and Relaunch"; ObjectID = "JBQ-1m-UDi"; */
+"JBQ-1m-UDi.title" = "Update and Relaunch";
+
+/* Class = "NSTextFieldCell"; title = "Application 2.0 is now available. You are currently using version 1.3. Would you like to download and install this new version now?"; ObjectID = "KzL-aL-CmK"; */
+"KzL-aL-CmK.title" = "Application 2.0 is now available. You are currently using version 1.3. Would you like to download and install this new version now?";
+
+/* Class = "NSTextFieldCell"; title = "Ready to update!"; ObjectID = "Mmh-Gk-zzD"; */
+"Mmh-Gk-zzD.title" = "Ready to update!";
+
+/* Class = "NSButtonCell"; title = "Skip This Version"; ObjectID = "OfB-eW-jPK"; */
+"OfB-eW-jPK.title" = "Skip This Version";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "PsE-nV-mEQ"; */
+"PsE-nV-mEQ.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "TZp-oU-4o3"; */
+"TZp-oU-4o3.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Remind Me Later"; ObjectID = "b8U-P8-yFS"; */
+"b8U-P8-yFS.title" = "Remind Me Later";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "f7I-fF-vJu"; */
+"f7I-fF-vJu.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Download Update"; ObjectID = "hMW-P8-apR"; */
+"hMW-P8-apR.title" = "Download Update";
+
+/* Class = "NSTextFieldCell"; title = "Installing..."; ObjectID = "hkS-Px-CTp"; */
+"hkS-Px-CTp.title" = "Installing...";
+
+/* Class = "NSTextFieldCell"; title = "A new version of 1Password is available!"; ObjectID = "mPe-d9-6Se"; */
+"mPe-d9-6Se.title" = "A new version of 1Password is available!";
+
+/* Class = "NSButtonCell"; title = "Try Again"; ObjectID = "u4B-7C-xtD"; */
+"u4B-7C-xtD.title" = "Try Again";

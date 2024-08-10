@@ -1,0 +1,12 @@
+
+/* Class = "NSWindow"; title = "Account Frozen"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Account Frozen";
+
+/* Class = "NSTextFieldCell"; title = "1Password Account Frozen"; ObjectID = "KVT-ai-AWl"; */
+"KVT-ai-AWl.title" = "1Password Account Frozen";
+
+/* Class = "NSButtonCell"; title = "Not Now"; ObjectID = "LEL-Wq-vJK"; */
+"LEL-Wq-vJK.title" = "Not Now";
+
+/* Class = "NSButtonCell"; title = "Update Billing"; ObjectID = "b13-cm-upv"; */
+"b13-cm-upv.title" = "Update Billing";

@@ -1,0 +1,20 @@
+"__title__" = "Паспорт";
+"__pluralTitle__" = "Паспорта";
+"__description__" = "Государственный паспорт";
+
+"type" = "Тип";
+"fullname" = "Полное имя";
+"number" = "Номер";
+"birthdate" = "Дата рождения";
+"birthplace" = "Место рождения";
+"nationality" = "Национальность";
+"code" = "Код";
+"sex" = "Пол";
+"issuing_country" = "Страна выдачи";
+"issuing_authority" = "Орган, выдавший паспорт";
+"issue_date" = "Дата выдачи";
+"expiry_date" = "Срок действия";
+
+"menu.sex." = "";
+"menu.sex.male" = "Мужской";
+"menu.sex.female" = "Женский";

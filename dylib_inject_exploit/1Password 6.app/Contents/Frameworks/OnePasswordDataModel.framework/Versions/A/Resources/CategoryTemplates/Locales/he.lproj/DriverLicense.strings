@@ -1,0 +1,18 @@
+"__title__" = "רישיון נהיגה";
+"__pluralTitle__" = "רשיונות נהיגה";
+
+"fullname" = "שם מלא";
+"address" = "כתובת";
+"birthdate" = "תאריך לידה";
+"sex" = "מין";
+"height" = "גובה";
+"number" = "מספר";
+"class" = "דרגת רישיון";
+"conditions" = "תנאים / הגבלות";
+"state" = "מדינה";
+"country" = "ארץ";
+"expiry_date" = "תאריך תפוגה";
+
+"menu.sex." = "";
+"menu.sex.male" = "זכר";
+"menu.sex.female" = "נקבה";

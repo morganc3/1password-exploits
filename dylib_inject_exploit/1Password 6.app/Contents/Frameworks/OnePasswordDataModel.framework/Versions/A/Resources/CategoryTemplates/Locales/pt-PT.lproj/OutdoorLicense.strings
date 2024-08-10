@@ -1,0 +1,10 @@
+"__title__" = "Licença de caça ou pesca";
+"__pluralTitle__" = "Licenças de caça ou pesca";
+
+"name" = "nome completo";
+"valid_from" = "válido de";
+"expires" = "data de validade";
+"game" = "espécies aprovadas";
+"quota" = "quota máxima";
+"state" = "estado";
+"country" = "país";

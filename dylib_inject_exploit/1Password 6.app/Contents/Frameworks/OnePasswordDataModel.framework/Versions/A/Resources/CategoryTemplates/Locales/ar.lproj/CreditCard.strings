@@ -1,0 +1,40 @@
+"__title__" = "بطاقة الائتمان";
+"__pluralTitle__" = "بطاقة الائتمان";
+"__description__" = "معلومات بطاقة الائتمان";
+
+"set.contactInfo" = "معلومات الاتصال";
+"set.details" = "تفاصيل اضافية";
+
+"cardholder" = "اسم حامل البطاقة";
+"type" = "النوع";
+"ccnum" = "الرقم";
+"cvv" = "رقم التحقق";
+"expiry" = "تاريخ الانتهاء";
+"validFrom" = "صالحة من";
+"bank" = "مصرف الاصدار";
+"phoneLocal" = "الهاتف (محلي";
+"phoneTollFree" = "phone (toll free)";
+"phoneIntl" = "الهاتف(دوليا)";
+"website" = "موقع";
+"pin" = "رقم التعريف الشخصي PIN";
+"creditLimit" = "حد الائتمان";
+"cashLimit" = "حد السحب النقدي";
+"interest" = "سعر الفائدة";
+"issuenumber" = "رقم الإصدار";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "فيزا";
+"menu.type.mc" = "ماستر كارد";
+"menu.type.amex" = "أمريكان إكسبريس";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "اكتشف";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "ماستر كارد مايسترو";
+"menu.type.laser" = "Laser";
+"menu.type.unionpay" = "UnionPay";
+
+"menu.type.visaelectron" = "فيزا إلكترون";
+"menu.type.carteblanche" = "Carte Blanche";

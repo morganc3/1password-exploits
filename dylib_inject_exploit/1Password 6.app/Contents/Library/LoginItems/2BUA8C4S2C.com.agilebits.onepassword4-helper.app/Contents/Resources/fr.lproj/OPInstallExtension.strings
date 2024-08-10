@@ -1,0 +1,14 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Fenêtre";
+
+/* Class = "NSTextFieldCell"; title = "Get the 1Password Safari Extension"; ObjectID = "Cqg-bm-4eR"; */
+"Cqg-bm-4eR.title" = "Téléchargez l'extension 1Password pour Safari";
+
+/* Class = "NSButtonCell"; title = "Get It Now"; ObjectID = "NJB-Pu-2qt"; */
+"NJB-Pu-2qt.title" = "Obtenez-le maintenant";
+
+/* Class = "NSButtonCell"; title = "Install Later"; ObjectID = "njy-MS-PqZ"; */
+"njy-MS-PqZ.title" = "Installer plus tard";
+
+/* Class = "NSTextFieldCell"; title = "Automatically save and submit website logins and never manually fill a credit card or identity form again."; ObjectID = "tFZ-OD-Erq"; */
+"tFZ-OD-Erq.title" = "Enregistrer et soumettre automatiquement les identifiants de sites Web et ne plus jamais remplir manuellement un formulaire d’identité ou de carte de crédit.";

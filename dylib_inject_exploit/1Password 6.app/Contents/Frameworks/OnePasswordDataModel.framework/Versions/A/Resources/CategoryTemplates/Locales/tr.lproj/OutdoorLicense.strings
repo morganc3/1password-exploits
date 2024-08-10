@@ -1,0 +1,10 @@
+"__title__" = "Avcılık Lisans";
+"__pluralTitle__" = "Avcılık Lisans";
+
+"name" = "Tam Ad";
+"valid_from" = "Valid From";
+"expires" = "Expires";
+"game" = "Onaylı Yaban Hayatı";
+"quota" = "En yüksek kota";
+"state" = "State";
+"country" = "Country";

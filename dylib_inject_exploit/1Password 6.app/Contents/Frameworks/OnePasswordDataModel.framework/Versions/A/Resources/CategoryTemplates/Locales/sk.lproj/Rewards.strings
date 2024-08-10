@@ -1,0 +1,14 @@
+"__title__" = "Vernostný program";
+"__pluralTitle__" = "Vernostné programy";
+"__description__" = "Zákaznícke vernostné programy, vrátane častého letca a hotelových odmien";
+
+"company_name" = "názov spoločnosti";
+"member_name" = "členské meno";
+"member_since" = "členom od";
+"membership_no" = "identifikácia člena";
+"additional_no" = "identifikácia člena (ďalšia)";
+"pin" = "PIN";
+"customer_service_phone" = "telefón na zákaznícky servis";
+"reservations_phone" = "telefón pre rezervácie";
+"website" = "webstránka";
+"set.extra" = "Ďalšie informácie";

@@ -1,0 +1,10 @@
+"__title__" = "Lovecký lístek";
+"__pluralTitle__" = "Lovecké lístky";
+
+"name" = "celé jméno";
+"valid_from" = "platnost od";
+"expires" = "platí do";
+"game" = "schválená divoká zvěř";
+"quota" = "maximální kvóta";
+"state" = "stát";
+"country" = "země";

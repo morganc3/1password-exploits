@@ -1,0 +1,23 @@
+"__title__" = "銀行帳號";
+"__pluralTitle__" = "銀行帳號";
+"__description__" = "銀行帳號相關資訊。";
+
+"bankName" = "銀行名稱";
+"owner" = "戶名";
+"accountType" = "類型";
+"routingNo" = "Routing Number";
+"accountNo" = "帳號";
+"swift" = "SWIFT Code";
+"iban" = "IBAN Number";
+"set.branchInfo" = "分行資訊";
+"branchPhone" = "電話";
+"branchAddress" = "地址";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "ATM";
+"menu.accountType.checking" = "支票";
+"menu.accountType.savings" = "儲蓄";
+"menu.accountType.loc" = "信貸額度";
+"menu.accountType.money_market" = "貨幣市場";
+"menu.accountType.other" = "其他";

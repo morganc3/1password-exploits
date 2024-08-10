@@ -1,0 +1,18 @@
+"__title__" = "Ασύρματος Δρομολογητής";
+"__pluralTitle__" = "Ασύρματοι Δρομολογητές";
+"__description__" = "Πληροφορίες λογαριασμού για το Airport Extreme ή άλλους Ασύρματους Δρομολογητές.";
+
+"network_name" = "όνομα δικτύου";
+"name" = "όνομα σταθμού βάσης";
+"password" = "κωδικός σταθμού βάσης";
+"server" = "εξυπηρετητής / διεύθυνση IP";
+"airport_id" = "Airport ID";
+"wireless_security" = "ασφάλεια ασύρματου δικτύου";
+"wireless_password" = "κωδικός ασύρματου δικτύου";
+"disk_password" = "συνημμένος κωδικός αποθήκευσης";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Χωρίς Ασφάλεια";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "Προσωπικό WPA2";
+"menu.wireless_security.wpa2e" = "Επιχειρησιακό WPA2";

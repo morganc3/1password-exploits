@@ -1,0 +1,10 @@
+"__title__" = "Permis de chasse ou pêche";
+"__pluralTitle__" = "Permis de chasse ou pêche";
+
+"name" = "Nom complet";
+"valid_from" = "Valide à partir de";
+"expires" = "Expire le";
+"game" = "Gibier autorisé";
+"quota" = "Quota maximum";
+"state" = "État/province";
+"country" = "Pays";

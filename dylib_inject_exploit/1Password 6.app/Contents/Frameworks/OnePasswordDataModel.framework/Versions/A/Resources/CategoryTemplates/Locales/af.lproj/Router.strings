@@ -1,0 +1,18 @@
+"__title__" = "Koordlose Roeteerder";
+"__pluralTitle__" = "Koordlose Roeteerders";
+"__description__" = "Rekeninginligting vir u AirPort Extreme of ander Koordlose Roeteerders.";
+
+"network_name" = "netwerknaam";
+"name" = "basisstasienaam";
+"password" = "basisstasiewagwoord";
+"server" = "bediener/IP-adres";
+"airport_id" = "AirPort-ID";
+"wireless_security" = "koordlose beveiliging";
+"wireless_password" = "koordlosenetwerkwagwoord";
+"disk_password" = "aangehegtegeheuewagwoord";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Geen Beveiliging";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 Persoonlik";
+"menu.wireless_security.wpa2e" = "WPA2 Maatskappy";

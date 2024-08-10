@@ -1,0 +1,98 @@
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "Vindu";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "Minimer";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "Vindu";
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "1Password Updater"; ObjectID = "56"; */
+"56.title" = "1Password Oppdaterer";
+
+/* Class = "NSMenu"; title = "1Password Updater"; ObjectID = "57"; */
+"57.title" = "1Password Oppdaterer";
+
+/* Class = "NSMenuItem"; title = "About 1Password Updater"; ObjectID = "58"; */
+"58.title" = "Om 1Password-oppdatereren";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "Lukk";
+
+/* Class = "NSMenuItem"; title = "Source"; ObjectID = "83"; */
+"83.title" = "Kilde";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Tjenester";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Tjenester";
+
+/* Class = "NSMenuItem"; title = "Hide 1Password Updater"; ObjectID = "134"; */
+"134.title" = "Skjul 1Password-oppdatereren";
+
+/* Class = "NSMenuItem"; title = "Quit 1Password Updater"; ObjectID = "136"; */
+"136.title" = "Avslutt 1Password-oppdatereren";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Skjul andre";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Vis alle";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "197"; */
+"197.title" = "Kopiér";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "198"; */
+"198.title" = "Marker alt";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "199"; */
+"199.title" = "Klipp ut";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "202"; */
+"202.title" = "Fjern";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "203"; */
+"203.title" = "Lim inn";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "205"; */
+"205.title" = "Rediger";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "207"; */
+"207.title" = "Angre";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "215"; */
+"215.title" = "Gjør om";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "217"; */
+"217.title" = "Rediger";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "Zoom";
+
+/* Class = "NSWindow"; title = "1Password Updater"; ObjectID = "371"; */
+"371.title" = "1Password Oppdaterer";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "490"; */
+"490.title" = "Hjelp";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "491"; */
+"491.title" = "Hjelp";
+
+/* Class = "NSMenuItem"; title = "1Password Updater Help"; ObjectID = "492"; */
+"492.title" = "Hjelp for 1Password-oppdatereren";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "FkW-gM-r2S"; */
+"FkW-gM-r2S.title" = "Ting 2";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "J5h-zs-oi6"; */
+"J5h-zs-oi6.title" = "Ting 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "M15-y2-8vV"; */
+"M15-y2-8vV.title" = "Ting 3";
+
+/* Class = "NSMenu"; title = "Source"; ObjectID = "aky-9I-Qgv"; */
+"aky-9I-Qgv.title" = "Kilde";

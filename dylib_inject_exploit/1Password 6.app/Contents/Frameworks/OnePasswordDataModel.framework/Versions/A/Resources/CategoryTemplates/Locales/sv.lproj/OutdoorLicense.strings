@@ -1,0 +1,10 @@
+"__title__" = "Jaktkort";
+"__pluralTitle__" = "Jaktkort";
+
+"name" = "fullständigt namn";
+"valid_from" = "giltig från";
+"expires" = "sista giltighetsdag";
+"game" = "godkända viltarter";
+"quota" = "maxkvot";
+"state" = "delstat";
+"country" = "land";

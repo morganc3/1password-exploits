@@ -1,0 +1,23 @@
+"__title__" = "Pankkitili";
+"__pluralTitle__" = "Pankkitilit";
+"__description__" = "Pankkitilien tiedot.";
+
+"bankName" = "pankin nimi";
+"owner" = "omistajan nimi";
+"accountType" = "tyyppi";
+"routingNo" = "reititysnumero";
+"accountNo" = "tilinumero";
+"swift" = "SWIFT";
+"iban" = "IBAN";
+"set.branchInfo" = "Konttorin tiedot";
+"branchPhone" = "puhelin";
+"branchAddress" = "osoite";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "Pankkiautomaatti";
+"menu.accountType.checking" = "Käyttötili";
+"menu.accountType.savings" = "Säästötili";
+"menu.accountType.loc" = "Luottotili";
+"menu.accountType.money_market" = "Rahamarkkinat";
+"menu.accountType.other" = "Muu";

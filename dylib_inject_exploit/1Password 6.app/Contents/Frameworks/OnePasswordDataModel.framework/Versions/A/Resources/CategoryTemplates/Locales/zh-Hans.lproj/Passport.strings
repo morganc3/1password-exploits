@@ -1,0 +1,20 @@
+"__title__" = "护照";
+"__pluralTitle__" = "护照";
+"__description__" = "政府签发护照。";
+
+"type" = "类型";
+"fullname" = "全名";
+"number" = "编号";
+"birthdate" = "出生日期";
+"birthplace" = "出生地";
+"nationality" = "国籍";
+"code" = "代码";
+"sex" = "性别";
+"issuing_country" = "签发国家";
+"issuing_authority" = "签发机关";
+"issue_date" = "签发日期";
+"expiry_date" = "有效期";
+
+"menu.sex." = "";
+"menu.sex.male" = "男";
+"menu.sex.female" = "女";

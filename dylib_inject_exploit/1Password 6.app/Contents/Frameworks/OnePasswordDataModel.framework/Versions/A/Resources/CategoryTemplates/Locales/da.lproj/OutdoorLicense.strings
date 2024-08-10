@@ -1,0 +1,10 @@
+"__title__" = "Jagt- & fisketilladelse";
+"__pluralTitle__" = "Jagt- & fisketilladelser";
+
+"name" = "fulde navn";
+"valid_from" = "gyldig fra";
+"expires" = "udløber";
+"game" = "godkendt dyreliv";
+"quota" = "maksimal kvote";
+"state" = "stat";
+"country" = "land";

@@ -1,0 +1,11 @@
+"__title__" = "Cartão de sócio";
+"__pluralTitle__" = "Cartões de sócio";
+"__description__" = "Informações de um cartão de sócio";
+"org_name" = "grupo";
+"phone" = "telefone";
+"website" = "site";
+"member_name" = "nome do membro";
+"member_since" = "membro desde";
+"expiry_date" = "data de validade";
+"membership_no" = "ID de membro";
+"pin" = "palavra-passe";

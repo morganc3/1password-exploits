@@ -1,0 +1,14 @@
+"__title__" = "Bonusprogram";
+"__pluralTitle__" = "Bonusprogram";
+"__description__" = "Bonusprogram, for eksempel for flyselskap og hotell.";
+
+"company_name" = "Firmanavn";
+"member_name" = "Medlemsnavn";
+"member_since" = "Medlem siden";
+"membership_no" = "Medlemsnummer";
+"additional_no" = "Medlemsnummer (ekstra)";
+"pin" = "PIN";
+"customer_service_phone" = "Telefonnummer til kundeservice";
+"reservations_phone" = "telefon for reservasjoner";
+"website" = "Nettsted";
+"set.extra" = "Mer informasjon";

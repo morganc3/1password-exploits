@@ -1,0 +1,26 @@
+/* Class = "NSWindow"; title = "Create New Vault"; ObjectID = "1"; */
+"1.title" = "Luo uusi holvi";
+
+/* Class = "NSTextFieldCell"; title = "The password you enter below will be used to encrypt the data in this vault. You’ll continue to unlock 1Password with your Master Password.\n\nIf you don’t intend to share this vault with anyone, we recommend using your Master Password instead of creating a new one."; ObjectID = "19"; */
+"19.title" = "Salasanaa, jonka syötät alla, käytetään tämän holvin tietojen salaamiseen. Myös jatkossa avaat 1Passwordin pääsalasanallasi.\n\nJos et aio jakaa tätä holvia kenenkään kanssa, suosittelemme, että käytät pääsalasanaa uuden salasanan luomisen sijaan.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter a hint to help you in case you forgot the password."; ObjectID = "50"; */
+"50.placeholderString" = "Kirjoita vihje, joka auttaa sinua, jos unohdat salasanan.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "89"; */
+"89.title" = "Peruuta";
+
+/* Class = "NSButtonCell"; title = "Create New Vault"; ObjectID = "95"; */
+"95.title" = "Luo uusi holvi";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Please type the password."; ObjectID = "105"; */
+"105.placeholderString" = "Syötä salasana.";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Type the password again to confirm."; ObjectID = "111"; */
+"111.placeholderString" = "Syötä salasana uudelleen vahvistukseksi.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Vault Name"; ObjectID = "179"; */
+"179.placeholderString" = "Holvin nimi";
+
+/* Class = "NSTextFieldCell"; title = "Create New Vault"; ObjectID = "304"; */
+"304.title" = "Luo uusi holvi";

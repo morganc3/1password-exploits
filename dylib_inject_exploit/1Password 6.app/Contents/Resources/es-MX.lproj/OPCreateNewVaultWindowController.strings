@@ -1,0 +1,27 @@
+
+/* Class = "NSWindow"; title = "Create New Personal Vault"; ObjectID = "1"; */
+"1.title" = "Create New Personal Vault";
+
+/* Class = "NSTextFieldCell"; title = "Your information will be encrypted with the Master Password you enter below. It is the only password you have to remember.\n\nWe recommend using a sentence that's easy to remember and keeping a copy of it in a safe place."; ObjectID = "19"; */
+"19.title" = "Your information will be encrypted with the Master Password you enter below. It is the only password you have to remember.\n\nWe recommend using a sentence that's easy to remember and keeping a copy of it in a safe place.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter a hint to help you in case you forgot the password."; ObjectID = "50"; */
+"50.placeholderString" = "Enter a hint to help you in case you forgot the password.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "89"; */
+"89.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Create New Vault"; ObjectID = "95"; */
+"95.title" = "Create New Vault";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Please choose your Master Password."; ObjectID = "105"; */
+"105.placeholderString" = "Please choose your Master Password.";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Type Master Password again to confirm."; ObjectID = "111"; */
+"111.placeholderString" = "Type Master Password again to confirm.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Vault Name"; ObjectID = "179"; */
+"179.placeholderString" = "Vault Name";
+
+/* Class = "NSTextFieldCell"; title = "Create New Personal Vault"; ObjectID = "304"; */
+"304.title" = "Create New Personal Vault";

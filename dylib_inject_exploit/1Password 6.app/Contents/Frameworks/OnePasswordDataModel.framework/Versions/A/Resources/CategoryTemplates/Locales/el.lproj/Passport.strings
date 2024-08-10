@@ -1,0 +1,20 @@
+"__title__" = "Διαβατήριο";
+"__pluralTitle__" = "Διαβατήρια";
+"__description__" = "Κυβερνητικό Διαβατήριο.";
+
+"type" = "τύπος";
+"fullname" = "ονοματεπώνυμο";
+"number" = "αριθμός";
+"birthdate" = "ημερομηνία γέννησης";
+"birthplace" = "τόπος γέννησης";
+"nationality" = "εθνικότητα";
+"code" = "κωδικός";
+"sex" = "φύλο";
+"issuing_country" = "εκδούσα χώρα";
+"issuing_authority" = "εκδούσα αρχή";
+"issue_date" = "έκδοση την";
+"expiry_date" = "λήξη";
+
+"menu.sex." = "";
+"menu.sex.male" = "Άνδρας";
+"menu.sex.female" = "Γυναίκα";

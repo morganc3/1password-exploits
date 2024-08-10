@@ -1,0 +1,44 @@
+/* Class = "NSTextFieldCell"; title = "Menu Items"; ObjectID = "0Xd-WX-inQ"; */
+"0Xd-WX-inQ.title" = "Пункты меню";
+
+/* Class = "NSButtonCell"; title = "Verify browser code signature"; ObjectID = "5iy-N0-XZz"; */
+"5iy-N0-XZz.title" = "Проверять подлинность браузера";
+
+/* Class = "NSTextFieldCell"; title = "Integrations"; ObjectID = "63k-i1-Y49"; */
+"63k-i1-Y49.title" = "Интеграция";
+
+/* Class = "NSTextFieldCell"; title = "Export unencrypted item overviews so that application launchers like Alfred, Quicksilver, and LaunchBar can read 1Password bookmarks."; ObjectID = "6YZ-Ac-vZR"; */
+"6YZ-Ac-vZR.title" = "Экспортировать незашифрованные описания элементов, чтобы лаунчеры приложений, например Alfred, Quick Silver или LaunchBar могли использовать закладки 1Password.";
+
+/* Class = "NSTextFieldCell"; title = "Local Vaults"; ObjectID = "JSx-Gq-3Wh"; */
+"JSx-Gq-3Wh.title" = "Локальные сейфы";
+
+/* Class = "NSTextFieldCell"; title = "These items will show up in the Item menu"; ObjectID = "NPZ-7I-9Le"; */
+"NPZ-7I-9Le.title" = "Эти пункты будут отображаться в меню элемента";
+
+/* Class = "NSButtonCell"; title = "Show numbers and symbols first"; ObjectID = "P4R-uf-eUc"; */
+"P4R-uf-eUc.title" = "Сначала показывать числа и символы";
+
+/* Class = "NSButtonCell"; title = "Allow creation of vaults outside of 1Password accounts"; ObjectID = "Rtg-TQ-vhz"; */
+"Rtg-TQ-vhz.title" = "Разрешить создание сейфов вне учётных записей 1Password";
+
+/* Class = "NSButtonCell"; title = "Copy JSON"; ObjectID = "eVS-w3-F41"; */
+"eVS-w3-F41.title" = "Скопировать JSON";
+
+/* Class = "NSTextFieldCell"; title = "Enabling this feature will create a Primary vault on your Mac. You will use the Primary vault to unlock 1Password from now on."; ObjectID = "h0u-7I-S3K"; */
+"h0u-7I-S3K.title" = "Включение этой функции создаст Основной сейф на вашем Mac. Отныне вы будете использовать Основной сейф для разблокировки 1Password.";
+
+/* Class = "NSTextFieldCell"; title = "Sorting"; ObjectID = "iSb-i3-KBY"; */
+"iSb-i3-KBY.title" = "Сортировка";
+
+/* Class = "NSTextFieldCell"; title = "Web Browsers"; ObjectID = "neC-kd-JBx"; */
+"neC-kd-JBx.title" = "Веб-браузеры";
+
+/* Class = "NSButtonCell"; title = "Copy UUID"; ObjectID = "oNn-FF-Ndl"; */
+"oNn-FF-Ndl.title" = "Скопировать UUID";
+
+/* Class = "NSButtonCell"; title = "Enable 3rd party app integrations"; ObjectID = "tin-BV-rCK"; */
+"tin-BV-rCK.title" = "Включить интеграцию со сторонними приложениями";
+
+/* Class = "NSTextFieldCell"; title = "Verify the identity of web browsers for added security. Disable to allow 1Password to communicate with unsigned browsers. Disabling verifications lowers your security."; ObjectID = "tw7-az-pof"; */
+"tw7-az-pof.title" = "Проверять подлинность веб-браузеров для дополнительной безопасности. Отключите, чтобы позволить 1Password связываться с неподписанными браузерами. Отключение проверки понижает вашу безопасность.";

@@ -1,0 +1,56 @@
+"__title__" = "电子邮件账户";
+"__pluralTitle__" = "电子邮件账户";
+"__description__" = "电子邮件账户信息。";
+"pop_username" = "用户名称";
+"pop_password" = "密码";
+"pop_server" = "服务器";
+"pop_type" = "类型";
+"pop_port" = "端口号";
+"pop_security" = "安全";
+"pop_authentication" = "身份验证方法";
+"set.SMTP" = "SMTP";
+"smtp_username" = "用户名称";
+"smtp_password" = "密码";
+"smtp_server" = "SMTP 服务器";
+"smtp_type" = "类型";
+"smtp_port" = "端口号";
+"smtp_security" = "安全";
+"smtp_authentication" = "身份验证方法";
+"set.Contact Information" = "Contact Information";
+"provider" = "服务商";
+"provider_website" = "服务商网站";
+"phone_tollfree" = "电话（免费）";
+"phone_local" = "电话（本地）";
+
+"menu.pop_type." = "";
+"menu.pop_type.pop3" = "POP3";
+"menu.pop_type.imap" = "IMAP";
+"menu.pop_type.either" = "POP3 或 IMAP";
+
+"menu.pop_security." = "";
+"menu.pop_security.none" = "无";
+"menu.pop_security.SSL" = "SSL";
+"menu.pop_security.TLS" = "TLS";
+
+"menu.pop_authentication." = "";
+"menu.pop_authentication.none" = "无";
+"menu.pop_authentication.password" = "密码";
+"menu.pop_authentication.md5_challenge_response" = "MD5 质询响应";
+"menu.pop_authentication.kerberized_pop" = "Kerberos POP (KPOP)";
+"menu.pop_authentication.kerberos_v4" = "Kerberos 版本 4";
+"menu.pop_authentication.kerberos_v5" = "Kerberos 版本 5 (GSSAPI)";
+"menu.pop_authentication.ntlm" = "NTLM";
+
+"menu.smtp_security." = "";
+"menu.smtp_security.none" = "无";
+"menu.smtp_security.SSL" = "SSL";
+"menu.smtp_security.TLS" = "TLS";
+
+"menu.smtp_authentication." = "";
+"menu.smtp_authentication.none" = "无";
+"menu.smtp_authentication.password" = "密码";
+"menu.smtp_authentication.md5_challenge_response" = "MD5 质询响应";
+"menu.smtp_authentication.kerberized_pop" = "Kerberos POP (KPOP)";
+"menu.smtp_authentication.kerberos_v4" = "Kerberos 版本 4";
+"menu.smtp_authentication.kerberos_v5" = "Kerberos 版本 5 (GSSAPI)";
+"menu.smtp_authentication.ntlm" = "NTLM";

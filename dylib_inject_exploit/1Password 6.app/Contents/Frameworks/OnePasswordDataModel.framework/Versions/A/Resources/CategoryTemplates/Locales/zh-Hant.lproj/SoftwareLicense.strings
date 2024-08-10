@@ -1,0 +1,22 @@
+"__title__" = "軟體證明書";
+"__pluralTitle__" = "軟體證明書";
+"__description__" = "產品授權碼、註冊碼或序號";
+
+"set.customer" = "客戶";
+"set.publisher" = "發行商";
+"set.order" = "購買件數";
+
+"product_name" = "產品名稱";
+"product_version" = "版本";
+"reg_name" = "授權給";
+"reg_code" = "授權碼";
+"reg_email" = "註冊的電子郵件信箱";
+"company" = "公司";
+"download_link" = "下載網頁";
+"publisher_name" = "發行商";
+"retail_price" = "市售價";
+"publisher_website" = "網頁";
+"support_email" = "支援服務電子郵件信箱";
+"order_number" = "訂購號碼";
+"order_date" = "購買日期";
+"order_total" = "購買總數";

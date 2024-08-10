@@ -1,0 +1,20 @@
+"__title__" = "Passport";
+"__pluralTitle__" = "Passports";
+"__description__" = "Government issued Passport.";
+
+"type" = "type";
+"fullname" = "full name";
+"number" = "number";
+"birthdate" = "date of birth";
+"birthplace" = "place of birth";
+"nationality" = "nationality";
+"code" = "code";
+"sex" = "sex";
+"issuing_country" = "issuing country";
+"issuing_authority" = "issuing authority";
+"issue_date" = "issued on";
+"expiry_date" = "expiry date";
+
+"menu.sex." = "";
+"menu.sex.male" = "Male";
+"menu.sex.female" = "Female";

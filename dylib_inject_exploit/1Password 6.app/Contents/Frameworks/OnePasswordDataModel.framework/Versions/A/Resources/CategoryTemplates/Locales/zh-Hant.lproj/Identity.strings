@@ -1,0 +1,46 @@
+"__title__" = "身份認證";
+"__pluralTitle__" = "身份認證";
+"__description__" = "It does not really belong to Wallet, we keep it here to generate the detail view.";
+
+"set.name" = "身份證明文件";
+"firstname" = "名";
+"initial" = "縮寫";
+"lastname" = "姓";
+"sex" = "性別";
+"birthdate" = "出生日期";
+"occupation" = "職業";
+"company" = "公司";
+"department" = "部門";
+"jobtitle" = "職稱";
+
+"set.internet" = "網際網路相關資訊";
+"username" = "使用者名稱";
+"reminderq" = "密碼提示問題";
+"remindera" = "密碼提示答案";
+"email" = "Email";
+"website" = "網頁";
+"icq" = "ICQ";
+"skype" = "Skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "論壇專用簽名";
+
+"set.address" = "地址";
+"address" = "地址";
+"address1" = "地址欄一";
+"address2" = "地址欄二";
+"city" = "市 / 鎮";
+"state" = "州 / 縣 / 省";
+"zip" = "郵遞區號";
+"country" = "國家";
+"location" = "地點";
+"phone" = "電話";
+"defphone" = "預設電話號碼";
+"homephone" = "家中電話號碼";
+"cellphone" = "手機號碼";
+"busphone" = "公司電話號碼";
+
+"menu.sex." = "";
+"menu.sex.male" = "男";
+"menu.sex.female" = "女";

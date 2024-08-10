@@ -1,0 +1,23 @@
+"__title__" = "Bankszámlák";
+"__pluralTitle__" = "Bankszámlák";
+"__description__" = "Bankszámla adatok.";
+
+"bankName" = "bank neve";
+"owner" = "fiók tulajdonos neve";
+"accountType" = "típus";
+"routingNo" = "bank azonosító szám";
+"accountNo" = "számlaszám";
+"swift" = "SWIFT";
+"iban" = "IBAN";
+"set.branchInfo" = "Bankfiók adatok";
+"branchPhone" = "telefon";
+"branchAddress" = "cím";
+"telephonePin" = "PIN-kód";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "ATM";
+"menu.accountType.checking" = "Folyószámla";
+"menu.accountType.savings" = "Magtakarítási számla";
+"menu.accountType.loc" = "A hitelkeret";
+"menu.accountType.money_market" = "Pénzpiac";
+"menu.accountType.other" = "Egyéb";

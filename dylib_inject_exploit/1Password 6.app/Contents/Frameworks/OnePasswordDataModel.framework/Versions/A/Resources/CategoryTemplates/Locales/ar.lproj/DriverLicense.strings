@@ -1,0 +1,18 @@
+"__title__" = "رخصة القيادة";
+"__pluralTitle__" = "رخصة القيادة";
+
+"fullname" = "الاسم الكامل";
+"address" = "عنوان";
+"birthdate" = "تاريخ الميلاد";
+"sex" = "الجنس";
+"height" = "الطول";
+"number" = "الرقم";
+"class" = "فئة الرخصة";
+"conditions" = "الشروط /القيود";
+"state" = "الولاية";
+"country" = "البلد";
+"expiry_date" = "تاريخ الانتهاء";
+
+"menu.sex." = "";
+"menu.sex.male" = "ذكر";
+"menu.sex.female" = "أنثى";

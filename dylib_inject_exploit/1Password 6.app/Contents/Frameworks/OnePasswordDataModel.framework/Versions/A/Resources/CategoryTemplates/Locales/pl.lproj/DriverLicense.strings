@@ -1,0 +1,18 @@
+"__title__" = "Prawo jazdy";
+"__pluralTitle__" = "Prawo jazdy";
+
+"fullname" = "Imię i nazwisko";
+"address" = "Adres";
+"birthdate" = "Data urodzenia";
+"sex" = "Płeć";
+"height" = "Wzrost";
+"number" = "Numer";
+"class" = "Klasa licencji";
+"conditions" = "Warunki / ograniczenia";
+"state" = "Stan";
+"country" = "Kraj";
+"expiry_date" = "Termin ważności";
+
+"menu.sex." = "";
+"menu.sex.male" = "Mężczyzna";
+"menu.sex.female" = "Kobieta";

@@ -1,0 +1,18 @@
+"__title__" = "Server";
+"__pluralTitle__" = "Server";
+
+"set.admin_console" = "Admin-Konsole";
+"set.hosting_provider_details" = "Hosting-Provider";
+
+"__description__" = "Kontodaten für dedizierte Linux- und FreeBSD-Server, VPS-Systeme usw.";
+
+"url" = "URL";
+"username" = "Benutzername";
+"password" = "Passwort";
+"admin_console_url" = "URL der Admin-Konsole";
+"admin_console_username" = "Benutzername der Admin-Konsole";
+"admin_console_password" = "Konsolenpasswort";
+"name" = "Name";
+"website" = "Webseite";
+"support_contact_url" = "Support-URL";
+"support_contact_phone" = "Support-Telefon-Nr.";

@@ -1,0 +1,65 @@
+//
+//  AgileLibraryLoggerSettings.h
+//  AgileLibrary
+//
+//  Created by Roustem Karimov on 2014-06-14.
+//  Copyright (c) 2014 AgileBits. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+//
+// Subsystems
+//
+extern BOOL DEBUG_SQLITE;
+extern BOOL DEBUG_DATABASE;
+extern BOOL DEBUG_KEYCHAIN;
+extern BOOL DEBUG_AGILEKEYCHAIN;
+extern BOOL DEBUG_CLOUDKEYCHAIN;
+extern BOOL DEBUG_DROPBOX;
+extern BOOL DEBUG_APP;
+extern BOOL DEBUG_APP_PREFS;
+extern BOOL DEBUG_SYNC;
+extern BOOL DEBUG_RESOURCES;
+extern BOOL DEBUG_IMAGESERVICE;
+
+extern BOOL DEBUG_CRYPTO;
+extern BOOL DEBUG_UTILS;
+
+extern BOOL DEBUG_B5;
+
+extern BOOL DEBUG_UI;
+extern BOOL DEBUG_UI_SIDEBAR;
+extern BOOL DEBUG_UI_LOCK;
+extern BOOL DEBUG_UI_FAVS;
+extern BOOL DEBUG_UI_CATEGORIES;
+extern BOOL DEBUG_UI_ITEMS;
+extern BOOL DEBUG_UI_SYNC;
+extern BOOL DEBUG_URL_HANDLER;
+
+extern BOOL DEBUG_UPDATER;
+
+extern BOOL DEBUG_STORE;
+
+extern BOOL DEBUG_WIFI;
+
+extern BOOL DEBUG_HELPER;
+extern BOOL DEBUG_HOTKEYS;
+extern BOOL DEBUG_XPC;
+
+extern BOOL DEBUG_EXT;
+extern BOOL DEBUG_EXT_UI;
+extern BOOL DEBUG_BRAIN;
+
+extern BOOL DEBUG_EXPORT;
+extern BOOL DEBUG_IMPORT;
+extern BOOL DEBUG_PRINT;
+extern BOOL DEBUG_BACKUP;
+
+extern BOOL DEBUG_WATCH;
+
+extern BOOL DEBUG_REPLICATOR;
+extern BOOL DEBUG_SEARCH;
+
+extern BOOL DEBUG_WEB;
+extern BOOL DEBUG_LOCKSERVICE;

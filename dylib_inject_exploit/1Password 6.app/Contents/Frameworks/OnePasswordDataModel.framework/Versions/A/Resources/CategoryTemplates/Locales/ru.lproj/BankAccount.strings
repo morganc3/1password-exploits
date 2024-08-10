@@ -1,0 +1,23 @@
+"__title__" = "Счет в банке";
+"__pluralTitle__" = "Счета в банке";
+"__description__" = "Данные о счете в банке.";
+
+"bankName" = "Название банка";
+"owner" = "Имя владельца счета";
+"accountType" = "Тип";
+"routingNo" = "Номер отделения";
+"accountNo" = "Номер счета";
+"swift" = "Код SWIFT";
+"iban" = "Номер IBAN";
+"set.branchInfo" = "Информация об отделении";
+"branchPhone" = "Телефон";
+"branchAddress" = "Адрес";
+"telephonePin" = "PIN-код";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "Банкомат";
+"menu.accountType.checking" = "Текущий";
+"menu.accountType.savings" = "Сберегательный";
+"menu.accountType.loc" = "Кредитная линия";
+"menu.accountType.money_market" = "Счет для денежного рынка";
+"menu.accountType.other" = "Другая";

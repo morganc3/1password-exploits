@@ -1,0 +1,14 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Ikkuna";
+
+/* Class = "NSTextFieldCell"; title = "Get the 1Password Safari Extension"; ObjectID = "Cqg-bm-4eR"; */
+"Cqg-bm-4eR.title" = "Lataa 1Passwordin Safari-lisäosa";
+
+/* Class = "NSButtonCell"; title = "Get It Now"; ObjectID = "NJB-Pu-2qt"; */
+"NJB-Pu-2qt.title" = "Lataa nyt";
+
+/* Class = "NSButtonCell"; title = "Install Later"; ObjectID = "njy-MS-PqZ"; */
+"njy-MS-PqZ.title" = "Asenna myöhemmin";
+
+/* Class = "NSTextFieldCell"; title = "Automatically save and submit website logins and never manually fill a credit card or identity form again."; ObjectID = "tFZ-OD-Erq"; */
+"tFZ-OD-Erq.title" = "Tallenna ja täytä verkkosivustojen kirjautumiset, luottokorttitiedot ja henkilöllisyydet automaattisesti.";

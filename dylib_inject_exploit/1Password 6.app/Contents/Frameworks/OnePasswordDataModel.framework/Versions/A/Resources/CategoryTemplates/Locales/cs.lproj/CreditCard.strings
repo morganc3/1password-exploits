@@ -1,0 +1,40 @@
+"__title__" = "Platební karta";
+"__pluralTitle__" = "Platební karty";
+"__description__" = "Informace o platební kartě";
+
+"set.contactInfo" = "Kontaktní informace";
+"set.details" = "Další podrobnosti";
+
+"cardholder" = "jméno držitele";
+"type" = "typ";
+"ccnum" = "číslo";
+"cvv" = "ověřovací číslo";
+"expiry" = "datum expirace";
+"validFrom" = "platnost od";
+"bank" = "vydávající banka";
+"phoneLocal" = "telefon (místní)";
+"phoneTollFree" = "phone (toll free)";
+"phoneIntl" = "telefon (mezinárodní)";
+"website" = "web";
+"pin" = "KÓD PIN";
+"creditLimit" = "úvěrový limit";
+"cashLimit" = "limit výběru v hotovosti";
+"interest" = "úroková sazba";
+"issuenumber" = "číslo vydání";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "Laser";
+"menu.type.unionpay" = "UnionPay";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

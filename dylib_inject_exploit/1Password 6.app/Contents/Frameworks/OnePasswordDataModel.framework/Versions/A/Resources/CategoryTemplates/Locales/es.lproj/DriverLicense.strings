@@ -1,0 +1,18 @@
+"__title__" = "Carnet de conducir";
+"__pluralTitle__" = "Carnés de conducir";
+
+"fullname" = "Nombre completo";
+"address" = "Dirección";
+"birthdate" = "Fecha de nacimiento";
+"sex" = "Sexo";
+"height" = "Altura";
+"number" = "Número";
+"class" = "Tipo de carné";
+"conditions" = "Condiciones/restricciones";
+"state" = "Estado";
+"country" = "País";
+"expiry_date" = "Fecha de caducidad";
+
+"menu.sex." = "";
+"menu.sex.male" = "Varón";
+"menu.sex.female" = "Mujer";

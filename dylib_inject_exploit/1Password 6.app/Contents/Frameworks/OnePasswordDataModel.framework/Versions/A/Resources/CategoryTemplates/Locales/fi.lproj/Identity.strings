@@ -1,0 +1,46 @@
+"__title__" = "Henkilöllisyys";
+"__pluralTitle__" = "Henkilöllisyydet";
+"__description__" = "Henkilöllisyydet";
+
+"set.name" = "Tunnistautuminen";
+"firstname" = "etunimi";
+"initial" = "nimikirjain";
+"lastname" = "sukunimi";
+"sex" = "sukupuoli";
+"birthdate" = "syntymäaika";
+"occupation" = "ammatti";
+"company" = "yritys";
+"department" = "osasto";
+"jobtitle" = "tehtävänimike";
+
+"set.internet" = "internet-tiedot";
+"username" = "käyttäjätunnus";
+"reminderq" = "varakysymys";
+"remindera" = "varakysymyksen vastaus";
+"email" = "sähköposti";
+"website" = "sivusto";
+"icq" = "ICQ";
+"skype" = "skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "foorumin allekirjoitus";
+
+"set.address" = "Osoite";
+"address" = "osoite";
+"address1" = "osoiterivi 1";
+"address2" = "osoiterivi 2";
+"city" = "kaupunki/kaupunginosa";
+"state" = "osavaltio/maakunta";
+"zip" = "postinumero";
+"country" = "maa";
+"location" = "sijainti";
+"phone" = "puhelin";
+"defphone" = "oletuspuhelin";
+"homephone" = "koti";
+"cellphone" = "matkapuhelin";
+"busphone" = "yritys";
+
+"menu.sex." = "";
+"menu.sex.male" = "Mies";
+"menu.sex.female" = "Nainen";

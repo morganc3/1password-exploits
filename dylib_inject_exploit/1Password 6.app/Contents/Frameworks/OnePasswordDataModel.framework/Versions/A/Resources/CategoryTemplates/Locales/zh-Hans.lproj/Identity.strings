@@ -1,0 +1,46 @@
+"__title__" = "身份标识";
+"__pluralTitle__" = "身份标识";
+"__description__" = "Identities";
+
+"set.name" = "身份标识";
+"firstname" = "名字";
+"initial" = "姓名缩写";
+"lastname" = "姓氏";
+"sex" = "性别";
+"birthdate" = "出生日期";
+"occupation" = "职业";
+"company" = "公司";
+"department" = "部门";
+"jobtitle" = "职位";
+
+"set.internet" = "互联网详情";
+"username" = "用户名称";
+"reminderq" = "提示问题";
+"remindera" = "提示问题答案";
+"email" = "电子邮件";
+"website" = "网站";
+"icq" = "ICQ";
+"skype" = "Skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "论坛签名";
+
+"set.address" = "地址";
+"address" = "地址";
+"address1" = "地址行 1";
+"address2" = "地址行 2";
+"city" = "市/镇/郊区";
+"state" = "州/省";
+"zip" = "邮编";
+"country" = "国家";
+"location" = "位置";
+"phone" = "电话";
+"defphone" = "默认电话";
+"homephone" = "家庭";
+"cellphone" = "手机";
+"busphone" = "办公";
+
+"menu.sex." = "";
+"menu.sex.male" = "男";
+"menu.sex.female" = "女";

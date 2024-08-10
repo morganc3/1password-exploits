@@ -1,0 +1,40 @@
+"__title__" = "Bankkártya";
+"__pluralTitle__" = "Bankkártyák";
+"__description__" = "Bankkártya adatok";
+
+"set.contactInfo" = "Elérhetőségi adatok";
+"set.details" = "További adatok";
+
+"cardholder" = "kártyatulajdonos neve";
+"type" = "típus";
+"ccnum" = "szám";
+"cvv" = "azonosítási szám";
+"expiry" = "lejárati idő";
+"validFrom" = "kibocsátási idő";
+"bank" = "kibocsátó bank";
+"phoneLocal" = "telefon (helyi)";
+"phoneTollFree" = "telefon (mobil)";
+"phoneIntl" = "telefon (nemzetközi)";
+"website" = "weboldal";
+"pin" = "PIN";
+"creditLimit" = "hitelkeret";
+"cashLimit" = "készpénz felvételi limit";
+"interest" = "kamatláb";
+"issuenumber" = "biztonsági szám";
+
+/* credit card types */
+"menu.type." = "";
+"menu.type.visa" = "VISA";
+"menu.type.mc" = "MasterCard";
+"menu.type.amex" = "American Express";
+"menu.type.diners" = "Diners Club";
+"menu.type.discover" = "Discover";
+"menu.type.jcb" = "JCB";
+"menu.type.solo" = "Solo";
+"menu.type.switch" = "Switch";
+"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.laser" = "Laser";
+"menu.type.unionpay" = "UnionPay";
+
+"menu.type.visaelectron" = "VISA Electron";
+"menu.type.carteblanche" = "Carte Blanche";

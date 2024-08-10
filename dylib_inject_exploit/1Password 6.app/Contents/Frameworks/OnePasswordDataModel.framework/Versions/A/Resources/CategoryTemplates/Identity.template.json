@@ -1,0 +1,55 @@
+{
+	"uuid":"004",
+	"localized":"yes",
+    "hidden":"yes",
+	"availability":"always",
+	"icons": {
+		"list":"type-identity-list",
+		"detail":"type-identity-details"
+	},
+	"contents":[
+		{
+			"set":"name",
+			"fields":[
+				{ "name":"firstname", "type":"string", "attributes": { "guarded":"yes" }, "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"initial", "type":"string", "attributes": { "guarded":"yes" }, "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"lastname", "type":"string", "attributes": { "guarded":"yes" }, "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"sex", "type":"menu", "menuitems":["male","female"], "attributes": { "guarded":"yes" } },
+				{ "name":"birthdate", "type":"date", "attributes": { "guarded":"yes" } },
+				{ "name":"occupation", "type":"string", "attributes": { "guarded":"yes" }, "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"company", "type":"string", "attributes": { "guarded":"yes" }, "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"department", "type":"string", "attributes": { "guarded":"yes" }, "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"jobtitle", "type":"string", "attributes": { "guarded":"yes" }, "inputTraits" : { "autocapitalization" : "Words" } }
+			]
+		},
+
+		{
+		"set":"address",
+		"fields":[
+					{ "name":"address", "type":"address", "attributes": { "guarded":"yes" }, "inputTraits" : { "autocapitalization" : "Sentences" } },
+					{ "name":"defphone", "type":"phone", "attributes": { "guarded":"yes" } },
+					{ "name":"homephone", "type":"phone", "attributes": { "guarded":"yes" } },
+					{ "name":"cellphone", "type":"phone", "attributes": { "guarded":"yes" } },
+					{ "name":"busphone", "type":"phone", "attributes": { "guarded":"yes" } }
+				  ]
+		},
+		
+		{
+			"set":"internet",
+			"fields":[
+				{ "name":"username", "type":"string", "attributes": { "guarded":"yes" } },
+				{ "name":"reminderq", "type":"string" },
+				{ "name":"remindera", "type":"string" },
+				{ "name":"email", "type":"string", "attributes": { "guarded":"yes" }, "inputTraits" : { "keyboard": "EmailAddress" } },
+				{ "name":"website", "type":"string", "inputTraits" : { "keyboard": "URL" } },
+				{ "name":"icq", "type":"string" },
+				{ "name":"skype", "type":"string" },
+				{ "name":"aim", "type":"string" },
+				{ "name":"yahoo", "type":"string" },
+				{ "name":"msn", "type":"string" },
+				{ "name":"forumsig", "type":"string" }
+			]
+		}
+		
+	]
+}

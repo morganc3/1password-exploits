@@ -1,0 +1,18 @@
+"__title__" = "Router senza fili";
+"__pluralTitle__" = "Router senza fili";
+"__description__" = "Informazioni sull'account per AirPort Extreme e altri router senza fili.";
+
+"network_name" = "Nome della rete";
+"name" = "Nome stazione base";
+"password" = "Password stazione base";
+"server" = "Server / Indirizzo IP";
+"airport_id" = "Nome utente AirPort";
+"wireless_security" = "Protezione wireless";
+"wireless_password" = "Password rete senza fili";
+"disk_password" = "Password dispositivo collegato";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Nessuna protezione";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 Personale";
+"menu.wireless_security.wpa2e" = "WPA2 Aziendale";

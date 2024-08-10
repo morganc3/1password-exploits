@@ -1,0 +1,23 @@
+"__title__" = "Compte bancari";
+"__pluralTitle__" = "Comptes bancaris";
+"__description__" = "Info. del compte bancari.";
+
+"bankName" = "nom del Banc";
+"owner" = "nom al compte";
+"accountType" = "tipus";
+"routingNo" = "núm. d'encaminament";
+"accountNo" = "núm. de compte";
+"swift" = "SWIFT";
+"iban" = "IBAN";
+"set.branchInfo" = "Informació de branca";
+"branchPhone" = "telèfon";
+"branchAddress" = "adreça";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "ATM";
+"menu.accountType.checking" = "Comprovant";
+"menu.accountType.savings" = "Estalvis";
+"menu.accountType.loc" = "Línia de crèdit";
+"menu.accountType.money_market" = "Mercat monetari";
+"menu.accountType.other" = "Altres";

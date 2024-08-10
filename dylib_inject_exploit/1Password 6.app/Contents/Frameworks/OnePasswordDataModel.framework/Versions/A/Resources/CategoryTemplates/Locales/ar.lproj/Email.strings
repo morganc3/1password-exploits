@@ -1,0 +1,56 @@
+"__title__" = "البريد الالكتروني";
+"__pluralTitle__" = "البريد الالكتروني";
+"__description__" = "بيانات البريد الالكتروني";
+"pop_username" = "اسم المستخدم";
+"pop_password" = "كلمة المرور";
+"pop_server" = "الخادم";
+"pop_type" = "النوع";
+"pop_port" = "رقم المنفذ";
+"pop_security" = "الامن";
+"pop_authentication" = "auth​ method";
+"set.SMTP" = "SMTP";
+"smtp_username" = "اسم المستخدم";
+"smtp_password" = "كلمة المرور";
+"smtp_server" = "خادم SMTP";
+"smtp_type" = "النوع";
+"smtp_port" = "رقم المنفذ";
+"smtp_security" = "الامن";
+"smtp_authentication" = "auth​ method";
+"set.Contact Information" = "Contact Information";
+"provider" = "مزود الخدمه";
+"provider_website" = "موقع مزود الخدمه";
+"phone_tollfree" = "phone (toll free)";
+"phone_local" = "phone (local)";
+
+"menu.pop_type." = "";
+"menu.pop_type.pop3" = "POP3";
+"menu.pop_type.imap" = "IMAP";
+"menu.pop_type.either" = "اما POP3 او IMAP";
+
+"menu.pop_security." = "";
+"menu.pop_security.none" = "لا يوجد";
+"menu.pop_security.SSL" = "SSL";
+"menu.pop_security.TLS" = "TLS";
+
+"menu.pop_authentication." = "";
+"menu.pop_authentication.none" = "لا يوجد";
+"menu.pop_authentication.password" = "كلمة المرور";
+"menu.pop_authentication.md5_challenge_response" = "استجابة MD5";
+"menu.pop_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+"menu.pop_authentication.kerberos_v4" = "Kerberos Version 4";
+"menu.pop_authentication.kerberos_v5" = "Kerberos Version 5 (GSSAPI)";
+"menu.pop_authentication.ntlm" = "NTLM";
+
+"menu.smtp_security." = "";
+"menu.smtp_security.none" = "لا يوجد";
+"menu.smtp_security.SSL" = "SSL";
+"menu.smtp_security.TLS" = "TLS";
+
+"menu.smtp_authentication." = "";
+"menu.smtp_authentication.none" = "لا يوجد";
+"menu.smtp_authentication.password" = "كلمة المرور";
+"menu.smtp_authentication.md5_challenge_response" = "استجابة MD5";
+"menu.smtp_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+"menu.smtp_authentication.kerberos_v4" = "Kerberos Version 4";
+"menu.smtp_authentication.kerberos_v5" = "Kerberos Version 5 (GSSAPI)";
+"menu.smtp_authentication.ntlm" = "NTLM";

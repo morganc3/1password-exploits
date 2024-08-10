@@ -1,0 +1,26 @@
+{
+	"uuid":"105",
+	"localized":"yes",
+    "subtitle":"member_name",
+	"icons": {
+		"list":"type-membership-list",
+		"detail":"type-membership-details"
+	},
+	"contents":[
+		{
+			"set":"",
+			"disclosed":"yes",
+			"fields":[
+				{ "name":"org_name", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"website", "type":"URL" },
+				{ "name":"phone", "type":"phone" },
+				
+				{ "name":"member_name", "type":"string", "inputTraits" : { "autocapitalization" : "Words" } },
+				{ "name":"member_since", "type":"monthYear" },
+				{ "name":"expiry_date", "type":"monthYear" },
+				{ "name":"membership_no", "type":"string", "inputTraits" : { "autocorrection" : "no" } },
+				{ "name":"pin", "type":"concealed", "inputTraits" : { "keyboard": "NumberPad" } }
+			]
+		}
+	]
+}

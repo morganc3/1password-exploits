@@ -1,0 +1,46 @@
+"__title__" = "Tożsamość";
+"__pluralTitle__" = "Tożsamość";
+"__description__" = "To naprawdę nie należy do Portfela, zachowamy to w tym miejscu, aby wygenerować widok szczegółowy.";
+
+"set.name" = "Dane identyfikacyjne";
+"firstname" = "Imię";
+"initial" = "Inicjały";
+"lastname" = "Nazwisko";
+"sex" = "Płeć";
+"birthdate" = "Data urodzin";
+"occupation" = "Stanowisko";
+"company" = "Firma";
+"department" = "Oddział";
+"jobtitle" = "Stanowisko";
+
+"set.internet" = "Szczegóły internetowe";
+"username" = "Nazwa użytkownika";
+"reminderq" = "Pytanie kontrolne";
+"remindera" = "Odpowiedź";
+"email" = "e-mail";
+"website" = "Witryna";
+"icq" = "ICQ";
+"skype" = "Skype";
+"aim" = "AOL/AIM";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "Podpis na forum";
+
+"set.address" = "Adres";
+"address" = "adres";
+"address1" = "Adres 1";
+"address2" = "Adres 2";
+"city" = "Miejscowość";
+"state" = "Województwo";
+"zip" = "Kod pocztowy";
+"country" = "Kraj";
+"location" = "Lokalizacja";
+"phone" = "Telefon";
+"defphone" = "Telefon domyślny";
+"homephone" = "Domowy";
+"cellphone" = "Komórka";
+"busphone" = "Służbowy";
+
+"menu.sex." = "";
+"menu.sex.male" = "Mężczyzna";
+"menu.sex.female" = "Kobieta";

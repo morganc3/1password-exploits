@@ -1,0 +1,25 @@
+"__title__" = "پایگاه داده";
+"__pluralTitle__" = "پایگاه داده";
+"__description__" = "اطلاعات اتصال به دیتابیس.";
+
+"hostname" = "سرور";
+"port" = "درگاه";
+"database" = "پایگاه داده";
+"database_type" = "نوع";
+"username" = "نام کاربری";
+"password" = "گذرواژه";
+"sid" = "SID";
+"alias" = "نام مستعار";
+"options" = "تنظیمات اتصال";
+
+"menu.database_type." = "";
+"menu.database_type.db2" = "DB2";
+"menu.database_type.filemaker" = "فایل ساز";
+"menu.database_type.msaccess" = "مایکروسافت اکسس";
+"menu.database_type.mssql" = "MS SQL Server";
+"menu.database_type.mysql" = "MySQL";
+"menu.database_type.oracle" = "اوراکل";
+"menu.database_type.postresql" = "PostgreSQL";
+"menu.database_type.postgresql" = "PostgreSQL";
+"menu.database_type.sqlite" = "SQLite";
+"menu.database_type.other" = "دیگر";

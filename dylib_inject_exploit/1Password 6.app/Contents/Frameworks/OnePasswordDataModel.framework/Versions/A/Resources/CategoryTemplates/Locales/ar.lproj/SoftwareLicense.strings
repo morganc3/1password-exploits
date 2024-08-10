@@ -1,0 +1,22 @@
+"__title__" = "رخصة البرنامج";
+"__pluralTitle__" = "رخصة البرنامج";
+"__description__" = "رخصة تسجيل البرنامج، رمز التسجيل او الرقم التسلسلي.";
+
+"set.customer" = "Customer";
+"set.publisher" = "الناشر";
+"set.order" = "الطلب";
+
+"product_name" = "أسم المنتج";
+"product_version" = "الإصدار";
+"reg_name" = "مرخص إلى";
+"reg_code" = "مفتاح الترخيص";
+"reg_email" = "الإيميل المسجل";
+"company" = "الشركة";
+"download_link" = "صفحة التحميل";
+"publisher_name" = "الناشر";
+"retail_price" = "سعر البيع بالتجزئة";
+"publisher_website" = "موقع";
+"support_email" = "الإيميل المساعد";
+"order_number" = "رقم الطلب";
+"order_date" = "تاريخ الشراء";
+"order_total" = "مجموع الطلب";

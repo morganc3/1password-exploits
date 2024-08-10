@@ -1,0 +1,18 @@
+"__title__" = "Thiết bị Wi-Fi";
+"__pluralTitle__" = "Các thiết bị Wi-Fi";
+"__description__" = "Thông tin tài khoản cho Airport Extreme hoặc thiết bị Wi-Fi khác.";
+
+"network_name" = "Tên mạng";
+"name" = "Tên đăng nhập thiết bị";
+"password" = "Mật khẩu thiết bị";
+"server" = "Máy chủ / địa chỉ IP";
+"airport_id" = "Tài khoản AirPort";
+"wireless_security" = "Bảo mật Wi-Fi";
+"wireless_password" = "Mật khẩu mạng không dây";
+"disk_password" = "Mật khẩu của thiết bị lưu trữ";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Không có bảo mật";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA Cá nhân";
+"menu.wireless_security.wpa2e" = "WPA2 Doanh nghiệp";

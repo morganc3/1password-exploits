@@ -1,0 +1,20 @@
+"__title__" = "Passport";
+"__pluralTitle__" = "Passports";
+"__description__" = "Government issued Passport.";
+
+"type" = "Type";
+"fullname" = "Повне ім'я";
+"number" = "Number";
+"birthdate" = "Дата народження";
+"birthplace" = "Place of Birth";
+"nationality" = "Nationality";
+"code" = "Code";
+"sex" = "Стать";
+"issuing_country" = "Issuing Country";
+"issuing_authority" = "Issuing Authority";
+"issue_date" = "Issued On";
+"expiry_date" = "Expiry Date";
+
+"menu.sex." = "";
+"menu.sex.male" = "Чоловік";
+"menu.sex.female" = "Жінка";

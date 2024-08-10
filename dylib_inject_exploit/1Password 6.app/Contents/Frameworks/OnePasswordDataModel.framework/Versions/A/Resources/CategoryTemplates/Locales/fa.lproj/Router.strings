@@ -1,0 +1,18 @@
+"__title__" = "روتر بی سیم";
+"__pluralTitle__" = "روتر بی سیم";
+"__description__" = "اطلاعات حساب برای AirPort Extreme یا دیگر روترهای بی سیم.";
+
+"network_name" = "نام شبکه";
+"name" = "نام ایستگاه پایه";
+"password" = "گذرواژه ایستگاه پایه";
+"server" = "سرور / آدرس IP";
+"airport_id" = "شناسه AirPort";
+"wireless_security" = "امنیت بی سیم";
+"wireless_password" = "گذرواژه شبکه بی سیم";
+"disk_password" = "پسورد دخیره پیوست شده";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "بدون امنیت";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 شخصی";
+"menu.wireless_security.wpa2e" = "WPA2 شرکت";

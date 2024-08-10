@@ -1,0 +1,22 @@
+"__title__" = "Licence de logiciel";
+"__pluralTitle__" = "Licences du logiciel";
+"__description__" = "Licence de logiciel, code d'enregistrement ou n° de série.";
+
+"set.customer" = "Client";
+"set.publisher" = "Éditeur";
+"set.order" = "Commande";
+
+"product_name" = "nom du produit";
+"product_version" = "version";
+"reg_name" = "accordée à";
+"reg_code" = "clé de licence";
+"reg_email" = "e-mail enregistré";
+"company" = "société";
+"download_link" = "page de téléchargement";
+"publisher_name" = "éditeur";
+"retail_price" = "prix public";
+"publisher_website" = "site Web";
+"support_email" = "e-mail assistance";
+"order_number" = "commande n°";
+"order_date" = "date d'achat";
+"order_total" = "total de la commande";

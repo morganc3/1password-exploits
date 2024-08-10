@@ -1,0 +1,14 @@
+"__title__" = "마일리지 프로그램";
+"__pluralTitle__" = "마일리지 프로그램";
+"__description__" = "고객 마일리지 프로그램 (항공사 및 호텔 등)";
+
+"company_name" = "회사명";
+"member_name" = "회원명";
+"member_since" = "가입일";
+"membership_no" = "회원번호";
+"additional_no" = "회원번호 (추가)";
+"pin" = "PIN";
+"customer_service_phone" = "고객센터 전화번호";
+"reservations_phone" = "예약 전화";
+"website" = "웹사이트";
+"set.extra" = "기타 정보";

@@ -1,0 +1,46 @@
+"__title__" = "هوية";
+"__pluralTitle__" = "هوية";
+"__description__" = "It does not really belong to Wallet, we keep it here to generate the detail view.";
+
+"set.name" = "Identification";
+"firstname" = "الاسم الأول";
+"initial" = "Initial";
+"lastname" = "اسم العائلة";
+"sex" = "الجنس";
+"birthdate" = "تاريخ الميلاد";
+"occupation" = "المهنة";
+"company" = "الشركة";
+"department" = "الإداة\\القسم";
+"jobtitle" = "المسمى الوظيفي";
+
+"set.internet" = "تفاصيل الانترنت";
+"username" = "اسم المستخدم";
+"reminderq" = "سؤال التذكير";
+"remindera" = "إجابة التذكير";
+"email" = "البريد الشبكي";
+"website" = "موقع";
+"icq" = "ICQ";
+"skype" = "Skype";
+"aim" = "AOL/AIM\n";
+"yahoo" = "Yahoo";
+"msn" = "MSN";
+"forumsig" = "Forum Signature";
+
+"set.address" = "عنوان";
+"address" = "address";
+"address1" = "العنوان ١";
+"address2" = "العنوان ٢";
+"city" = "المدينة/البلدة/الضاحية";
+"state" = "State/Province";
+"zip" = "Zip/Postal Code";
+"country" = "البلد";
+"location" = "موقع";
+"phone" = "الهاتف";
+"defphone" = "الهاتف الافتراضي";
+"homephone" = "هاتف المنزل";
+"cellphone" = "الموبايل";
+"busphone" = "هاتف العمل";
+
+"menu.sex." = "";
+"menu.sex.male" = "ذكر";
+"menu.sex.female" = "أنثى";

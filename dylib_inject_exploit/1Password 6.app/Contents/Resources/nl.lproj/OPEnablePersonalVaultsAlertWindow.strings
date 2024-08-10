@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "KIH-d6-nSb"; */
+"KIH-d6-nSb.title" = "Hoofdwachtwoord";
+
+/* Class = "NSTextFieldCell"; title = "A Primary vault will be created on your Mac. You’ll also be able to create additional vaults, and sync with data outside of your 1Password accounts."; ObjectID = "UC4-78-DGS"; */
+"UC4-78-DGS.title" = "Een Primaire kluis wordt aangemaakt op uw Mac. U kunt meerdere kluizen aanmaken en deze synchroniseren met gegevens buiten uw 1Password accounts.";
+
+/* Class = "NSButtonCell"; title = "Create Primary Vault"; ObjectID = "Vzz-Dt-cui"; */
+"Vzz-Dt-cui.title" = "Maak Primaire Kluis";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "o7M-QT-MXk"; */
+"o7M-QT-MXk.title" = "Annuleer";
+
+/* Class = "NSTextFieldCell"; title = "Enter your Master Password"; ObjectID = "sbx-0B-C2Z"; */
+"sbx-0B-C2Z.title" = "Voer uw Hoofdwachtwoord in";

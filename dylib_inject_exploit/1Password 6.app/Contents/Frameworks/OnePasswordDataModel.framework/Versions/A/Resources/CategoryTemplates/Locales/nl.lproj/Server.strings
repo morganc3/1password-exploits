@@ -1,0 +1,18 @@
+"__title__" = "Server";
+"__pluralTitle__" = "Servers";
+
+"set.admin_console" = "Beheerconsole";
+"set.hosting_provider_details" = "Hostingprovider";
+
+"__description__" = "Accountgegevens voor dedicated Linux- en FreeBSD-servers, VPS-systemen, enz.";
+
+"url" = "URL";
+"username" = "gebruikersnaam";
+"password" = "wachtwoord";
+"admin_console_url" = "URL beheerconsole";
+"admin_console_username" = "gebruikersnaam beheerconsole";
+"admin_console_password" = "wachtwoord beheerconsole";
+"name" = "naam";
+"website" = "website";
+"support_contact_url" = "ondersteunings-URL";
+"support_contact_phone" = "ondersteuningstelefoon";

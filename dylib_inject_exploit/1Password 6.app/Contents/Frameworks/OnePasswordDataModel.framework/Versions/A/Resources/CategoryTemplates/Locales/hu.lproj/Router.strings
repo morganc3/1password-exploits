@@ -1,0 +1,18 @@
+"__title__" = "Vezeték nélküli router";
+"__pluralTitle__" = "Vezeték nélküli routerek";
+"__description__" = "Adatok az AirPort Extreme vagy más vezeték nélküli router számára.";
+
+"network_name" = "hálózati név";
+"name" = "bázisállomás neve";
+"password" = "bázisállomás jelszó";
+"server" = "szerver / IP cím";
+"airport_id" = "AirPort ID";
+"wireless_security" = "vezeték nélküli biztonság";
+"wireless_password" = "vezeték nélküli hálózati jelszó";
+"disk_password" = "csatolt tároló jelszava";
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Nincs biztonság";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 Personal";
+"menu.wireless_security.wpa2e" = "WPA2 Enterprise";
